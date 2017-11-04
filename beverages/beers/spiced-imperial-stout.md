@@ -30,10 +30,8 @@ Mash - 40min
 * Sparge Water: 1.76 gal, 168ºF
 
 Boil - 60min
-1. @ start
-  * 2oz Pearle hops and honey in boil to start
-2. @ 15min
-  * add allspice, orange peel, cinnamon, ginger
+* 2oz Pearle hops and honey in boil to start @ start
+* add allspice, orange peel, cinnamon, ginger @ 15min
 
 Dry Hop
 * 1 oz Fuggles 4.5% for 3 days
