@@ -7,7 +7,8 @@ Stuffing:
 * 2 cups sliced cremini mushroom caps
 * 1½ cups shredded Comté or Gruyère cheese, at room temperature
 * Fresh thyme leaves
-* Bread
+
+Bread:
 * 3½ cups white bread flour, plus extra as needed
 * 1½ teaspoons fine sea salt
 * 1½ teaspoons instant dry yeast
