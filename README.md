@@ -37,6 +37,9 @@ Ferment
 OG:  
 FG:  
 ABV:  
+ 
+## Reference
+*
 ```
 ### non-beer template
 ```
