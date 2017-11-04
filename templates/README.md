@@ -1,7 +1,20 @@
 # Templates
 There are two different templates so far: one for beer, and one for everything else.
 
-## beer template
+## [main template](main-template.md)
+```
+# Title
+
+## Ingredients
+* 
+
+## Directions
+* 
+
+## Reference
+* 
+```
+## [beer template](beer-template.md)
 ```
 # Title
  
@@ -35,17 +48,4 @@ ABV:
  
 ## Reference
 *
-```
-## non-beer template
-```
-# Title
-
-## Ingredients
-* 
-
-## Directions
-* 
-
-## Reference
-* 
 ```
