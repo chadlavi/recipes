@@ -37,9 +37,9 @@ Dry Hop
 * 1 oz Fuggles 4.5% for 3 days
 
 ## Specs
-* Est Original Gravity: 1.093 SG
-* Est Final Gravity: 1.022 SG
-* Estimated Alcohol by Vol: 9.38 % 
+OG: 1.093 SG  
+FG: 1.022 SG  
+ABV: 9.38% 
 
 ## Reference
 * www.beersmith.com/Recipes2/recipe_321.htm
