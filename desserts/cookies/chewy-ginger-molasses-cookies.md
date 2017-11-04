@@ -1,4 +1,4 @@
-# Chewy Ginger Molasses Cookies
+# Vegan Chewy Ginger Molasses Cookies
 Makes about 30 cookies.
 
 ## Ingredients

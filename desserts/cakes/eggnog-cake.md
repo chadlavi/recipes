@@ -10,6 +10,7 @@
 * 2 tablespoons butter 
 * 4 3/4 oz sliced (the flat ones) almonds, though 2.5 oz might be more reasonable, because if you pile them up more they may cook/toast/burn. 
 
+## Directions
 1. Combine all the ingredients except 2 Tablespoons butter and almonds; beat 4 minutes on medium speed. 
 
 2. Grease a bundt pan with 2 Tablespoons butter, press almonds on bottom and sides of pan 
