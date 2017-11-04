@@ -1,4 +1,4 @@
-## The Simplest Brioche (1 loaf, mold 10 ” long)
+## The Simplest Brioche (1 loaf, mold 10" long)
 
 ## Ingredients
 * 8 3/4 oz (1 2/3 cups) all-purpose flour
@@ -17,7 +17,7 @@
 4.  Then one by one, add the eggs, mixing well between each. Work the dough until it is elastic and detaches from your fingers more easily (or from the bowl of the stand mixer).
 5.  Cover and let rest in a warm place, away from drafts, for two hours, until it doubles in size.
 6.  Work the dough again for 10 min and divide it in four balls. Place them in a greased rectangular mold and cover. Let rise for an hour again.
-7.  Preheat the oven at 400 F.
+7.  Preheat the oven at 400ºF.
 8.  Brush the brioche with the egg yolk mixed with a dash of sugar. With a pair of scissors, make small cuts at the top of each ball.
 9.  Place in the oven to bake for 10 min then reduce the heat to 350 F and bake for about 20 to 30 min.
 10.  Remove, unmold and let cool on a rack.
