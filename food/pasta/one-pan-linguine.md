@@ -1,4 +1,4 @@
-#One-Pan Linguine
+# One-Pan Linguine
 
 ## Ingredients
 * 12 ounces linguine
