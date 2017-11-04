@@ -1,16 +1,16 @@
 # Stir-Fried Farro With Garlicky Kale
 
 ## Ingredients
-⁃ 1 1/2 cups farro (300g; 10 ounces)  
-⁃ 2 tablespoons extra-virgin olive oil (30ml), plus more for drizzling  
-⁃ 2 medium shallots (160g; 6 ounces), thinly sliced (about 3/4 cup)  
-⁃ 3 medium cloves garlic, minced  
-⁃ 1 large bunch lacinato (Tuscan) kale, washed, tough stems removed and discarded, and roughly chopped (about 300g ; 10 ounces after de-stemming)  
-⁃ 2 tablespoons red wine vinegar (30ml)  
-⁃ Kosher salt and freshly ground black pepper  
-⁃ 4 large eggs, poached or fried  
-⁃ Parmigiano-Reggiano cheese, for shaving (optional)  
-⁃ Chili sauce, for serving (optional)  
+- 1 1/2 cups farro (300g; 10 ounces)  
+- 2 tablespoons extra-virgin olive oil (30ml), plus more for drizzling  
+- 2 medium shallots (160g; 6 ounces), thinly sliced (about 3/4 cup)  
+- 3 medium cloves garlic, minced  
+- 1 large bunch lacinato (Tuscan) kale, washed, tough stems removed and discarded, and roughly chopped (about 300g ; 10 ounces after de-stemming)  
+- 2 tablespoons red wine vinegar (30ml)  
+- Kosher salt and freshly ground black pepper  
+- 4 large eggs, poached or fried  
+- Parmigiano-Reggiano cheese, for shaving (optional)  
+- Chili sauce, for serving (optional)  
 
 ## Directions
 1. Bring a large pot of salted water to a boil and add farro. Lower heat and simmer until farro is tender but not mushy, about 20 minutes (different brands of farro can have significantly different cooking times, so start checking at 20 minutes, but be prepared to simmer longer). Drain and set aside.  
