@@ -25,17 +25,17 @@ Yeast
 * 1 Pkg Belgian Strong Ale (Wyeast Labs #1388)
 
 ## Directions
-### Mash - 40min
+Mash - 40min
 * 40 min, 28.88 qt of water @ 166.5ºF
 * Sparge Water: 1.76 gal, 168ºF
 
-### Boil - 60min
+Boil - 60min
 1. @ start
   * 2oz Pearle hops and honey in boil to start
 2. @ 15min
   * add allspice, orange peel, cinnamon, ginger
 
-### Dry Hop
+Dry Hop
 * 1 oz Fuggles 4.5% for 3 days
 
 ## Specs
