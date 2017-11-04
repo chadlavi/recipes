@@ -1,1 +1,0 @@
-../mains/rice-cooker-miso-clay-pot-chicken.md
