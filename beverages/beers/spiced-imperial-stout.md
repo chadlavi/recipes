@@ -1,25 +1,28 @@
 # Spiced Russian Imperial Stout
 
 ## Ingredients
-* Grain
-  * 16 lb Pale Ale Malt 2-Row (Briess) (3.5 SRM)
-  * 1 lb Roasted Barley (Briess) (300.0 SRM)
-  * 0.75 lb Caramel Malt - 80L 6-Row (Briess) (80.0 SRM)
-  * 0.75 lb Chocolate (Briess) (350.0 SRM)
-  * 0.5 lb Caramel/Crystal Malt -120L (120.0 SRM)
-  * 0.25 lb Special B Malt (180.0 SRM)
-* Hops
-  * 2 oz Pearle 7.80 % (60 min)
-  * 1 oz Fuggles 4.50 % (Dry Hop 3 days)
-* Adjuncts
-  * 1 Cloves (Boil 45.0 min)
-  * 2 Alspice (Boil 45.0 min)
-  * 3 Orange Peel, Sweet (Boil 45.0 min)
-  * 6 Cinnamon Stick (Boil 45.0 min)
-  * 6 oz Ginger Root (Boil 45.0 min)
-  * 1 lb Honey (1.0 SRM)
-* Yeast
-  * 1 Pkg Belgian Strong Ale (Wyeast Labs #1388)
+###### Grain
+* 16 lb Pale Ale Malt 2-Row (Briess) (3.5 SRM)
+* 1 lb Roasted Barley (Briess) (300.0 SRM)
+* 0.75 lb Caramel Malt - 80L 6-Row (Briess) (80.0 SRM)
+* 0.75 lb Chocolate (Briess) (350.0 SRM)
+* 0.5 lb Caramel/Crystal Malt -120L (120.0 SRM)
+* 0.25 lb Special B Malt (180.0 SRM)
+
+###### Hops
+* 2 oz Pearle 7.80 % (60 min)
+* 1 oz Fuggles 4.50 % (Dry Hop 3 days)
+
+###### Adjuncts
+* 1 Cloves (Boil 45.0 min)
+* 2 Alspice (Boil 45.0 min)
+* 3 Orange Peel, Sweet (Boil 45.0 min)
+* 6 Cinnamon Stick (Boil 45.0 min)
+* 6 oz Ginger Root (Boil 45.0 min)
+* 1 lb Honey (1.0 SRM)
+
+###### Yeast
+* 1 Pkg Belgian Strong Ale (Wyeast Labs #1388)
 
 ## Directions
 ### Mash - 40min
