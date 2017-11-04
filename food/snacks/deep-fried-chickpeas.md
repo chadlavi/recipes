@@ -2,7 +2,6 @@
 
 ## Ingredients
 * 1 can chick peas, drained and rinsed 
-    * Note: if you use dried chick peas that have been soaked in water overnight, they will turn out crispier than canned chick peas
 * vegetable oil for frying
 * sea salt
 * chili powder (optional)
@@ -22,6 +21,7 @@
 ## Notes
 * If you want to double the recipe, deep fry the chick peas in separate batches.
 * Preheat the oven to 200 F and place the fried chick peas on a brown paper bag lined baking sheet to keep them warm until ready to serve.
+* If you use dried chick peas that have been soaked in water overnight, they will turn out crispier than canned chick peas
 
 ## Reference
 * http://cookingwithali.wordpress.com/2010/04/08/deep-fried-chick-peas/
