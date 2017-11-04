@@ -8,14 +8,14 @@ Makes: an 8 1/2-by-2-inch-high ring
 ## Ingredients
 | INGREDIENT | MEASURE | WEIGHT (oz)| WEIGHT (g)|
 |---|---|---|---|
-| bread ﬂour <br>*(or: unbleached all—purpose flour  2 1/4 cups plus 2 tbsp)* | 2 cups plus 3 tablespoons | 12 ounces - 340 grams
+| bread ﬂour <br>*(or: unbleached all-purpose flour  2 1/4 cups plus 2 tbsp)* | 2 cups plus 3 tablespoons | 12 ounces | 340 grams |
 | malt powder <br>*(or barley malt syrup or honey or sugar)* | 1 tablespoon | 0.3 ounce | 9.3 grams |
 | instant yeast | 3/4 teaspoon | -- | 2.4 grams |
 | coarsely cracked black pepper | scant 1/2 teaspoon | -- | 0.8 gram |
 | salt | 3/4 teaspoon | -- | 5 grams |
 | lard | 2 tablespoons | scant 1 ounce | 26 grams |
 | water, room temperature (70° to 90°F) <br>*(or cold, if using a food processor)* | 1 liquid cup | 8.3 ounces | 236 grams |
-| prosciutto, pepperoni, and hot sopressata sausage, sliced not too thin and cut into 1/4- to 1/2-inch pieces | 1 1/2 cups | 6 ounces | 170 grams|
+| prosciutto, pepperoni, and hot sopressata sausage <br>*(sliced not too thin and cut into 1/4- to 1/2-inch pieces)* | 1 1/2 cups | 6 ounces | 170 grams|
 
 ## Equipment
 3 nonstick liner such as Silpain or parchment;
