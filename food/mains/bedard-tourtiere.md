@@ -60,3 +60,6 @@ Egg wash:
 * Might try less water in the next batch of filling.
 * Spices seem right overall.
 * 425ºF may also be too high—should try a lower temperature and see where we get.
+
+## History
+* [Version 1](/blob/4a4cc439c20ed4a4db301e5db75cb8a54ff4da03/food/mains/bedard-tourtiere.md)
