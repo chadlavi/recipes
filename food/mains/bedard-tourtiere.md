@@ -53,3 +53,9 @@ Egg wash:
 9. For the egg wash, beat the large egg and water together with a fork until strands of egg protein can't be lifted out of it with the fork anymore. Use a pastry brush to apply a very thin, even layer to the entire top crust. 
 10. Wrap the edges of the crust in tin foil, then bake for 25 minutes with the crust covered.
 11. Remove the tin foil guards and bake for an additional 20-25 minutes, for a 45-50 minute total bake. The top should be golden brown,and juices should be bubbling out of the vent.
+
+## Notes - Version 1
+* The bottom crust didn't get as cooked as I hoped on a 45min bake. Might need to try a longer bake with a full tinfoil cover at the start next time.
+* The filling fell apart when I cut the first piece (though I did cut it still warm, after about 30min of cooling). Wonder if blending the ingredients together instead of mixing by hand would help that.
+* Might try less water in the next batch of filling.
+* Spices seem right overall.
