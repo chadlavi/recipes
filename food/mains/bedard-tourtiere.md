@@ -59,3 +59,4 @@ Egg wash:
 * The filling fell apart when I cut the first piece (though I did cut it still warm, after about 30min of cooling). Wonder if blending the ingredients together instead of mixing by hand would help that.
 * Might try less water in the next batch of filling.
 * Spices seem right overall.
+* 425ºF may also be too high—should try a lower temperature and see where we get.
