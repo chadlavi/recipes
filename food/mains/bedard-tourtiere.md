@@ -60,3 +60,4 @@ Egg wash:
 
 ## History
 * [Version 1](https://github.com/chadlavi/recipes/blob/4a4cc439c20ed4a4db301e5db75cb8a54ff4da03/food/mains/bedard-tourtiere.md)
+* [Version 2](https://github.com/chadlavi/recipes/blob/765ccc248a39b681302aff62823041ea4fc3ff31/food/mains/bedard-tourtiere.md)
