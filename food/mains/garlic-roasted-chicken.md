@@ -21,6 +21,6 @@ You should find that the chicken skin is evenly bronzed and all the fat has rend
 
 The garlic can be scooped out of the two halves of the garlic head and used as a garnish for the chicken, or mixed with a side dish like mashed potatoes or sautéed greens. 
 
-You should also find that your pan has a layer of precious fond on it: big gobs of sticky, beautiful, peanut-butter-brown chicken flavor concentrate. I highly recommend remmoving the chicken to a plate, putting your pan on the stove, and making a gravy from this fond. If not, then at the very least you should endeavor to save it for a future sauce. 
+You should also find that your pan has a layer of precious fond on it: big gobs of sticky, beautiful, caramel-like chicken flavor concentrate. I highly recommend remmoving the chicken to a plate, putting your pan on the stove, and making a gravy from this fond. If not, then at the very least you should endeavor to save it for a future sauce. 
 
 If you make a gravy, use white wine, butter, and thyme; you can also add some or all of the garlic that was roasted inside the chicken. 
