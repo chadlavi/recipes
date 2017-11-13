@@ -16,16 +16,16 @@ This original recipe from my grandfather's family store, Midway Market (or just 
 * 4 tsp poultry seasoning
 * 6 qts water
 
-## My Adapted Recipe - Version 1
-This is my first attempt to adapt the recipe for a single homemade pie. To maintain reproducible conditions, I'm using storebought crust while I experiment with the filling.
+## My Adapted Recipe - Version 2
+This is my second attempt to adapt the recipe for a single homemade pie. To maintain reproducible conditions, I'm using storebought crust while I experiment with the filling.
 
-I cut each ingredient 15x, which yields some odd results, so I rounded them to the nearest conventional equivalent. The original recipe called for 2lb of crackers, so I wanted to be sure I added them by weight; but 2lb / 15 = 2.134oz, which is difficult to measure with a scale that only gives one decimal place of accuracy for ounces. I ended up going metric for this one, because 2.134oz ≅ 60g, or 4g more than if I had rounded to just 2oz. Likewise, for salt, accurately measuring 1/15th of 2oz seemed a bit too difficult (0.134oz), but converting to metric gave me 3.78g, and I rounded to 4g.
+In the first version, I cut each ingredient 15x and tweaked the resulting amounts, which yielded about the right flavor. However I found that the fine dice of potatoes did not cook as thoroughly as I would like in the hour I cooked the pie; I needed a longer bake, or smaller pieces of potato, to get them where I wanted them. I also found that the bottom crust of the pie was disappointingly underbaked. As a result, I decided that in the second version, I would test out a dual solution to this: firstly, I blended the filling to eliminate longer-cooking potato chunks; second, I baked the pie at a lower temperature for a longer time.
 
-I was somewhat at a loss for what to do, so I sort of just winged it. For example, I decided to add an egg wash to the crust.
+In the first version I also greased the pie dish and refrigerated it before baking, to prevent the butter from melting off it. I found that the butter wasn't necessary as a lubricant, so I cut this step out to avoid unnecessary heat-up delay in the earthenware dish.
 
 ### Ingredients
 Filling:
-* 6 oz 75% lean ground hamburger
+* 6 oz 90% lean ground hamburger
 * 4 oz ground pork
 * 5 oz potato
 * 60 g ground oyster crackers
@@ -42,24 +42,21 @@ Egg wash:
 * 1 tsp water
 
 ### Directions
-1. Preheat the oven to 425ºF.  
-2. Finely dice the potato and onion.  
+1. Preheat the oven to 350ºF.  
+2. Roughly dice the potato and onion.  
 3. Run the crackers through a food processor or blender.  
-4. Combine the pork, beef, onion, potato, cracker, spices, and water in a large bowl, then add the water and use your hands to emulsify it all.
-5. Grease an earthenware pie dish with butter, and leave it in the refrerator until needed.
-6. If using storebought dough, allow it to come to room temperature for up to 15min.
-7. When the oven is preheated, take your pie dish out of the refrigerator and line it with one of the doughs. Pour in the meat filling,and use the back of a spoon to smooth and level the top.
-8. Cut a small circle out of the other pie crust, then place it on top of the meat filling. Form it carefully to the edges of the bottom crust, then roll the excess of both tightly down to where they meet. Use the tines of a small fork to crimp the crust edge down.
+4. Combine the pork, beef, onion, potato, cracker, spices, and water in a food processor or blender, then add the water and blend or process to emulsify it all.
+5. If using storebought dough, allow it to come to room temperature for up to 15min.
+6. When the oven is preheated, line an earthenware baking dish with one of the doughs. Pour in the meat filling, and use the back of a spoon to smooth and level the top.
+8. Cut a small circle out of the other pie crust, then place it on top of the meat filling. Form it carefully to the edges of the bottom crust, then roll the excess of both tightly down to where they meet. Use the tines of a small fork to crimp the crust edge down. Be sure not to leave thick sections of crust, as they will not cook all the way through.
 9. For the egg wash, beat the large egg and water together with a fork until strands of egg protein can't be lifted out of it with the fork anymore. Use a pastry brush to apply a very thin, even layer to the entire top crust. 
-10. Wrap the edges of the crust in tin foil, then bake for 25 minutes with the crust covered.
-11. Remove the tin foil guards and bake for an additional 20-25 minutes, for a 45-50 minute total bake. The top should be golden brown,and juices should be bubbling out of the vent.
+10. Cover the pie with tin foil, then bake for 45 minutes covered.
+11. Remove the tin foil and bake for an additional 30-45 minutes, for a 1h15m to 1h30m total bake. The top should be golden brown,and juices should be bubbling out of the vent.
 
-## Notes - Version 1
-* The bottom crust didn't get as cooked as I hoped on a 45min bake. Might need to try a longer bake with a full tinfoil cover at the start next time.
-* The filling fell apart when I cut the first piece (though I did cut it still warm, after about 30min of cooling). Wonder if blending the ingredients together instead of mixing by hand would help that.
-* Might try less water in the next batch of filling.
-* Spices seem right overall.
-* 425ºF may also be too high—should try a lower temperature and see where we get.
+## Notes - Version 2
+* I neglected to grind my peppercorns this time, reasoning that the blender would grind them for me. This was a mistake. The lack of evenly distributed pepper made the filling somewhat dull, and the occasional peppercorn chunks had too much of a salami-like effect. Finely ground peper is a must.
+* The potato was completely evenly distributed throughout the pie, and there was no more unepxpected al dente action. However, the blending also left the pie sort of eerily uniform, and gave it something of the bite of a processed meat. It may be better to pre-cook the potato next time, and leave the filling hand-mixed.
+* the bottom crust was better baked, but still had a circle of underbaked dough in the center. Will need to cook the next attempt even longer.
 
 ## History
 * [Version 1](https://github.com/chadlavi/recipes/blob/4a4cc439c20ed4a4db301e5db75cb8a54ff4da03/food/mains/bedard-tourtiere.md)
