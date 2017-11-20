@@ -1,5 +1,7 @@
 # Butternut Squash Pie
 
+![Butternut Squash Pie](/images/butternut-squash-pie.jpg)
+
 ## Ingredients
 * Pastry for single-crust pie (9 inches)
 * 1-1/4 cups sugar, more for caramelizing on top
