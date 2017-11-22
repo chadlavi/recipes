@@ -1,4 +1,6 @@
-# PAnky Hanky
+# Panky Hanky
+
+![Panky Hanky](/images/panky-hanky.jpg)
 
 In a mixing glass with ice, combine
 * 1 1/2 ounces of gin
