@@ -15,9 +15,9 @@ Based on [Kenji Lopez-Alt's foolproof pan pizza dough](http://www.seriouseats.co
 * 2 ounces grated parmesan or pecorino Romano cheese (optional)
 
 ## Directions
-1. Combine flour, salt, yeast, water, and oil in a large bowl. Mix with hands or a wooden spoon until no dry flour remains. The bowl should be at least 4 to 6 times to volume of the dough to account for rising.
+1. 3-4 days before you want to cook the pizza, combine flour, salt, yeast, water, and oil in a large bowl. Mix with hands or a wooden spoon until no dry flour remains. The bowl should be at least 4 to 6 times to volume of the dough to account for rising.
 2. Cover bowl tightly with plastic wrap, making sure that edges are well-sealed, then let rest on the countertop for at least 8 hours and up to 24. Dough should rise dramatically and fill bowl.
-3. Transfer dough to well-oiled bowl, and refrigerate for 2-5 days.
+3. Transfer dough to well-oiled bowl, and refrigerate for 2-3 days.
 4. Spread 1 to 2 tablespoons of crisco in the bottom of a rectangular pan. Place dough in the pan and turn to coat evenly with oil. Using a flat palm, press the dough around the pan, flattening it slightly and spreading oil around the entire bottom and edges of the pan, being sure to spread it into the corners; this may require some lifting and flapping to stretch the dough at the corner. Cover tightly with plastic wrap and let the dough sit at room temperature for 2-3 hours. An hour before you want to cook, adjust an oven rack to the middle position and preheat oven to 550°F.
 5. After the rest period, use your fingertips to press the dough around until it fills in every corner, popping any large bubbles that appear. Lift up one edge of the dough to let any air bubbles underneath escape and repeat, moving around the dough until there are no air bubbles left underneath and the dough is evenly spread around the pan. Slice the pepperoni into 2-3mm thick rounds.
 6. Top the pie with cheese (being sure to go all the way to the edge!), then sauce in three wide lines lengthwise, then sliced pepperoni on top. 
