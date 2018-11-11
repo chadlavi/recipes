@@ -36,3 +36,13 @@ This recipe makes 1 Detroit-style pizza in a 10x14 pan. Give yourself at least 1
 ## Reference
 * https://www.ediblebrooklyn.com/2013/recipe-robertas-margherita-pizza-and-cookbook-giveaway/
 * https://www.nytimes.com/2014/04/09/dining/a-little-pizza-homework.html
+
+## Notes
+### 2018-11-11
+Uneven results
+* Used vegetable shortening on pan, this seems to have worked well
+* replaced dried yeast with ~1tbsp of sourdough starter. This seems to have suffered a bit from early mixing with the salt, though eventually it overcame the salt and did its magic. May be good to try this in the future with a delayed addition of salt similar to Tartine Sourdough method.
+* doubled the dough recipe; don't do this. It resulted in a two-plus-inch-thick crust, and really what I got was more a topped focaccia than a thick pizza. Ended up cooking 15min at 500º, then 5 at 475º and 5 at 350º to ensure the thing was cooked fully.
+* Used "Italian Blend" shredded cheese for the edges, and it was perhaps a mistake. Cheese formed a hard crusty edge, but it was tough and flexible, not hard and brittle, resulting in some difficult chewing. It also formed a hard seal to the metal pan (despite the shortening), which seems to have resulted in some steaming on the bottom of the crust. Bottom crust was disappointingly blonde and showed some obvious signs of trapped steam.
+* Used uncured, dried pepperoni, and it worked okay but could have used more cupping. Search continues for smaller-diameter, thicker-cut pepperoni to achieve the perfect cup.
+* Used the Roberta's sauce method (whole peeled pomodoros blended with salt and EVOO) and put sauce on before baking (over cheese, under pepperoni). It's a much different effect than the Detroit-style sauce; first, it's much thinner; second, it's missing the distinctive oregano; third, I forgot the excellent recommendation to sauce after baking, which preserves a lot of the acidity and brightness of the sauce and gives a nice contrast to the multiple fats and umami sources going on elsewhere in the pizza.
