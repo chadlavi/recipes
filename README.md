@@ -1,7 +1,7 @@
 <h1>Recipes</h1>
 You know. To cook with.
 
-- [Food](#food)
+- [Foods](#food)
   - [Breads](#breads)
   - [Breakfasts](#breakfasts)
   - [Desserts](#desserts)
