@@ -1,9 +1,12 @@
-name: CI
+name: Update README.md when files change
 
 on: 
   push:
+    branches:
+      - master
     paths-ignore: 
-    - 'README.md'
+      - 'README.md'
+      - '.github/*'
 jobs:
   build:
 
@@ -22,4 +25,3 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ secrets.GITHUB_REF }}
