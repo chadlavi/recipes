@@ -1,4 +1,4 @@
-# Sweetened condensed coconut milk
+# Vietnamese iced coffee with sweetened condensed coconut milk
 
 ## Ingredients
 * 1 can of full-fat or half-fat coconut milk
