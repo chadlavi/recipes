@@ -20,7 +20,10 @@ jobs:
       run: |
         git config --global user.email "chad@chadlavimoniere.com"
         git config --global user.name "Chad Lavimoniere (CI)"
-        git commit -m "Update README" -a
+
+        if [ "$(git status --porcelain)" ]; then
+          git commit -m "Update README" -a
+        fi
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
