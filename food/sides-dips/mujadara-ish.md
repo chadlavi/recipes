@@ -1,4 +1,4 @@
-# Mujaddara(ish)
+# Mujadara(ish)
 
 ## Ingredients
 * 3/4 cup of dry lentils

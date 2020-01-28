@@ -1,4 +1,4 @@
-# Lazy Cassoulet 
+# Lazy Cassoulet
 
 # Ingredients
 * one large carrot

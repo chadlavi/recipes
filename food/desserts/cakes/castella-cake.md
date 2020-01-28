@@ -1,4 +1,4 @@
-# Castella Cake 
+# Castella Cake
 
 ## Ingredients
 * 6 large eggs, at room temperature (very important!)

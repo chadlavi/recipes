@@ -1,4 +1,5 @@
-## The Simplest Brioche (1 loaf, mold 10" long)
+# The Simplest Brioche
+(1 loaf, mold 10" long)
 
 ## Ingredients
 * 8 3/4 oz (1 2/3 cups) all-purpose flour

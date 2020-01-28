@@ -1,4 +1,4 @@
-# Crispy Chicken Breasts with Chermoula and Escarole 
+# Crispy Chicken Breasts with Chermoula and Escarole
 
 ## Ingredients
 * 4 tablespoons olive oil, divided

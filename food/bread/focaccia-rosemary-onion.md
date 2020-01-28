@@ -1,3 +1,5 @@
+# Rosemary onion focaccia
+
 ## Ingredients
 * 4 tablespoons olive oil, divided, plus more
 * 1 3/4 cups all-purpose flour plus more

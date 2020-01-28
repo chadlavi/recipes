@@ -1,4 +1,4 @@
-# Bedard family Tourtière
+# Tourtière, Bedard family
 
 ## Original Recipe
 This original recipe from my grandfather's family store, Midway Market (or just "Bedard's) in Plainfield, CT makes 15 (*fifteen!*) pies. There are no instructions.

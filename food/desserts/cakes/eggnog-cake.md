@@ -1,4 +1,4 @@
-# Eggnog Cake 
+# Eggnog Cake
 
 ## Ingredients
 * 1 package yellow cake mix 

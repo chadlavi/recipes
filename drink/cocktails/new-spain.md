@@ -1,4 +1,4 @@
-# The New Spain	
+# The New Spain
 
 ## Ingredients
 * One 1/2-inch (1cm) thick slice of fresh ginger, peeled

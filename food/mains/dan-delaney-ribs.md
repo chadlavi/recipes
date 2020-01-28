@@ -1,3 +1,5 @@
+# Dan Delaney's ribs
+
 1.  Buy some ribs. I recommend spare ribs, trimmed in what’s called a St. Louis cut. But untrimmed spares or baby backs are great too.
 2.  Put a super thin coating of mustard on the ribs. This ads some acid to the fatty protein, which will make for a more even flavor when cooked. It also helps the rub adhere.
 3.  Make a rub with:
