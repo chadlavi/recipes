@@ -1,6 +1,6 @@
 # Rice Cooker Miso Clay Pot Chicken
 
-#Ingredients
+## Ingredients
 * 2 T soy sauce
 * 1 T oyster sauce
 * 1 T Shaoxing wine
@@ -16,7 +16,7 @@
 * 1 slice (1/4" thick) fresh ginger
 * 2 scallions, cut into 1" pieces
 
-#Directions
+## Directions
 1. In a large bowl, whisk together the soy sauce, oyster sauce, wine, miso, salt, sugar, sesame oil, and a few grinds of white pepper. Add the chicken and mushrooms and fold to coat. 
 2. Combine the rice, stock, and ginger in a rice cooker or a small Dutch oven. 
   * For a rice cooker:
