@@ -1,0 +1,15 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Update README.md
+      run: |
+        ./utils/indexer.sh > README.md
+        git commit -am "update README" && git push
