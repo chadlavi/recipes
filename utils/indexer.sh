@@ -1,6 +1,25 @@
 #!/bin/sh
 start="<h1>Recipes</h1>
-You know. To cook with."
+You know. To cook with.
+
+- [Food](#food)
+  - [Breads](#breads)
+  - [Breakfasts](#breakfasts)
+  - [Desserts](#desserts)
+  - [Main courses](#main-courses)
+  - [Pasta](#pasta)
+  - [Pizza](#pizza)
+  - [Salads](#salads)
+  - [Sandwiches](#sandwiches)
+  - [Snacks](#snacks)
+  - [Soup](#soup)
+  - [Cured and pickled](#cured-and-pickled)
+  - [Sides and dips](#sides-and-dips)
+  - [Condiments, sauces and toppings](#condiments-sauces-and-toppings)
+- [Drinks](#drinks)
+  - [Cocktails](#cocktails)
+  - [Coffee and Tea](#coffee-and-tea)
+  - [Brewing](#brewing)"
 end="🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥑🍆🥔🥕🌽🌶🥒🍄🥜🌰🍞🥐🥖🥞🧀🍖🍗🥓🍔🍟🍕🌭🌮🌯🍳🍲🥗🍿🍱🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍥🍡🍦🍧🍨🍩🍪🎂🍰🍫🍬🍭🍮🍯🍼🥛☕🍵🍶🍾🍷🍸🍹🍺🍻🥂🥃🍽🍴🥄
 
 Inspired by https://github.com/shaniber/recipes
