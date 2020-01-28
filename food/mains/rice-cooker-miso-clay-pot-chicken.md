@@ -8,7 +8,7 @@
 * 1/2 t kosher salt
 * 1/2 t sugar
 * 1/2 t sesame oil
-* + white pepper
+* white pepper
 * 4 boneless, skin-on chicken thighs, cut into 1" pieces
 * 8 fresh shiitake mushroom caps, thinly sliced, or 4 dried shiitakes, soaked, stemmed, and thinly sliced
 * 1 C jasmine rice, rinsed and drained
