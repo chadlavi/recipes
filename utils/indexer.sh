@@ -1,4 +1,5 @@
 #!/bin/sh
+
 start="<h1>Recipes</h1>
 You know. To cook with.
 
@@ -20,31 +21,25 @@ You know. To cook with.
   - [Cocktails](#cocktails)
   - [Coffee and Tea](#coffee-and-tea)
   - [Brewing](#brewing)"
+
 end="🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥑🍆🥔🥕🌽🌶🥒🍄🥜🌰🍞🥐🥖🥞🧀🍖🍗🥓🍔🍟🍕🌭🌮🌯🍳🍲🥗🍿🍱🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍥🍡🍦🍧🍨🍩🍪🎂🍰🍫🍬🍭🍮🍯🍼🥛☕🍵🍶🍾🍷🍸🍹🍺🍻🥂🥃🍽🍴🥄
 
 Inspired by https://github.com/shaniber/recipes
 "
 
 getMarkdownLinks() {
-  for file in $(find . -iname "*.md" -not -name "README.md" -not -iname "*template*" | sort); do
-    echo "* [$(cat "$file" | head -n 1 | sed 's/# //g')]("$file")"
+  for file in $(find . -iname "*.md" -not -name "README.md" -not -iname "*template*"); do
+    echo "* [$(cat "$file" | head -n 1 | sed 's/^# //')]("$file")"
   done
-}
-
-getDrinkLinks() {
-  echo "$(getMarkdownLinks)" | grep drink | sort
-}
-
-getFoodLinks() {
-  echo "$(getMarkdownLinks)" | grep food | sort
 }
 
 filter() {
   echo "$1" | grep -E "$2"
 }
 
-drinkLinks="$(getDrinkLinks)"
-foodLinks="$(getFoodLinks)"
+markdownLinks="$(getMarkdownLinks)"
+drinkLinks="$(filter "$markdownLinks" drink | sort)"
+foodLinks="$(filter "$markdownLinks" food | sort)"
 
 echo "$start
 
