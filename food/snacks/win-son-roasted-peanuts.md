@@ -2,13 +2,13 @@
 
 ## Ingredients
 * 2 oz each of:
-    *green cardamom
-    *coriander
-    *Szechuan peppercorn
-    *and white pepper
-    *garlic powder
-    *cayenne pepper
-    *Chinese five spice
+  *green cardamom
+  *coriander
+  *Szechuan peppercorn
+  *and white pepper
+  *garlic powder
+  *cayenne pepper
+  *Chinese five spice
 * salt
 * MSG
 * 1 pint of raw redskin peanuts
