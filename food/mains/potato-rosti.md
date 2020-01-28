@@ -4,8 +4,8 @@
 * 1 sprig fresh oregano
 * 2 cups cool water
 * 4 medium Yukon Gold potatoes (about 2 pounds), peeled
-* ½ teaspoon kosher salt
-* ¼ cup schmaltz (chicken fat)
+* 1/2 teaspoon kosher salt
+* 1/4 cup schmaltz (chicken fat)
 
 # Directions
 1. Wrap the sprig of fresh oregano in cheesecloth, tie the ends with twine, and pound it a few times with the back of a knife to release the oils. Put it in a large bowl with the water.

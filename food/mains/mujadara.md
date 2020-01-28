@@ -3,13 +3,13 @@
 ## Ingredients
 * 1 cup brown or green lentils 
 * 2 leeks, white and light green parts only, roots trimmed 
-* 2 ¼ teaspoons salt, more as needed 
-* ¼ cup extra-virgin olive oil 
+* 2 1/4 teaspoons salt, more as needed 
+* 1/4 cup extra-virgin olive oil 
 * 2 garlic cloves, minced 
-* ¾ cup long-grain rice 
-* 1 ½ teaspoons ground cumin 
-* ½ teaspoon ground allspice 
-* ¼ teaspoon cayenne 
+* 3/4 cup long-grain rice 
+* 1 1/2 teaspoons ground cumin 
+* 1/2 teaspoon ground allspice 
+* 1/4 teaspoon cayenne 
 * 1 bay leaf 
 * 1 cinnamon stick 
 * 4 cups trimmed and chopped spring greens (chard leaves, spinach, kale, mustard or a combination) 

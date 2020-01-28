@@ -2,13 +2,13 @@
 
 ## Ingredients
 * 1 tbsp. unsalted butter, softened
-* 1 ¼ cups milk
+* 1 1/4 cups milk
 * 6 tbsp. sugar
 * 2 tbsp. kirsch
 * 1 tbsp. vanilla extract
 * 6 eggs
 * Kosher salt, to taste
-* ¾ cup flour
+* 3/4 cup flour
 * 3 cups black cherries, pitted or unpitted
 * Confectioners' sugar, for dusting
 

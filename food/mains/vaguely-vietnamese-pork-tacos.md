@@ -6,14 +6,14 @@ For the pork:
 * 1 medium-size yellow onion, peeled and diced
 * 8 cloves garlic, peeled and minced
 * 2 tablespoons fresh ginger, peeled and minced
-* ½ cup hoisin sauce
-* ¼ cup fish sauce
+* 1/2 cup hoisin sauce
+* 1/4 cup fish sauce
 * 1 tablespoon sriracha sauce
-* ½ bone-in pork shoulder, skin and fat removed, approximately 5 pounds
+* 1/2 bone-in pork shoulder, skin and fat removed, approximately 5 pounds
 * 12 to 16 flour tortillas, warmed
 
 For the slaw:
-* ⅓ cup rice vinegar
+* 1/3 cup rice vinegar
 * 2 teaspoons grated fresh ginger
 * 1 tablespoon sesame oil
 * 2 tablespoons neutral oil, like peanut or grapeseed
@@ -22,7 +22,7 @@ For the slaw:
 * 2 medium-size cucumbers, peeled and sliced into julienne
 * 2 medium-size carrots, peeled and sliced into julienne
 * 1 Asian pear, peeled, cored and sliced into julienne
-* ½ bunch fresh cilantro, rinsed, dried and roughly chopped
+* 1/2 bunch fresh cilantro, rinsed, dried and roughly chopped
 
 ## Directions
 1. Prepare the pork: Place a sauté pan over medium-high heat. After a minute or so, swirl in the sesame oil and then the onions, stirring to combine. Sauté for about 5 minutes, then add the garlic and continue to cook until the onions are soft and becoming translucent. Turn off the heat, stir in the ginger and set aside.

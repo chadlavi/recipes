@@ -2,16 +2,16 @@
 
 ## Ingredients
 * 4 tablespoons olive oil, divided
-* 2 large skin-on, bone-in chicken breasts, bones removed (1½–2 lb.)
+* 2 large skin-on, bone-in chicken breasts, bones removed (1 1/2 – 2 lb.)
 * Kosher salt and freshly ground black pepper
 * 2 cloves garlic finely chopped
 * 1 teaspoon coriander seeds, chopped
 * 1 teaspoon cumin seeds, chopped
-* ½ teaspoon hot smoked paprika
+* 1/2 teaspoon hot smoked paprika
 * 1 medium shallot, sliced into rings
-* ½ cup fresh cilantro leaves with tender stems
+* 1/2 cup fresh cilantro leaves with tender stems
 * 2 tablespoons (or more) fresh lemon juice
-* ½ head escarole, torn into pieces
+* 1/2 head escarole, torn into pieces
 
 ## Directions
 1. Heat 1 Tbsp. oil in a medium skillet over medium heat. Season chicken with salt and pepper and cook, skin side down, until golden brown, 10–12 minutes. Turn and cook until cooked through, 5–8 minutes longer. Transfer to a plate; reserve skillet.

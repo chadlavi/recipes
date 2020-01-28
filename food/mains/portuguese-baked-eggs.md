@@ -1,21 +1,21 @@
 # Portuguese Baked Eggs
 
 ## Ingredients
-* ¼ cup olive oil
+* 1/4 cup olive oil
 * 3 bell peppers, any color, thinly sliced
 * 1 medium red onion, thinly sliced
 * 2 beefsteak tomatoes, cut into wedges
 * 8 garlic cloves, thinly sliced
 * 1 jalapeño, with seeds, halved lengthwise
-* ¼ cup fresh basil leaves
+* 1/4 cup fresh basil leaves
 * 2 tablespoons fresh oregano leaves
-* 1½ teaspoons chili powder
+* 1 1/2 teaspoons chili powder
 * 1 teaspoon paprika
 * Kosher salt and freshly ground black pepper
 * 1 cup ricotta
 * 6 large eggs
 * 1 cup grated sharp white cheddar (about 4 oz.)
-* ¼ cup grated Parmesan (about 1 oz.)
+* 1/4 cup grated Parmesan (about 1 oz.)
 * Toasted country-style bread (for serving)
 
 ## Directions

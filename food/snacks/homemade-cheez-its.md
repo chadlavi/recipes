@@ -2,7 +2,7 @@
 
 ## Ingredients
 * 8 oz extra-sharp cheddar cheese, coarsely shredded
-* ½ stick unsalted butter, at room temperature
+* 1/2 stick unsalted butter, at room temperature
 * 1 t kosher salt
 * 1 c flour
 * 2 T ice water

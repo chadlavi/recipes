@@ -13,7 +13,7 @@
 * 8 fresh shiitake mushroom caps, thinly sliced, or 4 dried shiitakes, soaked, stemmed, and thinly sliced
 * 1 C jasmine rice, rinsed and drained
 * 1 C chicken stock or water
-* 1 slice (¼" thick) fresh ginger
+* 1 slice (1/4" thick) fresh ginger
 * 2 scallions, cut into 1" pieces
 
 #Directions

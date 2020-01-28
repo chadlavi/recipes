@@ -16,13 +16,13 @@ For chicken stock:
 
 For Matzoh ball Mixture:
 * 3 large eggs, beaten to blend
-* ¾ cup matzoh meal
-* ¼ cup schmaltz (chicken fat), melted
+* 3/4 cup matzoh meal
+* 1/4 cup schmaltz (chicken fat), melted
 * 3 tablespoons club soda
-* 1¼ teaspoon kosher salt
+* 1 1/4 teaspoon kosher salt
 
 For final soup:
-* 2 small carrots, peeled, sliced ¼” thick on a diagonal
+* 2 small carrots, peeled, sliced 1/4” thick on a diagonal
 * Kosher salt
 * 2 tablespoons coarsely chopped fresh dill
 * Coarsely ground fresh black pepper

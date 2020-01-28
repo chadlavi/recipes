@@ -21,7 +21,7 @@
 1. Remove seeds from ancho, guajillo, and pasilla chiles and place in a medium bowl. Pour in 3 cups boiling water and cover bowl tightly with plastic wrap; let sit until chiles are softened, 20–25 minutes. Transfer chiles and soaking liquid to a blender and blend on high until smooth, about 1 minute; set aside.
 2. Heat oil in a large Dutch oven or other heavy pot over medium-high. Season beef all over with salt and pepper. Working in 2–3 batches, cook, turning pieces once, until browned, about 5 minutes per side. Transfer to a plate.
 3. Reduce heat to medium; add onions and garlic to pot. Cook, stirring often to loosen browned bits from bottom of pot, until onions are translucent and very soft, 6–8 minutes. Add cumin and oregano and cook, stirring, until spices start to stick to pot, about 1 minute. Add tomatoes and brown sugar and scrape bottom of pot to loosen spices, then add lager. Bring to a lively simmer and cook, stirring occasionally, until beer is almost completely evaporated, 10–15 minutes.
-4. Meanwhile, cut beef into ½" pieces, discarding any large bits of fat or gristle.
+4. Meanwhile, cut beef into 1/2" pieces, discarding any large bits of fat or gristle.
 5. Add beef, reserved chile purée, and 2 cups water to pot; season with salt and pepper. Bring to a boil, reduce heat, and simmer gently, uncovered, until liquid is thickened and meat is very tender, 1.5-2 hours. Taste chili and season with more salt and pepper if needed. Remove from heat and stir in vinegar. Divide chili among bowls and top as desired.
 
 

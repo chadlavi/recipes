@@ -1,10 +1,10 @@
 # Celery and Fennel Salad
 
 ## Ingredients
-* ¼ cup pine nuts
+* 1/4 cup pine nuts
 * 1 large fennel bulb, very thinly sliced
 * 6 celery stalks, very thinly sliced
-* ½ cup fresh flat-leaf parsley leaves with tender stems
+* 1/2 cup fresh flat-leaf parsley leaves with tender stems
 * 3 tablespoons fresh lemon juice
 * 3 tablespoons olive oil
 * Kosher salt, freshly ground pepper

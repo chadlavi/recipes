@@ -2,7 +2,7 @@
 
 ## Ingredients
 * 1 lb. dried pinto beans
-* ½ small white onion, thinly sliced
+* 1/2 small white onion, thinly sliced
 * 2 tbsp. lard (available at emperorfood.com) or canola oil
 * Kosher salt, to taste
 * Crema (available at mexgrocer.com) or sour cream, for garnish

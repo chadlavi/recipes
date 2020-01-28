@@ -1,12 +1,12 @@
 # Onion Bacon Tart
 
 ## Ingredients
-* 6 oz. slab bacon, cut into ¼″ matchsticks
+* 6 oz. slab bacon, cut into 1/4″ matchsticks
 * 4 tbsp. unsalted butter
 * 2 medium yellow onions, thinly sliced lengthwise Kosher salt and freshly ground black pepper, to taste
-* 1 ½ cups flour
+* 1 1/2 cups flour
 * 2 tsp. dry mustard
-* 1 ¼ cups milk
+* 1 1/4 cups milk
 * 3 eggs, lightly beaten
 
 ## Directions

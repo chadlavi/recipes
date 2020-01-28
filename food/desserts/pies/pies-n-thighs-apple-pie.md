@@ -3,18 +3,18 @@ Cold butter is critical for flaky doughs; as the pie bakes, the floury parts coo
 
 ## Ingredients
 Crust:
-- 2¼ cups all-purpose flour
+- 2 1/4 cups all-purpose flour
 - 2 tablespoons granulated sugar
-- ½ tsp kosher salt
+- 1/2 tsp kosher salt
 - 1 cup (2 sticks) unsalted butter, cut into 1" pieces, chilled
 
 filling and assembly:
 - 3 pounds Granny Smith apples (about 5 large), peeled, cored, and thinly sliced
-- ¼ cup light brown sugar
-- 2 tablespoons (¼ stick) unsalted butter
+- 1/4 cup light brown sugar
+- 2 tablespoons (1/4 stick) unsalted butter
 - 1 tablespoon fresh lemon juice
-- ½ teaspoon kosher salt
-- ¼ teaspoon freshly grated nutmeg
+- 1/2 teaspoon kosher salt
+- 1/4 teaspoon freshly grated nutmeg
 - 2 tablespoons all-purpose flour, plus more for dusting
 - 1 large egg, room temperature
 - 2 tablespoons demerara sugar
@@ -23,7 +23,7 @@ filling and assembly:
 ## Directions
 Crust:
 1. Pulse flour, granulated sugar, and salt in a food processor to combine. Add butter and pulse until pea-sized pieces of butter remain. Transfer mixture to a large bowl; cover and refrigerate at least 30 minutes (you want the butter to be really, really cold).
-2. Drizzle ½ cup ice water over mixture and, using your hands, mix thoroughly (as though you were kneading) until no dry spots remain and dough stays together when pressed. Divide dough in half and press into 2 discs, about 1" thick; wrap tightly in plastic wrap. Refrigerate at least 1 hour.
+2. Drizzle 1/2 cup ice water over mixture and, using your hands, mix thoroughly (as though you were kneading) until no dry spots remain and dough stays together when pressed. Divide dough in half and press into 2 discs, about 1" thick; wrap tightly in plastic wrap. Refrigerate at least 1 hour.
 
 *Do ahead: Dough will keep in refrigerator up to 5 days or in freezer up to 1 month.*
 

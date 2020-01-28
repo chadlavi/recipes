@@ -2,9 +2,9 @@
 Makes 3-4 servings.
 
 ## Ingredients
-* ½ cup coconut milk
-* ½ cup almond milk
-* ¼ cup chia seeds
+* 1/2 cup coconut milk
+* 1/2 cup almond milk
+* 1/4 cup chia seeds
 * 1tbsp. maple syrup or agave
 
 ## Directions

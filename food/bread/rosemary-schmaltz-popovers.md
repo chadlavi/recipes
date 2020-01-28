@@ -3,11 +3,11 @@
 ## Ingredients
 * 1 cup flour
 * 1 cup milk
-* 1 ½ tbsp. minced rosemary
-* 1 ½ tsp. kosher salt
-* ½ tsp. ground black pepper
+* 1 1/2 tbsp. minced rosemary
+* 1 1/2 tsp. kosher salt
+* 1/2 tsp. ground black pepper
 * 2 eggs, lightly beaten
-* ¾ cup rendered goose fat
+* 3/4 cup rendered goose fat
 
 ## Directions
 1. Heat oven to 400°. 

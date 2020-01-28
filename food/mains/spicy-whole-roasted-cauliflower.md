@@ -3,7 +3,7 @@
 ## Ingredients
 * 1 tablespoon vegetable oil
 * 1 head cauliflower
-* 1½ cups plain Greek yogurt
+* 1 1/2 cups plain Greek yogurt
 * 1 lime, zested and juiced
 * 2 tablespoons chile powder
 * 1 tablespoon cumin

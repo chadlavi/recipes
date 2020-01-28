@@ -2,8 +2,8 @@
 
 ## Ingredients
 * 3 cups all-purpose or bread flour, more for dusting
-* ¼ teaspoon instant yeast
-* 1 ¼ teaspoons salt
+* 1/4 teaspoon instant yeast
+* 1 1/4 teaspoons salt
 * Cornmeal or wheat bran as needed
 
 ## Directions

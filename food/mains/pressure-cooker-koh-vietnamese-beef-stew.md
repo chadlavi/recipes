@@ -1,11 +1,11 @@
 # Pressure Cooker Koh (Vietnamese Beef Stew)
 
 ## Ingredients
-* ½ teaspoon ghee
-* 5 pounds bone-in short ribs OR 2½ pounds grass fed beef brisket or chuck roast, trimmed and cut into 1½-inch cubes (all work equally well)
+* 1/2 teaspoon ghee
+* 5 pounds bone-in short ribs OR 2 1/2 pounds grass fed beef brisket or chuck roast, trimmed and cut into 1 1/2-inch cubes (all work equally well)
 * 1 yellow onion, peeled and diced
-* 1½ teaspoons Madras curry powder
-* 2½ tablespoons peeled and microplaned fresh ginger
+* 1 1/2 teaspoons Madras curry powder
+* 2 1/2 tablespoons peeled and microplaned fresh ginger
 * 2 cups canned diced tomatoes, drained and crushed by hand
 * 3 tablespoons Red Boat fish sauce
 * 2 tablespoons applesauce

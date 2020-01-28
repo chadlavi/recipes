@@ -4,7 +4,7 @@
 In a mixing glass, stir together:
 * 1 ounce of mezcal
 * 1 ounce of smoky blended Scotch (like the Black Grouse)
-* ¼ ounce of agave syrup (light agave dissolved in an equal amount of hot water)
+* 1/4 ounce of agave syrup (light agave dissolved in an equal amount of hot water)
 * a dash of orange bitters
 
 Strain into a rocks glass over fresh ice. 

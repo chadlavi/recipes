@@ -2,17 +2,17 @@
 
 ## Ingredients
 Stuffing:
-* ½ cup balsamic vinegar
-* ½ cup soy sauce
+* 1/2 cup balsamic vinegar
+* 1/2 cup soy sauce
 * 2 cups sliced cremini mushroom caps
-* 1½ cups shredded Comté or Gruyère cheese, at room temperature
+* 1 1/2 cups shredded Comté or Gruyère cheese, at room temperature
 * Fresh thyme leaves
 
 Bread:
-* 3½ cups white bread flour, plus extra as needed
-* 1½ teaspoons fine sea salt
-* 1½ teaspoons instant dry yeast
-* 1¼ cups plus 2 tablespoons warm water (82° to 84°) plus up to ¼ cup extra if needed
+* 3 1/2 cups white bread flour, plus extra as needed
+* 1 1/2 teaspoons fine sea salt
+* 1 1/2 teaspoons instant dry yeast
+* 1 1/4 cups plus 2 tablespoons warm water (82° to 84°) plus up to 1/4 cup extra if needed
 
 ## Directions
 1. Marinate the mushrooms: In a large, re-sealable bag, combine the balsamic vinegar, soy sauce and mushrooms. Seal the bag and shake to combine. Refrigerate 8 hours or overnight.
@@ -27,7 +27,7 @@ Bread:
 10. Using your fingertips, pick up the far side of the dough and fold it halfway up and over the first fold, again with a very light pull on the dough. Using the heel of your hand, again press down firmly to seal. Gently pick up the dough and place it so the seam is on the side. Using the heel of your hand, firmly press the seam against the work surface to flatten and to create tension in the dough.
 11. Transfer the shaped dough to a prepared baking sheet, seam side down. Fill and shape the remaining piece of dough in the same way and place it on the other baking sheet, seam side down. Cover each baking sheet with a clean linen towel followed by plastic wrap.
 12. Set the baking sheets in a warm, draft-free place until your finger leaves a small indentation that slowly and evenly disappears, about 1 hour. Adjust an oven rack to the lowest position, place a baking stone on the rack and preheat the oven to 450°.
-13. Cut three 1-inch long lines on the surface of each loaf, just barely breaking through the skin and cutting about ⅛ inch into the surface of the dough. Place one sheet pan in the refrigerator. Slide the other loaf and the parchment paper onto the center of the stone, taking care not to touch the hot surface. Cover the loaf with a stainless steel mixing bowl and immediately close the oven door. Bake 10 minutes, then use a paring knife to carefully lift the edge of the bowl and use oven mitts to remove the bowl from the oven.
+13. Cut three 1-inch long lines on the surface of each loaf, just barely breaking through the skin and cutting about 1/8 inch into the surface of the dough. Place one sheet pan in the refrigerator. Slide the other loaf and the parchment paper onto the center of the stone, taking care not to touch the hot surface. Cover the loaf with a stainless steel mixing bowl and immediately close the oven door. Bake 10 minutes, then use a paring knife to carefully lift the edge of the bowl and use oven mitts to remove the bowl from the oven.
 14. Continue to bake until the bread is deep golden-brown with a crisp crust and sounds hollow when tapped on the bottom, 10 to 15 minutes more. An instant-read thermometer inserted into the center of the bread from the bottom should register between 185° and 210°. Transfer the loaf to a cooling rack and cool for at least 1 hour before slicing and serving. In the meantime, bake off the remaining loaf.
 
 ## Reference

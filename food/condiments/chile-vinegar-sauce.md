@@ -2,10 +2,10 @@
 
 ## Ingredients
 * 1 dried Anaheim chile
-* 1 fresh red Fresno chile, sliced ¼-inch thick
-* ½ red bell pepper, sliced ¼-inch thick
+* 1 fresh red Fresno chile, sliced 1/4-inch thick
+* 1/2 red bell pepper, sliced 1/4-inch thick
 * 2 tablespoons roughly chopped garlic
-* ¼ cup finely diced shallot
+* 1/4 cup finely diced shallot
 * 1 cup white vinegar
 * 2 tablespoons salt
 

@@ -2,27 +2,27 @@
 
 ## Ingredients
 Chicken
-* 4 skinless, boneless chicken breasts, (about 3½ pounds)
+* 4 skinless, boneless chicken breasts, (about 31/2 pounds)
 * 6 tablespoons light soy sauce
-* ¼ cup toasted sesame oil
+* 1/4 cup toasted sesame oil
 * 2 tablespoons Chinese five-spice powder
 * 2 tablespoons garlic powder
 * 1 tablespoon cayenne pepper
 
 Sauce
-* ½ cup mayonnaise, preferably Kewpie
+* 1/2 cup mayonnaise, preferably Kewpie
 * 1 ounce fermented bean curd in chili oil, drained (optional)
 * 1 teaspoon white soy sauce
 
 Assembly
 * 1 teaspoon Chinese five-spice powder
-* ¼ teaspoon cayenne pepper
+* 1/4 teaspoon cayenne pepper
 * Vegetable oil (for frying; about 6 cups)
 * 2 cups cornstarch
 * 1 cup rice flour
 * Kosher salt
 * 2 scallions, thinly sliced
-* ¼ cup coarsely chop cilantro with tender stems
+* 1/4 cup coarsely chop cilantro with tender stems
 * 4 pineapple buns (bolo baos) or brioche buns, split, toasted
 
 Special Equipment
@@ -41,7 +41,7 @@ Sauce
 Assembly
 1. Mix five-spice powder and cayenne in a small bowl.
 2. Fit a large pot with thermometer and pour in oil to come halfway up sides. Heat over medium-high until thermometer registers 350°.
-3. While the oil is heating up, whisk cornstarch, rice flour, and 1¾ cups water in a large bowl (the mixture should resemble thick tempura batter).
+3. While the oil is heating up, whisk cornstarch, rice flour, and 1 3/4 cups water in a large bowl (the mixture should resemble thick tempura batter).
 4. Working in 4 batches, fry chicken, turning occasionally and adjusting heat to maintain oil temperature, until deep golden brown, about 5 minutes per batch. Transfer to a wire rack set over paper towels to drain. Sprinkle lightly with salt and spice mixture while still hot. Let cool 5 minutes.
 5. Spread sauce on top of chicken and sprinkle with scallions and cilantro. Sandwich between buns.
 
