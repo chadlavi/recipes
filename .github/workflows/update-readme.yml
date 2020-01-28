@@ -1,7 +1,9 @@
 name: CI
 
-on: [push]
-
+on: 
+  push:
+    paths-ignore: 
+    - 'README.md'
 jobs:
   build:
 
@@ -15,5 +17,5 @@ jobs:
         git config --global user.email "chad@chadlavimoniere.com"
         git config --global user.name "Chad Lavimoniere (CI)"
         if [ "$(git status --porcelain)" ]; then
-          git commit -am "update README" && git push
+          git commit -am "update README" && git push origin HEAD:{{ secrets.GITHUB_REF }}
         fi
