@@ -81,6 +81,7 @@ You know. To cook with.
 * [Frijoles de Olla](./food/mains/frijoles-de-olla.md)
 * [Garlic Roasted Chicken](./food/mains/garlic-roasted-chicken.md)
 * [Green goddess chicken ](./food/mains/green-goddess-chicken.md)
+* [Hungarian Goulash](./food/mains/hungarian-goulash.md)
 * [Instant Pot Lamb Ragu](./food/mains/instant-pot-lamb-ragu.md)
 * [Jer's Crispy Fried Chicken](./food/mains/southern-fried-chicken.md)
 * [Lazy Cassoulet](./food/mains/lazy-cassoulet.md)
