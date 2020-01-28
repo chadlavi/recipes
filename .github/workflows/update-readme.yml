@@ -12,12 +12,14 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Update README.md
+      run: ./utils/indexer.sh > README.md
+    - name: Commit files
       run: |
-        ./utils/indexer.sh > README.md
         git config --global user.email "chad@chadlavimoniere.com"
         git config --global user.name "Chad Lavimoniere (CI)"
-        if [ "$(git status --porcelain)" ]; then
-          git commit -am "update README" && git push origin HEAD:"$branch"
-        fi
-      env:
-        branch: secrets.GITHUB_REF
+        git commit -m "Update README" -a
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ secrets.GITHUB_REF }}
