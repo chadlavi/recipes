@@ -13,7 +13,7 @@ his granddaughter (my mother-in-law) modified.
 * 1/2 to 3/4 cup beer
 * 1/2 cup or less brown sugar
 * Small amount of water if needed
-  
+
 ## Directions
 Bring all ingredients to a boil. Simmer and cool. Pour into the original
 container and enjoy.

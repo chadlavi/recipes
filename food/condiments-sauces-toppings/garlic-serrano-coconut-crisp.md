@@ -9,8 +9,7 @@
 ## Directions
 1. Thinly slice the garlic and serrano chile
 2. Heat the oil in a small skillet of medium
-3. Add the garlic, chile, and coconut, and cook, stirring often, until the
-   coconut and garlic turn golden, 5 (or more) minutes
+3. Add the garlic, chile, and coconut, and cook, stirring often, until the coconut and garlic turn golden, 5 (or more) minutes
 4. Remove to a bowl and lightly salt
 
 ## References
