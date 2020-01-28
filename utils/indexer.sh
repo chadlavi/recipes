@@ -2,7 +2,7 @@
 start="<h1>Recipes</h1>
 You know. To cook with.
 
-- [Foods](#food)
+- [Food](#food)
   - [Breads](#breads)
   - [Breakfasts](#breakfasts)
   - [Desserts](#desserts)
