@@ -15,7 +15,7 @@
 2. Place a large sheet of parchment paper on a large rimmed baking sheet and pour one-third of cure lengthwise down the center of parchment. Lay salmon skin side down on top of cure and pack remaining cure in an even layer onto flesh side. Fold parchment up and over fish and cover with another sheet of parchment paper. Wrap tightly with plastic. Place another large rimmed baking sheet on top of fish and set a heavy pot or cast-iron skillet in baking sheet to weigh down. Chill 3 days.
 3. Unpack fish and wipe off cure with a damp kitchen towel (do not rinse). Make sure fish is cold. Slice very thinly with a long, thin, sharp knife, wiping down blade occasionally with another kitchen towel to keep it clean. Slice at a 45-degree angle until you get wide ribbons (the first few won't be perfect— keep going!). Arrange salmon on a platter; serve with bagels, bialys, bread, cream cheese, red onion, capers, dill sprigs, and/or lemon wedges if desired.
 
-Do Ahead: Wrap leftover salmon and refrigerate for up to 3 days.
+*Do Ahead: Wrap leftover salmon and refrigerate for up to 3 days.*
 
 ## Reference
 * https://www.bonappetit.com/recipe/citrus-and-dill-gravlax

@@ -25,7 +25,7 @@
 5. Add beef, reserved chile purée, and 2 cups water to pot; season with salt and pepper. Bring to a boil, reduce heat, and simmer gently, uncovered, until liquid is thickened and meat is very tender, 1.5-2 hours. Taste chili and season with more salt and pepper if needed. Remove from heat and stir in vinegar. Divide chili among bowls and top as desired.
 
 
-Do Ahead: Chili can be made 4 days ahead. Let cool; cover and chill. Reheat gently over low, stirring occasionally, and adding a splash of water to loosen if needed.
+*Do Ahead: Chili can be made 4 days ahead. Let cool; cover and chill. Reheat gently over low, stirring occasionally, and adding a splash of water to loosen if needed.*
 
 ## Reference
 * https://www.bonappetit.com/recipe/meaty-beef-chili

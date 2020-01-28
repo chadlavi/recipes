@@ -35,7 +35,7 @@
 2. Wipe out skillet and heat oil over medium-high. Arrange lemon pieces in a single layer in skillet. Cook, turning halfway through, until deeply browned in most spots, about 3 minutes. Transfer back to bowl and season with salt.
 3. Ladle stew into bowls and top with caramelized lemon, sesame seeds, and mint. Serve with flatbread.
 
-Stew (without mint) can be made 3 days ahead. Let cool; cover and chill. Add mint just before serving.
+*Do ahead: Stew (without mint) can be made 3 days ahead. Let cool; cover and chill. Add mint just before serving.*
 
 ## Reference
 * https://www.bonappetit.com/recipe/chicken-and-tomato-stew-with-caramelized-lemon

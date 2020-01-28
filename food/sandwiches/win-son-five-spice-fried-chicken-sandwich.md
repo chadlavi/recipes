@@ -36,7 +36,7 @@ Chicken
 Sauce
 * Whisk mayonnaise, fermented bean curd (if using), and soy sauce in a small bowl until sauce is smooth.
 
-    *Do Ahead: Sauce can be made 3 days ahead. Store airtight at room temperature. Cover and chill.*
+*Do Ahead: Sauce can be made 3 days ahead. Store airtight at room temperature. Cover and chill.*
 
 Assembly
 1. Mix five-spice powder and cayenne in a small bowl.

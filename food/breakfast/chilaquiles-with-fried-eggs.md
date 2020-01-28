@@ -27,7 +27,9 @@ Assembly:
 ## Directions
 Red Chile Sauce
 1. Place chiles in a medium bowl; cover with 2 cups boiling water. Let chiles soak until softened, about 15 minutes. Drain, reserving soaking liquid. Discard stems and seeds; place chiles in a blender. Add tomatoes, next 4 ingredients, and 1 cup reserved soaking liquid; purée until smooth.
-2. Heat oil in a medium saucepan over medium-high heat. Add purée (it will splatter) and bring to a boil. Reduce heat to medium and simmer, partially covered and stirring occasionally, until slightly thickened, about 15 minutes (add more reserved soaking liquid if too thick). Stir in honey and season to taste with salt and pepper. DO AHEAD: Can be made 3 days ahead. Cover and chill. Rewarm before using.
+2. Heat oil in a medium saucepan over medium-high heat. Add purée (it will splatter) and bring to a boil. Reduce heat to medium and simmer, partially covered and stirring occasionally, until slightly thickened, about 15 minutes (add more reserved soaking liquid if too thick). Stir in honey and season to taste with salt and pepper. 
+
+*Do ahead: Can be made 3 days ahead. Cover and chill. Rewarm before using.*
 
 Assembly
 1. Place a wire rack on a rimmed baking sheet. Pour oil into a large skillet to a depth of 1 1/2 inches. Prop deep-fry thermometer in skillet with bulb submerged. Heat over medium-high heat until thermometer registers 350°. Working in batches, fry tortillas, occasionally turning with tongs, until crisp, 2–3 minutes. Transfer chips to prepared sheet and season with salt.

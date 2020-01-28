@@ -22,7 +22,7 @@ Makes 16 to 20 tacos.
 5. Put the lamb in a deep baking dish or a Dutch oven just large enough to hold it, then rub the adobo all over the meat and pour any remaining adobo over it. Swish 1/4 cup water in the blender and add it to the pot. Cover the pot with a tight-fitting lid or two layers of heavy-duty foil. Cook in the oven, basting occasionally, until the meat is fork-tender, about 2 1/2 hours.
 6. Coarsely shred the meat with tongs and return it to the sauce in the Dutch oven. Season to taste with more vinegar and salt.
 
-MAKE AHEAD: The saucy shredded lamb keeps in the fridge for up to three days or in the freezer for up to one month.
+*Do ahead: The saucy shredded lamb keeps in the fridge for up to three days or in the freezer for up to one month.*
 
 Serve alongside 16 to 20 warm corn tortillas and lime wedges and top with chopped white onion, chopped cilantro, and fried chile salsa or pico de gallo with lemon zest. 
 
