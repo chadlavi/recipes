@@ -230,7 +230,7 @@ You know. To cook with.
 
 ### Coffee and Tea
 * [Mojitea](./drink/tea/mojitea.md)
-* [Sweetened condensed coconut milk](./drink/coffee/vietnamese-iced-coffee.md)
+* [Vietnamese iced coffee with sweetened condensed coconut milk](./drink/coffee/vietnamese-iced-coffee.md)
 
 ### Brewing
 * [Brasserie à Vapeur's Saison de Pipaix clone](./drink/beers/saison-de-pipaix-clone.md)
