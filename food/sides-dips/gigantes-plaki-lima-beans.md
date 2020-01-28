@@ -1,4 +1,5 @@
 # Gigantes Plakis
+I don't know anymore where I got his recipe (the original author's quirks definitely come through in the writing style), but it certainly is delicious.
 
 ## Ingredients
 * 1 pound dried beans (gigantes or large lima beans)
