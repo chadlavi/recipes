@@ -14,4 +14,6 @@ jobs:
         ./utils/indexer.sh > README.md
         git config --global user.email "chad@chadlavimoniere.com"
         git config --global user.name "Chad Lavimoniere (CI)"
-        git commit -am "update README" && git push
+        if [ "$(git status --porcelain)" ]; then
+          git commit -am "update README" && git push
+        fi
