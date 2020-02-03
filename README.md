@@ -25,6 +25,7 @@ You know. To cook with.
 ### Breads
 * [Alton Brown's Popovers](./food/bread/alton-brown-popovers.md)
 * [Bagels](./food/bread/bagels.md)
+* [Challah (from _Joy of Cooking_)](./food/bread/joy-of-cooking-challah.md)
 * [Challah](./food/bread/challah.md)
 * [Jim Lahey's No-Knead Bread](./food/bread/jim-lahey-no-knead-bread.md)
 * [Mushroom and Gruyère stuffed baguette](./food/bread/mushroom-gruyere-stuffed-baguette.md)
@@ -62,8 +63,10 @@ You know. To cook with.
 * [Oatmeal Peanut Butter Cookies](./food/desserts/cookies/oatmeal-peanut-butter-cookies.md)
 * [Perfect Chocolate Chip Cookies](./food/desserts/cookies/chocolate-chip-cookies.md)
 * [Pies 'n' Thighs Apple Pie](./food/desserts/pies/pies-n-thighs-apple-pie.md)
+* [Sandi Gant's Sweet Potato Pie](./food/desserts/pies/sandi-gant-sweet-potato-pie.md)
 * [Slab pie](./food/desserts/pies/slab-pie.md)
-* [Tarte Tatin](./food/desserts/tarte-tatin.md)
+* [Tarte Tatin](./food/desserts/pies/tarte-tatin.md)
+* [Tiramisu](./food/desserts/tiramisu.md)
 * [Vegan Chewy Ginger Molasses Cookies](./food/desserts/cookies/chewy-ginger-molasses-cookies.md)
 
 ### Main courses
@@ -112,6 +115,7 @@ You know. To cook with.
 
 ### Pasta
 * [Creamy Tomato Parmesan Linguine](./food/pasta/creamy-tomato-parmesan-linguine.md)
+* [Gnocchi](./food/pasta/gnocchi.md)
 * [Kale pesto](./food/pasta/kale-pesto.md)
 * [Linguine Broccoli Shrimp](./food/pasta/linguine-broccoli-shrimp.md)
 * [Maureen Sullivan's Pasta Dough](./food/pasta/maureen-sullivan-pasta-dough.md)
@@ -170,6 +174,7 @@ You know. To cook with.
 * [Mujadara(ish)](./food/sides-dips/mujadara-ish.md)
 * [Mujadara](./food/sides-dips/mujadara.md)
 * [Potato Rösti](./food/sides-dips/potato-rosti.md)
+* [Sandi Gant's Sweet Potato Casserole](./food/sides-dips/sandi-gant-sweet-potato-casserole.md)
 * [Stuffing](./food/sides-dips/stuffing.md)
 * [Tony's Braised Beets](./food/sides-dips/tonybs-braised-beets.md)
 
