@@ -235,6 +235,7 @@ You know. To cook with.
 * [White Lady](./drink/cocktails/white-lady.md)
 
 ### Coffee and Tea
+* [Café au lait au bol](./drink/coffee/bowl-café-au-lait.md)
 * [Mojitea](./drink/tea/mojitea.md)
 * [Vietnamese iced coffee with sweetened condensed coconut milk](./drink/coffee/vietnamese-iced-coffee.md)
 
