@@ -1,8 +1,6 @@
 ## Contents
 
-### Food
-
-#### Breads
+### Breads
 * [Alton Brown's Popovers](./food/bread/alton-brown-popovers.md)
 * [Bagels](./food/bread/bagels.md)
 * [Challah (from _Joy of Cooking_)](./food/bread/joy-of-cooking-challah.md)
@@ -16,14 +14,14 @@
 * [Tartine Bakery Sourdough Country Bread](./food/bread/tartine-sourdough.md)
 * [The Simplest Brioche](./food/bread/simple-brioche.md)
 
-#### Breakfasts
+### Breakfasts
 * [Chilaquiles with Fried Eggs](./food/breakfast/chilaquiles-with-fried-eggs.md)
 * [Sourdough Pancakes](./food/breakfast/sourdough-starter-pancakes.md)
 * [Teresa Finney's Grandma's Chilaquiles](./food/breakfast/teresa-finney-chilaquiles.md)
 * [Waffles](./food/breakfast/waffles.md)
 * [Whole Wheat Pancakes](./food/breakfast/whole-wheat-pancakes.md)
 
-#### Desserts
+### Desserts
 * [Big Berry Pie](./food/desserts/pies/big-berry-pie.md)
 * [Blueberry & Banana Bread](./food/desserts/dessert-breads/blueberry-banana-bread.md)
 * [Blueberry Pound Cake](./food/desserts/dessert-breads/blueberry-pound-cake.md)
@@ -49,7 +47,7 @@
 * [Tiramisu](./food/desserts/tiramisu.md)
 * [Vegan Chewy Ginger Molasses Cookies](./food/desserts/cookies/chewy-ginger-molasses-cookies.md)
 
-#### Main courses
+### Main courses
 * [Beef Chili](./food/mains/beef-chili.md)
 * [Beef Plov](./food/mains/beef-plov.md)
 * [Broccoli Parmesan Fritters](./food/mains/broccoli-parmesan-fritters.md)
@@ -93,7 +91,7 @@
 * [Vegan Shiitake Bacon from By Chloe](./food/mains/by-chloe-vegan-shiitake-bacon.md)
 * [Vegan Tacos Al Pastor](./food/mains/vegan-tacos-al-pastor.md)
 
-#### Pasta
+### Pasta
 * [Creamy Tomato Parmesan Linguine](./food/pasta/creamy-tomato-parmesan-linguine.md)
 * [Gnocchi](./food/pasta/gnocchi.md)
 * [Kale pesto](./food/pasta/kale-pesto.md)
@@ -102,7 +100,7 @@
 * [One-Pan Linguine](./food/pasta/one-pan-linguine.md)
 * [Rao's Meatballs](./food/pasta/raos-meatballs.md)
 
-#### Pizza
+### Pizza
 * [Detroit Style Pizza](./food/pizza/kenji-lopez-alt-detroit-style-pizza.md)
 * [Foolproof Pan Pizza](./food/pizza/foolproof-pan-pizza.md)
 * [Pizza, Updated](./food/pizza/deb-perelman-pizza.md)
@@ -110,7 +108,7 @@
 * [Roberta's pizza](./food/pizza/robertas-pizza.md)
 * [Sicilian sheet pizza](./food/pizza/sicilian-sheet-pizza.md)
 
-#### Salads
+### Salads
 * [Celery and Fennel Salad](./food/salads/celery-fennel-salad.md)
 * [Corn salad with mint and feta](./food/salads/corn-mint-feta-salad.md)
 * [Nancy's Salad from Sweetgreens](./food/salads/nancys-sweetgreen-salad.md)
@@ -118,11 +116,11 @@
 * [Sam Meyer's Danish Cucumber Salad](./food/salads/sam-meyer-danish-cucumber-salad.md)
 * [Summer Salad](./food/salads/summer-salad.md)
 
-#### Sandwiches
+### Sandwiches
 * [In-N-Out Animal Style Burgers](./food/sandwiches/in-and-out-animal-style-burger.md)
 * [Win Son's Five Spice Fried Chicken Sandwich](./food/sandwiches/win-son-five-spice-fried-chicken-sandwich.md)
 
-#### Snacks
+### Snacks
 * [Cheese Crackers](./food/snacks/cheese-crackers.md)
 * [Crisp Rosemary Flatbread](./food/snacks/deb-perelman-rosemary-flatbread-crackers.md)
 * [Deep Fried Chick Peas](./food/snacks/deep-fried-chickpeas.md)
@@ -133,18 +131,18 @@
 * [Texan Queso](./food/snacks/texan-queso.md)
 * [Win Son's Roasted Peanuts](./food/snacks/win-son-roasted-peanuts.md)
 
-#### Soup
+### Soup
 * [Borscht](./food/soup/borscht.md)
 * [Caldo Verde](./food/soup/caldo-verde.md)
 * [Chicken lentil soup with jammy onions](./food/soup/chicken-lentil-soup.md)
 * [Matzoh Ball Soup](./food/soup/matzoh-ball-soup.md)
 
-#### Cured and pickled
+### Cured and pickled
 * [Citrus and Dill gravlox](./food/cured-pickled/citrus-dill-gravlax.md)
 * [Pickled Celery](./food/cured-pickled/pickled-celery.md)
 * [Vietnamese Pickled Vegetables (Do Chua)](./food/cured-pickled/do-chua-vietnamese-quick-pickles.md)
 
-#### Sides and dips
+### Sides and dips
 * [Baba Ganoush](./food/sides-dips/baba-ganoush.md)
 * [Beer and Bacon Butter Beans](./food/sides-dips/beer-and-bacon-butter-beans.md)
 * [Couscous with Butternut Squash, Pepitas and Cranberries](./food/sides-dips/couscous-butternut-squash-pepitas-cranberries.md)
@@ -158,16 +156,14 @@
 * [Stuffing](./food/sides-dips/stuffing.md)
 * [Tony's Braised Beets](./food/sides-dips/tonybs-braised-beets.md)
 
-#### Condiments, sauces and toppings
+### Condiments, sauces and toppings
 * [Chile Vinegar Sauce](./food/condiments-sauces-toppings/chile-vinegar-sauce.md)
 * [Cranberry sauce](./food/condiments-sauces-toppings/cranberry-sauce.md)
 * [Garlic serrano coconut crisp](./food/condiments-sauces-toppings/garlic-serrano-coconut-crisp.md)
 * [In-N-Out Animal Style Onions](./food/condiments-sauces-toppings/in-n-out-onions.md)
 * [Sandi Gant's adjusted BBQ sauce](./food/condiments-sauces-toppings/adjusted-bbq-sauce.md)
 
-### Drinks
-
-#### Cocktails
+### Cocktails
 * [Americano Highball](./drink/cocktails/americano-highball.md)
 * [Aromatic Collins](./drink/cocktails/aromatic-collins.md)
 * [Black Cherry Cranberry Fizz](./drink/cocktails/black-cherry-cranberry-vodka-fizz.md)
@@ -214,12 +210,12 @@
 * [Whiskey Sour](./drink/cocktails/whiskey-sour.md)
 * [White Lady](./drink/cocktails/white-lady.md)
 
-#### Coffee and Tea
+### Coffee and Tea
 * [Café au lait au bol](./drink/coffee/bowl-café-au-lait.md)
 * [Mojitea](./drink/tea/mojitea.md)
 * [Vietnamese iced coffee with sweetened condensed coconut milk](./drink/coffee/vietnamese-iced-coffee.md)
 
-#### Brewing
+### Brewing
 * [Brasserie à Vapeur's Saison de Pipaix clone](./drink/beers/saison-de-pipaix-clone.md)
 * [Derek Hawkins' Thanksgiving Biere de Garde](./drink/beers/biere-de-garde-derek-hawkins.md)
 * [Oskar Blues Old Chub Scotch Ale clone](./drink/beers/oskar-blues-old-chub-scotch-ale-clone.md)
