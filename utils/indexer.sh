@@ -23,56 +23,52 @@ foodLinks="$(filter "$markdownLinks" food | sort)"
 
 echo "$start
 
-### Food
-
-#### Breads
+### Breads
 $(filter "$foodLinks" "/bread")
 
-#### Breakfasts
+### Breakfasts
 $(filter "$foodLinks" breakfast)
 
-#### Desserts
+### Desserts
 $(filter "$foodLinks" desserts)
 
-#### Main courses
+### Main courses
 $(filter "$foodLinks" mains)
 
-#### Pasta
+### Pasta
 $(filter "$foodLinks" pasta)
 
-#### Pizza
+### Pizza
 $(filter "$foodLinks" pizza)
 
-#### Salads
+### Salads
 $(filter "$foodLinks" salads)
 
-#### Sandwiches
+### Sandwiches
 $(filter "$foodLinks" sandwiches)
 
-#### Snacks
+### Snacks
 $(filter "$foodLinks" snacks)
 
-#### Soup
+### Soup
 $(filter "$foodLinks" soup)
 
-#### Cured and pickled
+### Cured and pickled
 $(filter "$foodLinks" cured-pickled)
 
-#### Sides and dips
+### Sides and dips
 $(filter "$foodLinks" sides-dips)
 
-#### Condiments, sauces and toppings
+### Condiments, sauces and toppings
 $(filter "$foodLinks" condiments-sauces-toppings)
 
-### Drinks
-
-#### Cocktails
+### Cocktails
 $(filter "$drinkLinks" cocktails)
 
-#### Coffee and Tea
+### Coffee and Tea
 $(filter "$drinkLinks" coffee\|tea)
 
-#### Brewing
+### Brewing
 $(filter "$drinkLinks" beers)
 
 $end"
