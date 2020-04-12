@@ -12,4 +12,4 @@
 3. Fill the rest of the glass with sweetened condensed coconut milk. Stir, taste and add more milk if desired.
 
 ## Reference
-* https://theveganword.com/vietnamese-iced-coffee-with-sweetened-condensed-coconut-milk-recipe/
+* <https://theveganword.com/vietnamese-iced-coffee-with-sweetened-condensed-coconut-milk-recipe/>

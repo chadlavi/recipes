@@ -42,4 +42,4 @@ For the biscuits:
 7. Remove the insert from the slow-cooker base. Stir in the peas, chives and parsley. Arrange the biscuits on top and brush with the melted butter. Transfer to the oven and bake until the biscuits are golden brown and a toothpick inserted into the center of a biscuit comes out clean, 20 to 25 minutes. Let rest for 15 minutes before serving. Serves 8 to 10.
 
 ## Reference
-* http://www.williams-sonoma.com/recipe/slow-cooked-chicken-herb-biscuit.html
+* <http://www.williams-sonoma.com/recipe/slow-cooked-chicken-herb-biscuit.html>

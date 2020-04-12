@@ -18,4 +18,4 @@
 3. Divide kale and grains into 4 bowls. Top each with an egg, seasoning with salt and pepper. Garnish with shaved Parmesan, if using. Serve, passing chili sauce at the table, if desired.  
 
 ## Reference
-* http://www.seriouseats.com/recipes/2017/04/stir-fried-farro-garlicky-kale-poached-egg-recipe.html
+* <http://www.seriouseats.com/recipes/2017/04/stir-fried-farro-garlicky-kale-poached-egg-recipe.html>

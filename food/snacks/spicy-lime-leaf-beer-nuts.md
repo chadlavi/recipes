@@ -15,4 +15,4 @@
 4. Using your hands, finely crush the lime leaves and chiles over the peanuts. Add the garlic and toss to combine. Transfer the peanuts to small bowls and serve warm or at room temperature.
 
 # Reference
-* http://www.foodandwine.com/recipes/spicy-lime-leaf-beer-nuts
+* <http://www.foodandwine.com/recipes/spicy-lime-leaf-beer-nuts>

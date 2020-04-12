@@ -14,4 +14,4 @@
 *Do ahead: The onions can be made up to 3 days ahead; cover and refrigerate, then reheat before using.*
 
 ## Reference
-* http://www.foodnetwork.com/recipes/food-network-kitchen/almost-famous-animal-style-burgers-recipe-2043000
+* <http://www.foodnetwork.com/recipes/food-network-kitchen/almost-famous-animal-style-burgers-recipe-2043000>

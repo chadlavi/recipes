@@ -29,5 +29,5 @@
 3. Add a splash of olive oil and a pinch of salt, blend until smooth, and taste. Add more olive oil and salt to taste, if needed, but keep in mind that the sauce will reduce a little bit when it’s baked on a pizza, so it will only get saltier. The sauce will keep in the refrigerator for up to a week, and up to 6 months in the freezer.
 
 ## Reference
-* https://www.ediblebrooklyn.com/2013/recipe-robertas-margherita-pizza-and-cookbook-giveaway/
-* https://www.nytimes.com/2014/04/09/dining/a-little-pizza-homework.html
+* <https://www.ediblebrooklyn.com/2013/recipe-robertas-margherita-pizza-and-cookbook-giveaway/>
+* <https://www.nytimes.com/2014/04/09/dining/a-little-pizza-homework.html>

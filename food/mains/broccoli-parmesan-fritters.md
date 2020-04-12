@@ -18,5 +18,5 @@
 5. Transfer briefly to paper towels to drain, then to a serving plate if you’ll be eating them shortly or a baking sheet in a 200 degree oven if you’d like to keep them warm for a while until needed. Repeat with remaining batter, adding more oil as needed.
 
 ## Reference
-* http://smittenkitchen.com/blog/2012/06/broccoli-parmesan-fritters
+* <http://smittenkitchen.com/blog/2012/06/broccoli-parmesan-fritters>
 

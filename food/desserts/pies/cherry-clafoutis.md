@@ -17,4 +17,4 @@
 2. Pour batter into buttered skillet, then distribute cherries evenly over top. Bake until a skewer inserted into batter comes out clean and a golden brown crust has formed on top and bottom of clafoutis, about 30 minutes. Dust with confectioners' sugar before serving.
 
 ## Reference
-* http://www.saveur.com/article/Recipes/Cherry-Clafoutis
+* <http://www.saveur.com/article/Recipes/Cherry-Clafoutis>

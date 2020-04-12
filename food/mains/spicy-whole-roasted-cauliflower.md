@@ -21,5 +21,5 @@
 6. Let the cauliflower cool for 10 minutes before cutting it into wedges and serving alongside a big green salad.
 
 ## Reference
-* http://www.purewow.com/entry_detail/recipe/8821/Forget-florets--roast-the-whole-damn-cauliflower.htm
+* <http://www.purewow.com/entry_detail/recipe/8821/Forget-florets--roast-the-whole-damn-cauliflower.htm>
 

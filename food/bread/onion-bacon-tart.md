@@ -14,4 +14,4 @@
 2. Heat oven to 425°. In a large bowl, whisk together flour, mustard, and pepper; add milk and eggs, and stir until smooth. Let batter rest for 10 minutes. Meanwhile, place baking dish with bacon fat in oven and let heat for 10 minutes. Remove baking dish from oven, pour in batter, and sprinkle with rendered bacon and caramelized onions; return to oven and bake until puffed and golden brown, about 30 minutes.
 
 ## Reference
-* http://www.saveur.com/article/Recipes/Onion-and-Bacon-Tart
+* <http://www.saveur.com/article/Recipes/Onion-and-Bacon-Tart>

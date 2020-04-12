@@ -46,4 +46,4 @@ Transfer rounds, seam-side up, to prepared baskets. Cover with a towel and retur
 6. Transfer bread to a wire rack to cool for at least 15 minutes before slicing. The bottom of the loaf should sound hollow when tapped. Increase oven temperature to 500 degrees, clean out pot and repeat this process with the second loaf.
 
 ## Reference
-* https://cooking.nytimes.com/recipes/1016277-tartines-country-bread
+* <https://cooking.nytimes.com/recipes/1016277-tartines-country-bread>

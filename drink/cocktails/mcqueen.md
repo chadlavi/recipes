@@ -12,4 +12,4 @@ Strain into a rocks glass over fresh ice.
 Squeeze a big grapefruit peel over the top, then add it to the drink as a garnish.
 
 ## Reference
-* http://www.foodandwine.com/fwx/drink/3-perfect-drinks-smoky-world-mezcal
+* <http://www.foodandwine.com/fwx/drink/3-perfect-drinks-smoky-world-mezcal>

@@ -8,4 +8,4 @@ In a cocktail shaker with ice, combine
 Shake and strain into a tall glass with fresh ice. Top with 3 1/2 ounces of ginger beer. Garnish with a lime wheel.
 
 ## Reference
-* http://www.foodandwine.com/fwx/drink/3-simple-ways-learn-love-fernet-branca
+* <http://www.foodandwine.com/fwx/drink/3-simple-ways-learn-love-fernet-branca>

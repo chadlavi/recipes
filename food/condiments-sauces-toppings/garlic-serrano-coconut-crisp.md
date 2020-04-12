@@ -13,4 +13,4 @@
 4. Remove to a bowl and lightly salt
 
 ## References
-* https://www.bonappetit.com/recipe/turmeric-salmon-with-coconut-crisp
+* <https://www.bonappetit.com/recipe/turmeric-salmon-with-coconut-crisp>

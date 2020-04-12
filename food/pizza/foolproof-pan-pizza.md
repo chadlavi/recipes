@@ -24,4 +24,4 @@
 *Note: Although mozzarella is standard, any good melting cheese such as cheddar, jack, or young provolone will work for this recipe. This recipe is intended to be made with dry (aged) mozzarella cheese, the yellowish variety that comes in firm blocks. Do not use fresh mozzarella, as it it too moist. If you only want to bake one pizza at a time, you can transfer 1 ball of dough to a sealed zipperlock bag or container in step 3 and store it in the refrigerator for up to 3 days. Continue with step 4 when ready to bake.*
 
 ## Reference
-* http://www.seriouseats.com/recipes/2013/01/foolproof-pan-pizza-recipe.html
+* <http://www.seriouseats.com/recipes/2013/01/foolproof-pan-pizza-recipe.html>

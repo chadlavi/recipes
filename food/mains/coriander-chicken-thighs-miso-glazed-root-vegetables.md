@@ -25,4 +25,4 @@
 Discard stems from reserved beet and turnip greens; wash and roughly chop the leaves. Pour out all but 2 teaspoons of oil from the skillet and place the pan over medium-high heat. Add the greens to the pan with 2 tablespoons water and 1/4 teaspoon salt and cook, tossing, until wilted, 1 to 2 minutes. Transfer roasted vegetables to a serving bowl, add the sautéed greens, and toss to combine. Taste and adjust seasoning. Serve chicken thighs with vegetables and lime wedges.
 
 ## Reference
-* http://www.epicurious.com/recipes/food/views/Coriander-Chicken-Thighs-with-Miso-Glazed-Root-Vegetables-51248820
+* <http://www.epicurious.com/recipes/food/views/Coriander-Chicken-Thighs-with-Miso-Glazed-Root-Vegetables-51248820>

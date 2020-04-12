@@ -42,4 +42,4 @@
 10. Allow to cool completely on a wire rack, 2 to 3 hours. Serve slightly warm, at room temperature, or cool.
 
 ## Reference
-* https://www.seriouseats.com/recipes/2014/01/four-and-twenty-blackbirds-egg-n-grogg-pie.html
+* <https://www.seriouseats.com/recipes/2014/01/four-and-twenty-blackbirds-egg-n-grogg-pie.html>

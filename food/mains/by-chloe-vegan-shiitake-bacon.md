@@ -12,4 +12,4 @@
 4. Remove mushrooms from the oven when they’re crispy and golden brown and reduced in size by about half (approximately 15 minutes).
 
 ## Reference
-* http://gothamist.com/2015/12/11/by_chloe_vegan_bacon_magic_recipe.php
+* <http://gothamist.com/2015/12/11/by_chloe_vegan_bacon_magic_recipe.php>

@@ -28,4 +28,4 @@
 9. Poke 7-10 holes through the rice to allow steam to escape to the surface, reduce the heat to low then cover and cook an additional 15 minutes or until rice is cooked through. Remove the garlic head and bay leaves and stir everything gently to combine and you’re done.
 
 ## Reference
-* http://natashaskitchen.com/2013/05/15/beef-plov-beef-rice-pilaf-recipe/
+* <http://natashaskitchen.com/2013/05/15/beef-plov-beef-rice-pilaf-recipe/>

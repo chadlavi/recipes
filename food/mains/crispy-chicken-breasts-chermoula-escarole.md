@@ -19,4 +19,4 @@
 3. Combine cilantro, lemon juice, and 2 Tbsp. garlic-shallot mixture in a large bowl; season chermoula with salt and pepper. Add escarole and toss to coat. Slice chicken and arrange on top. Spoon remaining garlic-shallot mixture over and drizzle with more lemon juice, if desired.
 
 ## Reference
-* http://www.bonappetit.com/recipe/crispy-chicken-breasts-with-chermoula-and-escarole
+* <http://www.bonappetit.com/recipe/crispy-chicken-breasts-with-chermoula-and-escarole>

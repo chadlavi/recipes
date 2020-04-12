@@ -18,5 +18,5 @@
 2. Add potatoes and stock and bring to a simmer, stirring occasionally. Add kale and continue to cook until russet potato slices have completely broken down (you can press them with a spoon or potato masher for an even thicker texture), the Yukon Golds are tender, the greens have softened, and the soup has thickened to a creamy consistency, 25 to 30 minutes. Stir in sausage. Season soup to taste with salt and pepper and serve garnished with chives, if desired.
 
 ## Reference
-* http://www.seriouseats.com/2017/01/how-to-make-caldo-verde-portuguese-kale-potato-soup.html
-* http://www.seriouseats.com/recipes/2014/10/best-rich-easy-white-chicken-stock-recipe.html
+* <http://www.seriouseats.com/2017/01/how-to-make-caldo-verde-portuguese-kale-potato-soup.html>
+* <http://www.seriouseats.com/recipes/2014/10/best-rich-easy-white-chicken-stock-recipe.html>

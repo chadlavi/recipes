@@ -16,4 +16,4 @@
 5. Add kale and parmesan, then purée, adding water 1 Tbsp at a time (only if needed) until smooth.
 
 ## Reference
-* https://www.bonappetit.com/recipe/kale-pesto-with-whole-wheat-pasta
+* <https://www.bonappetit.com/recipe/kale-pesto-with-whole-wheat-pasta>

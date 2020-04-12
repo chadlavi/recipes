@@ -17,4 +17,4 @@
 3. Preheat oven to 500°. Remove plastic wrap and dimple dough with your fing oregano over dough; season with salt and pepper. Bake focaccia until golde temperature before slicing.
 
 ## Reference
-* http://www.bonappetit.com/recipe/rosemary-and-onion-focaccia
+* <http://www.bonappetit.com/recipe/rosemary-and-onion-focaccia>

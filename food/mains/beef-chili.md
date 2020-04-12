@@ -28,4 +28,4 @@
 *Do Ahead: Chili can be made 4 days ahead. Let cool; cover and chill. Reheat gently over low, stirring occasionally, and adding a splash of water to loosen if needed.*
 
 ## Reference
-* https://www.bonappetit.com/recipe/meaty-beef-chili
+* <https://www.bonappetit.com/recipe/meaty-beef-chili>

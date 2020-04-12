@@ -22,4 +22,4 @@ Really, this is a dal.
 5. Ladle soup into bowls; drizzle with yogurt and top with reserved onion mixture, dividing evenly.
 
 ## Reference
-* https://www.bonappetit.com/recipe/chicken-lentil-soup-with-jammy-onions
+* <https://www.bonappetit.com/recipe/chicken-lentil-soup-with-jammy-onions>

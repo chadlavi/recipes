@@ -15,4 +15,4 @@
 7. Transfer to a plate; let rest 5 minutes before serving.
 
 ## Reference
-* https://www.bonappetit.com/recipe/perfect-pan-roasted-chicken-thighs
+* <https://www.bonappetit.com/recipe/perfect-pan-roasted-chicken-thighs>

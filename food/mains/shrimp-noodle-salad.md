@@ -23,4 +23,4 @@
 5. Divide noodle salad among bowls and top with remaining peanuts.
 
 ## Reference
-* https://www.bonappetit.com/recipe/bright-and-spicy-shrimp-noodle-salad
+* <https://www.bonappetit.com/recipe/bright-and-spicy-shrimp-noodle-salad>

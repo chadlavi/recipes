@@ -34,8 +34,8 @@ This recipe makes 1 Detroit-style pizza in a 10x14 pan. Give yourself at least 1
 
 
 ## Reference
-* https://www.ediblebrooklyn.com/2013/recipe-robertas-margherita-pizza-and-cookbook-giveaway/
-* https://www.nytimes.com/2014/04/09/dining/a-little-pizza-homework.html
+* <https://www.ediblebrooklyn.com/2013/recipe-robertas-margherita-pizza-and-cookbook-giveaway/>
+* <https://www.nytimes.com/2014/04/09/dining/a-little-pizza-homework.html>
 
 ## Notes
 ### 2018-11-11

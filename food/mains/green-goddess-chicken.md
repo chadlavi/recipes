@@ -19,4 +19,4 @@
 3. Heat oven to 500 degrees. Remove chicken from the marinade, shaking off as much liquid as possible, and lay the halves on a rimmed baking sheet. (Discard the used marinade.) Pat chicken tops dry with paper towels and drizzle with oil. Roast until cooked through, about 30 to 45 minutes. Let rest for 10 minutes before serving, with some of the reserved sauce if you like.
 
 ## Reference
-* https://cooking.nytimes.com/recipes/1015232-green-goddess-roasted-chicken
+* <https://cooking.nytimes.com/recipes/1015232-green-goddess-roasted-chicken>

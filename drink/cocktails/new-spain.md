@@ -14,4 +14,4 @@
 3. Strain into an old-fashioned or on-the-rocks glass. Add a wheel of lime and grate a small dusting of nutmeg over the top.
 
 ## Reference
-* https://www.davidlebovitz.com/the-new-spain-mezcal-sherry-cocktail/
+* <https://www.davidlebovitz.com/the-new-spain-mezcal-sherry-cocktail/>

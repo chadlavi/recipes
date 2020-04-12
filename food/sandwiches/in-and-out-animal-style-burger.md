@@ -40,4 +40,4 @@ Assemble:
 * Top 4 of the patties with caramelized onions, then cover with the remaining patties, cheese-side up. Sandwich the double patties on the buns.
 
 ## Reference
-* http://www.foodnetwork.com/recipes/food-network-kitchen/almost-famous-animal-style-burgers-recipe-2043000
+* <http://www.foodnetwork.com/recipes/food-network-kitchen/almost-famous-animal-style-burgers-recipe-2043000>

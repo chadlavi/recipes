@@ -18,4 +18,4 @@
 2. To serve, pour 4 ounces Boulevardier into a lowball or coupe glass. Holding an orange peel by its long edges, skin facing down into the glass, pinch the peel to release the citrus oils, then add it to the glass and serve.
 
 ## Reference
-* https://cooking.nytimes.com/recipes/1020675-batched-boulevardier
+* <https://cooking.nytimes.com/recipes/1020675-batched-boulevardier>

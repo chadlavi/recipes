@@ -18,4 +18,4 @@
 *Do ahead: Flatbread can be made 2 days ahead and cooled completely, then kept in an airtight container at room temperature.*
 
 ## Reference
-* http://smittenkitchen.com/blog/2008/08/crisp-rosemary-flatbread/
+* <http://smittenkitchen.com/blog/2008/08/crisp-rosemary-flatbread/>

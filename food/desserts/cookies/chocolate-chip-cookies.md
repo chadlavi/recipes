@@ -32,5 +32,5 @@ Makes 15 - 30 cookies depending on size.
 * Flour Tips: Don't over-mix cookie batter especially after the flour is added and add it gradually.
 
 ## Reference
-* http://www.thebakingchocolatess.com/perfect-chocolate-chip-cookies/
-* found from: https://mltshp.com/p/1CMS4
+* <http://www.thebakingchocolatess.com/perfect-chocolate-chip-cookies/>
+* found from: <https://mltshp.com/p/1CMS4>

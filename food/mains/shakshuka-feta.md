@@ -22,4 +22,4 @@
 3.  Gently crack eggs into skillet over tomatoes. Season with salt and pepper. Transfer skillet to oven and bake until eggs are just set, 7 to 10 minutes. Sprinkle with cilantro and serve with hot sauce.
 
 ## Reference
-* http://www.nytimes.com/recipes/1014721/Shakshuka-with-Feta-.html
+* <http://www.nytimes.com/recipes/1014721/Shakshuka-with-Feta-.html>

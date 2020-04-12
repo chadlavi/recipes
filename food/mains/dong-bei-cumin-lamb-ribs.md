@@ -19,4 +19,4 @@
 4. When ribs are tender, remove from heat, transfer to a paper towel to remove excess water, and let cool slightly. Dry carefully. Heat oil or butter in a large non-stick skillet over medium heat until shimmering. Add the ribs and brown on one side until golden brown and crispy, about 5 minutes. Flip and brown on the other side. When ribs are done browning, remove to a platter and pat off residual oil with a paper towel. Immediately sprinkle spice mixture over the hot ribs, patting the mixture down so it sticks to the surface of the meat. Serve immediately.
 
 ## Reference
-* https://www.seriouseats.com/recipes/2012/06/lamb-or-goat-ribs-dong-bei-style-recipe.html
+* <https://www.seriouseats.com/recipes/2012/06/lamb-or-goat-ribs-dong-bei-style-recipe.html>

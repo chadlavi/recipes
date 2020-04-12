@@ -23,4 +23,4 @@ Frosting:
 5. Spread the cream cheese frosting over the cooled cake and scatter over the remaining blueberries. The cake will keep in the fridge for a couple of days (if it lasts that long).
 
 # Reference
-* http://afternoontease.co.uk/2011/01/09/deliciously-moist-blueberry-soured-cream-cake/
+* <http://afternoontease.co.uk/2011/01/09/deliciously-moist-blueberry-soured-cream-cake/>

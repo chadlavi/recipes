@@ -38,4 +38,4 @@ Assembly
 4. Top chilaquiles with chopped onion, radishes, cilantro, and lime wedges. Top with fried eggs and serve with remaining sauce alongside.
 
 ## Reference
-* https://www.bonappetit.com/recipe/chilaquiles-with-fried-eggs
+* <https://www.bonappetit.com/recipe/chilaquiles-with-fried-eggs>

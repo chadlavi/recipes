@@ -16,4 +16,4 @@
 4. Pour 3 tbsp. batter into each cup; bake until puffed and golden brown, about 30 minutes.
 
 ## Reference
-* http://www.saveur.com/article/Recipes/Goose-Rosemary-Popovers
+* <http://www.saveur.com/article/Recipes/Goose-Rosemary-Popovers>

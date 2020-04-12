@@ -22,4 +22,4 @@ Makes 28 meatballs
 3. Lower cooked meatballs into simmering marinara sauce and cook for 15 minutes. Serve alone or with pasta.
 
 ## Reference
-* https://food52.com/recipes/22467-rao-s-meatballs
+* <https://food52.com/recipes/22467-rao-s-meatballs>

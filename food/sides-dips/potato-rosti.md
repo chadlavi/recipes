@@ -14,4 +14,4 @@
 4. Cover skillet with a large inverted plate and then turn the pan over to transfer the rösti onto the plate. Add the remaining schmaltz to the skillet, then slide the rösti back into the skillet, cooked side up; cook until golden brown on the bottom, about 20 minutes more. Transfer to a cutting board and cut into wedges to serve.
 
 ## Reference
-* http://www.tastingtable.com/entry_detail/national/16625/recipes_home/Potato_Rosti_with_Schmaltz_Thomas_Odermatt_Roli_Roti.htm
+* <http://www.tastingtable.com/entry_detail/national/16625/recipes_home/Potato_Rosti_with_Schmaltz_Thomas_Odermatt_Roli_Roti.htm>

@@ -20,4 +20,4 @@
 2. Turn the heat to medium and cook the shallots in the bacon fat, until translucent, about 5 minutes, then add in the garlic, and stir for 1 minute. Add in the chicken stock, beer, honey, lemon juice, salt, pepper, and rosemary sprig. Bring to a boil, then cover and place in the oven for about 2 hours, until the beans are tender and some of the liquid has reduced. Stir in the 1 tablespoon of unsalted butter, taste, and season with additional salt and pepper, if necessary. Serve alongside some brats, ribs, chicken, or even on their own.
 
 ## Reference
-* http://crepesofwrath.net/2012/03/07/beer-and-bacon-butter-beans/
+* <http://crepesofwrath.net/2012/03/07/beer-and-bacon-butter-beans/>

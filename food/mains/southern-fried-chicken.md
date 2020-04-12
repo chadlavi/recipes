@@ -19,4 +19,4 @@
 5. Dredge the chicken in the mixture and fry it for 8 minutes on each side.
 
 ## Reference
-* https://mltshp.com/p/7YJA
+* <https://mltshp.com/p/7YJA>

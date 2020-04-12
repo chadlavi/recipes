@@ -26,4 +26,4 @@
 4. Transfer the dal to a large bowl and cover with the low-fat yogurt; top with tadka, stir gently and serve.
 
 ## Reference
-* http://www.nytimes.com/recipes/1014369/Makhani-Dal-Butter-DalMogul-Style.html
+* <http://www.nytimes.com/recipes/1014369/Makhani-Dal-Butter-DalMogul-Style.html>

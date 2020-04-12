@@ -10,4 +10,4 @@
 3. Remove pork from oven and tent with foil. Let rest at room temperature for at least 15 minutes and up to 2 hours. Increase oven to 500°F and allow to preheat. Return pork to the oven and roast until skin is blistered and puffed, rotating every 5 minutes, about 20 minutes total. Remove from oven, tent with foil and allow to rest an additional 15 minutes. Serve by picking in the kitchen or just bring it to the table and let guests pick meat and crispy skin themselves, dipping into sauce of their choice on the side (see note).
 
 ## Reference
-* http://www.seriouseats.com/recipes/2011/12/ultra-crispy-slow-roasted-pork-shoulder-recipe.html
+* <http://www.seriouseats.com/recipes/2011/12/ultra-crispy-slow-roasted-pork-shoulder-recipe.html>

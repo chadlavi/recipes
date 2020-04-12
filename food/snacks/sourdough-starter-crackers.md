@@ -22,4 +22,4 @@
 10. When fully browned, remove the crackers from the oven, and transfer them to a cooling rack. Store airtight at room temperature for up to a week; freeze for longer storage.
 
 ## Reference
-* https://www.kingarthurflour.com/recipes/sourdough-crackers-recipe
+* <https://www.kingarthurflour.com/recipes/sourdough-crackers-recipe>

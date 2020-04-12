@@ -26,4 +26,4 @@
 9.  Transfer the baking sheets to wire racks to cool. Once they are fully cooked, transfer coins to an airtight container, where they will keep for up to 3 weeks. (Supposedly. I suspect no one would ever let them last that long, though.)
 
 ## Reference
-* https://cooking.nytimes.com/recipes/1020040-cheese-crackers
+* <https://cooking.nytimes.com/recipes/1020040-cheese-crackers>

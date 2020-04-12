@@ -32,5 +32,5 @@
 15. Finally, garnish with a little finely chopped fresh rosemary and Parmesan.
 
 ## Reference
-* https://lostinapot.com/slow-cooked-italian-lamb-ragout/
-* https://lostinapot.com/lamb-ragu-comparison/
+* <https://lostinapot.com/slow-cooked-italian-lamb-ragout/>
+* <https://lostinapot.com/lamb-ragu-comparison/>

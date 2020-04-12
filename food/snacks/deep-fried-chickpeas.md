@@ -24,4 +24,4 @@
 * If you use dried chick peas that have been soaked in water overnight, they will turn out crispier than canned chick peas
 
 ## Reference
-* http://cookingwithali.wordpress.com/2010/04/08/deep-fried-chick-peas/
+* <http://cookingwithali.wordpress.com/2010/04/08/deep-fried-chick-peas/>

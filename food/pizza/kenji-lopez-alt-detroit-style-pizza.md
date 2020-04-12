@@ -27,4 +27,4 @@ Based on [Kenji Lopez-Alt's foolproof pan pizza dough](http://www.seriouseats.co
 *Note: Although mozzarella is standard, any good melting cheese such as cheddar, jack, or young provolone will work for this recipe. This recipe is intended to be made with dry (aged) mozzarella cheese, the yellowish variety that comes in firm blocks. Do not use fresh mozzarella, as it it too moist.*
 
 ## Reference
-* http://www.seriouseats.com/recipes/2013/01/foolproof-pan-pizza-recipe.html
+* <http://www.seriouseats.com/recipes/2013/01/foolproof-pan-pizza-recipe.html>

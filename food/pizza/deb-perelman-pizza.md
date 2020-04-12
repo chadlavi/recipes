@@ -47,4 +47,4 @@ Assembly:
 9. Bake for about 10 minutes, checking at 7. Slice and serve immediately.
 
 ## Reference
-* https://smittenkitchen.com/2007/09/pizza-even-sweeter/
+* <https://smittenkitchen.com/2007/09/pizza-even-sweeter/>

@@ -16,4 +16,4 @@
 4. Store them sealed in the jar in the refrigerator for 5 days for best flavor.
 
 ## Reference
-* http://userealbutter.com/2011/08/22/vietnamese-pickled-vegetables-recipe/
+* <http://userealbutter.com/2011/08/22/vietnamese-pickled-vegetables-recipe/>

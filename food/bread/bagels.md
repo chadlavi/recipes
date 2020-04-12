@@ -27,4 +27,4 @@
 14. Pull them from the oven, and wait an excruciating 30 minutes before you eat them.
 
 ## Reference
-* http://food52.com/recipes/print/22934
+* <http://food52.com/recipes/print/22934>

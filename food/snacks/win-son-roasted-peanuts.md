@@ -29,4 +29,4 @@
 8. Serve with a lime cheek.
 
 ## Reference
-* https://www.bonappetit.com/story/win-son-peanut-bar-snack-recipe
+* <https://www.bonappetit.com/story/win-son-peanut-bar-snack-recipe>

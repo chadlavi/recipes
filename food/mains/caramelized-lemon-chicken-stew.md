@@ -38,4 +38,4 @@
 *Do ahead: Stew (without mint) can be made 3 days ahead. Let cool; cover and chill. Add mint just before serving.*
 
 ## Reference
-* https://www.bonappetit.com/recipe/chicken-and-tomato-stew-with-caramelized-lemon
+* <https://www.bonappetit.com/recipe/chicken-and-tomato-stew-with-caramelized-lemon>

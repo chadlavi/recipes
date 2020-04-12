@@ -14,4 +14,4 @@
 4. Place a large plate on top of the skillet and carefully invert the tart. Serve warm with crème fraîche.
 
 ## Reference
-* http://www.foodandwine.com/recipes/apple-tarte-tatin
+* <http://www.foodandwine.com/recipes/apple-tarte-tatin>

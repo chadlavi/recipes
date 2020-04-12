@@ -47,4 +47,4 @@ Final assembly:
 *Do Ahead: Using a slotted spoon, transfer matzoh balls to bowls. Ladle soup over, top with dill, and season with pepper.*
 
 ## Reference
-* http://www.bonappetit.com/recipe/matzo-ball-soup
+* <http://www.bonappetit.com/recipe/matzo-ball-soup>

@@ -20,4 +20,4 @@ Beat in the liquid ingredients (milk, vegetable oil, and vanilla); then beat in 
 * The cooking spray on the iron is not to prevent sticking; most waffle irons are already non-stick. The cooking oil is to ensure a crisp outer crust onthe waffles. Without it, the outside surface will be rubbery and soft.
 
 ## Reference
-* http://allrecipes.com/recipe/22180/waffles-i/
+* <http://allrecipes.com/recipe/22180/waffles-i/>

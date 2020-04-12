@@ -29,4 +29,4 @@ The berries are normal-sized; the pie is large.
 11. Cool completely. Store in the refrigerator.
 
 ## Reference
-* https://www.tasteofhome.com/recipes/berry-big-pie
+* <https://www.tasteofhome.com/recipes/berry-big-pie>

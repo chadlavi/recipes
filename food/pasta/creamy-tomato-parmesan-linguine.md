@@ -26,4 +26,4 @@
 6.  Top with the chopped parsley (if using), some extra fresh ground pepper, and serve immediately, passing extra Parmigiano-Reggiano or freshly grated Parmesan cheese.
 
 ## Reference
-* http://parsleysagesweet.com/2014/03/05/creamy-tomato-parmesan-linguine-with-peas-and-prosciutto-and-part-22/
+* <http://parsleysagesweet.com/2014/03/05/creamy-tomato-parmesan-linguine-with-peas-and-prosciutto-and-part-22/>

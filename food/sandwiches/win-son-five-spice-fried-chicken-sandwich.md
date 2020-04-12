@@ -46,4 +46,4 @@ Assembly
 5. Spread sauce on top of chicken and sprinkle with scallions and cilantro. Sandwich between buns.
 
 ## Reference
-* https://www.bonappetit.com/recipe/five-spice-fried-chicken-sandwich
+* <https://www.bonappetit.com/recipe/five-spice-fried-chicken-sandwich>

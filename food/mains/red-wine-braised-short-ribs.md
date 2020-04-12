@@ -23,4 +23,4 @@
 3. Cook until short ribs are tender, 2–2 1/2 hours. Transfer short ribs to a platter. Strain sauce from pot into a measuring cup. Spoon fat from surface of sauce and discard; season sauce to taste with salt and pepper. Serve in shallow bowls over mashed potatoes with sauce spooned over.
 
 ## Reference
-* http://www.bonappetit.com/recipe/red-wine-braised-short-ribs
+* <http://www.bonappetit.com/recipe/red-wine-braised-short-ribs>

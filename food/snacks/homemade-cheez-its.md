@@ -15,4 +15,4 @@
 5. Bake for 15-17 minutes or until puffed and browning at the edges. Watch carefully, as the high fat content of the crackers makes it a fine line between golden delicious and burnt. Immediately move the crackers to racks to cool.
 
 ## Reference
-* http://www.readymade.com/projects/homemade_cheez_its
+* <http://www.readymade.com/projects/homemade_cheez_its>

@@ -24,4 +24,4 @@
 10.  Remove, unmold and let cool on a rack.
 
 ## Reference
-* http://www.latartinegourmande.com/2007/04/02/simplest-brioche-la-plus-simple-des-brioches/
+* <http://www.latartinegourmande.com/2007/04/02/simplest-brioche-la-plus-simple-des-brioches/>

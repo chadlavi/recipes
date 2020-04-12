@@ -28,4 +28,4 @@
 15. Let the stuffing sit for at least 30 minutes before cutting and eating.
 
 ## Reference
-* based on https://www.bonappetit.com/recipe/simple-is-best-dressing
+* based on <https://www.bonappetit.com/recipe/simple-is-best-dressing>

@@ -25,4 +25,4 @@
 4. Serve baked eggs with toast. (Yolks will continue to cook as dish sits, so serve right away if you prefer your eggs soft.)
 
 ## Reference
-* http://www.bonappetit.com/recipe/portuguese-baked-eggs
+* <http://www.bonappetit.com/recipe/portuguese-baked-eggs>

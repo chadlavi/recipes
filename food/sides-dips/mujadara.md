@@ -22,4 +22,4 @@
 5. Drain lentils and stir into pot. Add 4 1/4 cups water, 2 teaspoons salt, bay leaf and cinnamon stick. Bring to a simmer. Cover and cook over low heat for 15 minutes. Rinse greens in a colander and spread damp leaves over lentil mixture. Cover and cook 5 minutes more, until rice and lentils are tender and greens are wilted. Remove from heat and let stand, covered, for 5 minutes. Serve sprinkled with reserved crispy leeks.
 
 ## Reference
-* http://www.nytimes.com/2013/06/19/dining/a-humble-lentil-dish-not-just-for-hippies.html
+* <http://www.nytimes.com/2013/06/19/dining/a-humble-lentil-dish-not-just-for-hippies.html>

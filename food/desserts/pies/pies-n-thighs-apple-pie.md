@@ -37,5 +37,5 @@ Filling and Assembly:
 *Do ahead: Pie can sit out overnight, or wrap in foil or plastic and refrigerate up to 3 days.*
 
 ## Reference
-* http://www.bonappetit.com/recipe/pies-n-thighs-apple-pie
+* <http://www.bonappetit.com/recipe/pies-n-thighs-apple-pie>
 

@@ -15,4 +15,4 @@
 2. Toss fennel, celery, parsley, and pine nuts with lemon juice and oil in a large bowl; season with salt and pepper. Serve salad, topped with Parmesan.
 
 ## Reference
-* https://www.bonappetit.com/recipe/celery-fennel-salad
+* <https://www.bonappetit.com/recipe/celery-fennel-salad>

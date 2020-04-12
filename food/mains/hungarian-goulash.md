@@ -31,5 +31,5 @@
 Serve on pasta or egg noodles.
 
 ## Reference
-* https://reddit.com/r/MealPrepSunday/comments/ev5gcs/hungarian_goulash_over_ditalini_pasta_freezes/
+* <https://reddit.com/r/MealPrepSunday/comments/ev5gcs/hungarian_goulash_over_ditalini_pasta_freezes/>
 

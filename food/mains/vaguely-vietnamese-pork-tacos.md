@@ -32,4 +32,4 @@ For the slaw:
 5. Shred the pork with a pair of forks. Discard bones. Return the pulled pork to the slow cooker and stir to combine with the juices. Serve with the slaw and warmed tortillas, with the cilantro on the side.
 
 ## Reference
-* http://cooking.nytimes.com/recipes/1017230-vaguely-vietnamese-slow-cooker-pork-tacos
+* <http://cooking.nytimes.com/recipes/1017230-vaguely-vietnamese-slow-cooker-pork-tacos>

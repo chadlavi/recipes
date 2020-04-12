@@ -15,4 +15,4 @@
 The cranberry sauce should be easy to invert out of the container onto a plate, but you may need to use a knife or thin silicon spatula to break the vacuum around the edge of the sauce to release it.
 
 ## Reference
-* based on https://www.foodnetwork.com/recipes/alton-brown/cranberry-sauce-recipe2-1944111
+* based on <https://www.foodnetwork.com/recipes/alton-brown/cranberry-sauce-recipe2-1944111>

@@ -41,4 +41,4 @@ To Assemble:
 3. Bake for 10 minutes then reduce heat to 375 F and bake for 45 minutes. If the pastry browns too quickly, tent it with foil until finished cooking. Serve hot or cold. Serves 8 to 10.
 
 ## Reference
-* https://beta.theglobeandmail.com/life/food-and-wine/recipes/tourtiere/article649889/
+* <https://beta.theglobeandmail.com/life/food-and-wine/recipes/tourtiere/article649889/>

@@ -12,4 +12,4 @@
 2. Strain into an ice-filled rocks glass (you may wish to double-strain through a fine tea strainer to remove the small flecks of ginger), and pour the Islay Scotch over the back of a bar spoon so that it floats atop the drink.
 
 ## Reference
-* https://www.seriouseats.com/recipes/2009/11/time-for-a-drink-penicillin-cocktail.html
+* <https://www.seriouseats.com/recipes/2009/11/time-for-a-drink-penicillin-cocktail.html>

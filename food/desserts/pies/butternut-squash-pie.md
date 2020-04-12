@@ -25,4 +25,4 @@
 9. Refrigerate pie until chilled.
 
 ## Reference
-* https://www.tasteofhome.com/recipes/butternut-squash-pie
+* <https://www.tasteofhome.com/recipes/butternut-squash-pie>

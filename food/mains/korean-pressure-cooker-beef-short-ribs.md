@@ -29,4 +29,4 @@ Braising liquid
 6. Stir in the scallion and the sesame oil. Remove the meat and vegetables from the pressure cooker. Strain the cooking liquid into a bowl to skim off the fat. I use a fat separator. Pour the sauce over the ribs to serve. You can also cool it in the fridge or freezer until the fat solidifies to spoon off, and then reheat the sauce. Garnish with the optional scallions and sesame seeds.
 
 ## Reference
-* http://www.koreanbapsang.com/2017/03/pressure-cooker-braised-oxtail-kkorijjim.html
+* <http://www.koreanbapsang.com/2017/03/pressure-cooker-braised-oxtail-kkorijjim.html>

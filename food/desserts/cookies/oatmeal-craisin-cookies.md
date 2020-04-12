@@ -24,4 +24,4 @@
 7. Remove from oven and let cool for 2-3 minutes on the cookie sheet.
 
 ## Reference
-* http://www.food.com/recipe/oatmeal-craisin-cookies-worlds-best-27570
+* <http://www.food.com/recipe/oatmeal-craisin-cookies-worlds-best-27570>

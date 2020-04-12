@@ -18,4 +18,4 @@
 *Do Ahead: Wrap leftover salmon and refrigerate for up to 3 days.*
 
 ## Reference
-* https://www.bonappetit.com/recipe/citrus-and-dill-gravlax
+* <https://www.bonappetit.com/recipe/citrus-and-dill-gravlax>

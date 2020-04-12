@@ -30,4 +30,4 @@
 11. Adjust the stew for seasoning with salt and fish sauce if needed.
 
 ## Reference
-* http://nomnompaleo.com/post/135164093808/pressure-cooker-bò-kho-vietnamese-beef-stew
+* <http://nomnompaleo.com/post/135164093808/pressure-cooker-bò-kho-vietnamese-beef-stew>

@@ -20,4 +20,4 @@
 8. When the edges are looking a bit dry and you have bubbles over the top check the underneath. If it is nicely golden, turn to the other side. Cook until lightly browned.
 
 ## Reference
-* http://www.simplycanning.com/whole-wheat-pancake-recipe.html#ixzz1hNcT2HSs
+* <http://www.simplycanning.com/whole-wheat-pancake-recipe.html#ixzz1hNcT2HSs>

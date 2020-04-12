@@ -28,4 +28,4 @@ Juice of 1 lemon
 * Updated note, due to comments about cake sticking: If you have a nonstick Bundt, just a coat of butter or nonstick spray should do. However, if you have a regular Bundt, not nonstick coated, you’re really going to want to make sure every nook and cranny is well-coated with butter or even shortening (the solidity of both helps them stick to the cake walls), and then dust the inside with flour. Setting your cake pan in the fridge or freezer (to set the coating even further) while you make the cake batter will provide even more insurance. I hope this improves the release rate of the cake!
 
 ## Reference
-* http://smittenkitchen.com/blog/2012/06/triple-berry-summer-buttermilk-bundt/
+* <http://smittenkitchen.com/blog/2012/06/triple-berry-summer-buttermilk-bundt/>

@@ -31,4 +31,4 @@ Bread:
 14. Continue to bake until the bread is deep golden-brown with a crisp crust and sounds hollow when tapped on the bottom, 10 to 15 minutes more. An instant-read thermometer inserted into the center of the bread from the bottom should register between 185° and 210°. Transfer the loaf to a cooling rack and cool for at least 1 hour before slicing and serving. In the meantime, bake off the remaining loaf.
 
 ## Reference
-* http://www.tastingtable.com/entry_detail/chefs_recipes/15122
+* <http://www.tastingtable.com/entry_detail/chefs_recipes/15122>
