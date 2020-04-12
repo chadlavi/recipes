@@ -6,6 +6,7 @@ on:
       - master
     paths-ignore: 
       - 'README.md'
+      - 'index.md'
       - '.github/*'
 jobs:
   build:
@@ -15,7 +16,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Update README.md
-      run: ./utils/indexer.sh > README.md
+      run: ./utils/indexer.sh > index.md
     - name: Commit files
       run: |
         git config --global user.email "chad@chadlavimoniere.com"
