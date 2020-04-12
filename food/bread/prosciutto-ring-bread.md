@@ -1,13 +1,13 @@
 # Prosciutto Ring Bread
-Rising Time: about 1 hour  
-Oven Temperature: 450°F, then 400°F  
-Baking Time: 30 to 35 minutes  
-Makes: an 8 1/2-by-2-inch-high ring  
-1 1/2 pounds/690 grams  
+* Rising Time: about 1 hour  
+* Oven Temperature: 450°F, then 400°F  
+* Baking Time: 30 to 35 minutes  
+* Makes: an 8 1/2-by-2-inch-high ring  
+* 690 grams (1.5lb)
 
 ## Ingredients
 
-INGREDIENT | MEASURE | WEIGHT (oz) | WEIGHT (g) | 
+INGREDIENT | MEASURE | WEIGHT (oz) | WEIGHT (g)
 --- | --- | --- | ---
 bread ﬂour *(or: unbleached all-purpose flour  2 1/4 cups plus 2 tbsp)* | 2 cups plus 3 tablespoons | 12 ounces | 340 grams
 malt powder *(or barley malt syrup or honey or sugar)* | 1 tablespoon | 0.3 ounce | 9.3 grams
@@ -59,7 +59,7 @@ Remove the bread from the oven, and transfer it to a wire rack. Brush with anoth
 Store This bread stays fresh for 2 days at room temperature.
 
 ## Dough Percentage
-Flour: 100%  
-Water: 69.4%  
-Yeast: 0.7%  
-Salt: 1.5%  
+- Flour: 100%  
+- Water: 69.4%  
+- Yeast: 0.7%  
+- Salt: 1.5%  
