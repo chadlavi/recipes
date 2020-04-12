@@ -6,6 +6,7 @@ Makes: an 8 1/2-by-2-inch-high ring
 1 1/2 pounds/690 grams  
 
 ## Ingredients
+
 INGREDIENT | MEASURE | WEIGHT (oz) | WEIGHT (g) | 
 --- | --- | --- | ---
 bread ﬂour *(or: unbleached all-purpose flour  2 1/4 cups plus 2 tbsp)* | 2 cups plus 3 tablespoons | 12 ounces | 340 grams
