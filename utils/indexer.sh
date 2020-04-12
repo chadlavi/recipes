@@ -1,7 +1,6 @@
 #!/bin/sh
 
-start="<h1>Recipes</h1>
-You know. To cook with.
+start="You know. To cook with.
 
 - [Food](#food)
   - [Breads](#breads)
@@ -24,7 +23,7 @@ You know. To cook with.
 
 end="🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥑🍆🥔🥕🌽🌶🥒🍄🥜🌰🍞🥐🥖🥞🧀🍖🍗🥓🍔🍟🍕🌭🌮🌯🍳🍲🥗🍿🍱🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍥🍡🍦🍧🍨🍩🍪🎂🍰🍫🍬🍭🍮🍯🍼🥛☕🍵🍶🍾🍷🍸🍹🍺🍻🥂🥃🍽🍴🥄
 
-Inspired by https://github.com/shaniber/recipes
+<i>Inspired by <https://github.com/shaniber/recipes></i>
 "
 
 getMarkdownLinks() {
