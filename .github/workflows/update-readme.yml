@@ -16,7 +16,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Update README.md
-      run: ./utils/indexer.sh > index.md
+      run: ./utils/indexer.sh > README.md
     - name: Commit files
       run: |
         git config --global user.email "chad@chadlavimoniere.com"
