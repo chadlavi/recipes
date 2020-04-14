@@ -72,7 +72,7 @@ It’s recipes. You know, to cook with.
 * [Lazy Cassoulet](./food/mains/lazy-cassoulet.md)
 * [Makhani Dal (Butter Dal), Mogul-Style](./food/mains/makhani-dal.md)
 * [Pan-Roasted Chicken Thighs](./food/mains/pan-roasted-chicken-thighs.md)
-* [Pollo e fagioli all’aglio con cavolo nero](./food/mains/garlicky-chicken-beans-kale.md)
+* [Pollo e fagioli all’aglio con cavolo nero (Garlicky chicken and beans with kale)](./food/mains/garlicky-chicken-beans-kale.md)
 * [Portuguese Baked Eggs](./food/mains/portuguese-baked-eggs.md)
 * [Pressure Cooker Koh (Vietnamese Beef Stew)](./food/mains/pressure-cooker-koh-vietnamese-beef-stew.md)
 * [Pressure cooker Korean braised oxtail (kkorijjim)](./food/mains/korean-pressure-cooker-beef-short-ribs.md)
