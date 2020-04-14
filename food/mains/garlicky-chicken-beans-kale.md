@@ -1,5 +1,4 @@
-# Pollo e fagioli all’aglio con cavolo nero
-(Garlicky chicken and beans with kale)
+# Pollo e fagioli all’aglio con cavolo nero (Garlicky chicken and beans with kale)
 
 ## Ingredients
 - 1 whole chicken, with the spine cut out and the wishbone removed or broken
