@@ -1,7 +1,7 @@
 # Roasted pork shoulder
 
 ## Ingredients
-* 1 8-10lb skin=on, bone-in pork shoulder
+* 1 8-10lb skin-on, bone-in pork shoulder
 * 1 large onion
 * 1 head of garlic
 * Salt, pepper, olive oil

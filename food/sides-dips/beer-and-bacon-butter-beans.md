@@ -2,7 +2,7 @@
 
 ## Ingredients
 * 8 slices thick bacon, chopped
-* crepesofwrath.net 2 cans white beans of your choice, rinsed and drained (obviously, if you can, soak 3 cups of white beans over night to use, but I never think that far ahead, so here I am)
+* 2 cans white beans of your choice, rinsed and drained (obviously, if you can, soak 3 cups of white beans over night to use, but I never think that far ahead, so here I am)
 * 1 large shallot, minced
 * 6 cloves garlic, minced
 * 1 1/2 cups low-sodium chicken stock (I used Knorr Homestyle Stock)

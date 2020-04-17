@@ -33,7 +33,7 @@ Filling:
 * 4 oz ground pork
 * 5 oz potato
 * 60 g ground saltine crackers
-* 1 oz onions
+* 1 oz onion
 * 3 g salt
 * 1/4 tsp pepper
 * 1/8 tsp ground clove
