@@ -16,3 +16,8 @@
 5. Place pork, fat side up, on a rack set inside a roasting pan and roast, basting with pan juices about every hour and tenting with foil if pork brownstoo quickly, until pork is well browned and very tender, 5—6 hours (depending on size of pork shoulder).
 6. Let pork rest at least 10 minutes before serving (the meat should pull apart easily).
 7. Serve over a bed of soft polenta for catching the juices, with a simply dressed salad on the side.
+
+
+## See also
+* [Crispy slow-roasted pork shoulder](./crispy-slow-roasted-pork-shoulder)
+* [Roasted pork shoulder](./roasted-pork-shoulder)

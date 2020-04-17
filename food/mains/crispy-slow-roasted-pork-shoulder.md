@@ -11,3 +11,7 @@
 
 ## Reference
 * <http://www.seriouseats.com/recipes/2011/12/ultra-crispy-slow-roasted-pork-shoulder-recipe.html>
+
+## See also
+* [Slow-roasted pork shoulder with mustard and sage](./slow-roasted-pork-shoulder-mustard-sage)
+* [Roasted pork shoulder](./roasted-pork-shoulder)

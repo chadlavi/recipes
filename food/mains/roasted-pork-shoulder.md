@@ -20,3 +20,7 @@
 9. Let the roast rest on the stovetop for 15-30min, then remove the star anise and bay leaf. Remove the crispy skin to a plate, then remove the roast's bones (they should slide out easily). Shred the meat. Shash those bones in your freezer for later.
 10. Now is probably the right time to eat that crispy pork skin. It cannot get crispier. You've earned it.
 11. Store the casserole full of shredded pork, onions and garlic in the fridge. You've essentially got pork confit on your hands. It can be reheated to make tacos, [cabbage](./cabbage-pork), fried rice -- anything where you'd use pork.
+
+## See also
+* [Slow-roasted pork shoulder with mustard and sage](./slow-roasted-pork-shoulder-mustard-sage)
+* [Crispy slow-roasted pork shoulder](./crispy-slow-roasted-pork-shoulder)
