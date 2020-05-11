@@ -69,6 +69,7 @@ It’s recipes. You know, to cook with.
 * [Hungarian Goulash](./food/mains/hungarian-goulash.md)
 * [Instant Pot Lamb Ragu](./food/mains/instant-pot-lamb-ragu.md)
 * [Jer's Crispy Fried Chicken](./food/mains/southern-fried-chicken.md)
+* [Kabocha no Nimono (Simmered Pumpkin)](./food/mains/nimono.md)
 * [Lazy Cassoulet](./food/mains/lazy-cassoulet.md)
 * [Makhani Dal (Butter Dal), Mogul-Style](./food/mains/makhani-dal.md)
 * [Pan-Roasted Chicken Thighs](./food/mains/pan-roasted-chicken-thighs.md)
