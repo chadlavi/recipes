@@ -175,6 +175,7 @@ It’s recipes. You know, to cook with.
 * [Aromatic Collins](./drink/cocktails/aromatic-collins.md)
 * [Black Cherry Cranberry Fizz](./drink/cocktails/black-cherry-cranberry-vodka-fizz.md)
 * [Black Feather Cocktail](./drink/cocktails/black-feather.md)
+* [Bottled Manhattan](./drink/cocktails/bottled-manhattan.md)
 * [Bottled boulevardier](./drink/cocktails/bottled-boulevardier.md)
 * [Bourbon Milk Punch](./drink/cocktails/bourbon-milk-punch.md)
 * [Champagne Cocktail](./drink/cocktails/champagne-cocktail.md)
