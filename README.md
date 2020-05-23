@@ -22,6 +22,7 @@ It’s recipes. You know, to cook with.
 ### Breakfasts
 * [Chilaquiles with Fried Eggs](./food/breakfast/chilaquiles-with-fried-eggs.md)
 * [Sourdough Pancakes](./food/breakfast/sourdough-starter-pancakes.md)
+* [Sourdough ricotta pancakes](./food/breakfast/sourdough-ricotta-pancakes.md)
 * [Teresa Finney's Grandma's Chilaquiles](./food/breakfast/teresa-finney-chilaquiles.md)
 * [Waffles](./food/breakfast/waffles.md)
 * [Whole Wheat Pancakes](./food/breakfast/whole-wheat-pancakes.md)
