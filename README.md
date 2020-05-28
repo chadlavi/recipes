@@ -195,6 +195,7 @@ It’s recipes. You know, to cook with.
 * [Lucien Gaudin](./drink/cocktails/lucien-gaudin.md)
 * [Manhattan](./drink/cocktails/manhattan.md)
 * [McQueen](./drink/cocktails/mcqueen.md)
+* [Mint Julep](./drink/cocktails/mint-julep-alton-brown.md)
 * [Negroni](./drink/cocktails/negroni.md)
 * [Old Fashioned](./drink/cocktails/old-fashioned.md)
 * [Old Pal](./drink/cocktails/old-pal.md)
