@@ -150,6 +150,7 @@ It’s recipes. You know, to cook with.
 ### Cured and pickled
 * [Citrus and Dill gravlox](./food/cured-pickled/citrus-dill-gravlax.md)
 * [Pickled Celery](./food/cured-pickled/pickled-celery.md)
+* [Pickled Daikon](./food/cured-pickled/pickled-daikon.md)
 * [Vietnamese Pickled Vegetables (Do Chua)](./food/cured-pickled/do-chua-vietnamese-quick-pickles.md)
 
 ### Sides and dips
