@@ -57,6 +57,7 @@ It’s recipes. You know, to cook with.
 * [Beef Chili](./food/mains/beef-chili.md)
 * [Beef Plov](./food/mains/beef-plov.md)
 * [Broccoli Parmesan Fritters](./food/mains/broccoli-parmesan-fritters.md)
+* [Chana Masala (in the pressure cooker)](./food/mains/chana-masala-pressure-cooker.md)
 * [Chicken and Tomato Stew with Caramelized Lemon](./food/mains/caramelized-lemon-chicken-stew.md)
 * [Cider-Braised Brisket & Veggies](./food/mains/cider-braised-brisket-and-vegetables.md)
 * [Coriander Chicken Thighs with Miso-Glazed Root Vegetables](./food/mains/coriander-chicken-thighs-miso-glazed-root-vegetables.md)
