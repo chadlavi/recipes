@@ -14,7 +14,7 @@
    less spicy.
 3. Put all the ingredients in a Ziploc bag and rub well.
 4. Remove the air from the bag and close it. Keep in the refrigerator for 1-2
-   days. We like to pickle daikon for 2 days. Enjoy!
+   days.
 
 ## Reference
 * <https://www.justonecookbook.com/pickled-daikon/>
