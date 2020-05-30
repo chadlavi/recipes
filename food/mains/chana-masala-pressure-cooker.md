@@ -9,7 +9,8 @@
 * 5 cloves Garlic minced
 * 1" inch Ginger minced
 * 1.5 cups Onion diced
-* 3/4 cup Tomatoes chopped or 1 tbsp Tomato paste
+* 3/4 cup Tomatoes chopped
+* 1 tbsp Tomato paste
 * 1 tbsp Dried Fenugreek leaves (Kasoori Methi)
 * Cilantro to garnish
 * 1/2 tsp Cayenne or Red chili powder
@@ -21,6 +22,21 @@
 * 2 leaves Bay leaf (Tej Patta)
 * 1/2 tsp Black Peppercorns
 * 1 stick Cinnamon (Dalchini)
+
+### Ingredient substitutions
+*  If you don't have dry mango powder or amchur, replace with 1 tablespoon lemon
+   juice.
+*  If you don't have chole masala, you can also replace it with a blend of:
+   * 2 black cardamom
+   * 5 cloves
+   * 1/2 inch Cinnamon stick
+   * 1 tsp Coriander powder
+   * 1/4 tsp Turmeric powder
+   * 1/2 tsp Cayenne or Red Chili powder
+* To use canned chickpeas: Drain and rinse the chickpeas. Pressure cook for 10
+  minutes in the instant pot or 2 whistles on the stovetop pressure cooker. Add
+  only 1 cup water for cooking.
+* To use canned tomatoes: Use one cup canned tomatoes to replace fresh tomatoes. 
 
 ## Directions
 1. Wash and soak chickpeas in 3 cups of water overnight or at least for 4+
