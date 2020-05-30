@@ -72,6 +72,7 @@ It’s recipes. You know, to cook with.
 * [Instant Pot Lamb Ragu](./food/mains/instant-pot-lamb-ragu.md)
 * [Jer's Crispy Fried Chicken](./food/mains/southern-fried-chicken.md)
 * [Kabocha no Nimono (Simmered Pumpkin)](./food/mains/nimono.md)
+* [Kuku Sabzi (Persian Herb Frittata)](./food/mains/kuku-sabzi.md)
 * [Lazy Cassoulet](./food/mains/lazy-cassoulet.md)
 * [Makhani Dal (Butter Dal), Mogul-Style](./food/mains/makhani-dal.md)
 * [Pan-Roasted Chicken Thighs](./food/mains/pan-roasted-chicken-thighs.md)
