@@ -21,6 +21,7 @@ It’s recipes. You know, to cook with.
 
 ### Breakfasts
 * [Chilaquiles with Fried Eggs](./food/breakfast/chilaquiles-with-fried-eggs.md)
+* [Hashbrowns](./food/breakfast/hashbrowns.md)
 * [Sourdough Pancakes](./food/breakfast/sourdough-starter-pancakes.md)
 * [Sourdough ricotta pancakes](./food/breakfast/sourdough-ricotta-pancakes.md)
 * [Teresa Finney's Grandma's Chilaquiles](./food/breakfast/teresa-finney-chilaquiles.md)
@@ -101,6 +102,7 @@ It’s recipes. You know, to cook with.
 * [Vaguely Vietnamese pork tacos](./food/mains/vaguely-vietnamese-pork-tacos.md)
 * [Vegan Shiitake Bacon from By Chloe](./food/mains/by-chloe-vegan-shiitake-bacon.md)
 * [Vegan Tacos Al Pastor](./food/mains/vegan-tacos-al-pastor.md)
+* [牛丼 (gyūdon)](./food/mains/gyudon.md)
 
 ### Pasta
 * [Creamy Tomato Parmesan Linguine](./food/pasta/creamy-tomato-parmesan-linguine.md)
