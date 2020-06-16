@@ -29,6 +29,7 @@ It’s recipes. You know, to cook with.
 * [Whole Wheat Pancakes](./food/breakfast/whole-wheat-pancakes.md)
 
 ### Desserts
+* [All butter crust from Sister Pie](./food/desserts/pies/sister-pie-crust.md)
 * [Big Berry Pie](./food/desserts/pies/big-berry-pie.md)
 * [Blueberry & Banana Bread](./food/desserts/dessert-breads/blueberry-banana-bread.md)
 * [Blueberry Pound Cake](./food/desserts/dessert-breads/blueberry-pound-cake.md)
