@@ -173,6 +173,7 @@ It’s recipes. You know, to cook with.
 
 ### Condiments, sauces and toppings
 * [Chile Vinegar Sauce](./food/condiments-sauces-toppings/chile-vinegar-sauce.md)
+* [Chunky roasted Salsa](./food/condiments-sauces-toppings/chunky-roasted-salsa-teresa-finney.md)
 * [Cranberry sauce](./food/condiments-sauces-toppings/cranberry-sauce.md)
 * [Garlic serrano coconut crisp](./food/condiments-sauces-toppings/garlic-serrano-coconut-crisp.md)
 * [In-N-Out Animal Style Onions](./food/condiments-sauces-toppings/in-n-out-onions.md)
