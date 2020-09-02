@@ -4,6 +4,9 @@ start="It’s recipes. You know, to cook with.
 
 <https://github.com/chadlavi/recipes>
 
+## Categories
+[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing)
+
 ## Contents"
 
 end="🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥑🍆🥔🥕🌽🌶🥒🍄🥜🌰🍞🥐🥖🥞🧀🍖🍗🥓🍔🍟🍕🌭🌮🌯🍳🍲🥗🍿🍱🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍥🍡🍦🍧🍨🍩🍪🎂🍰🍫🍬🍭🍮🍯🍼🥛☕🍵🍶🍾🍷🍸🍹🍺🍻🥂🥃🍽🍴🥄
