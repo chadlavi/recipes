@@ -144,6 +144,7 @@ It’s recipes. You know, to cook with.
 * [Deep Fried Chick Peas](./food/snacks/deep-fried-chickpeas.md)
 * [Homemade CheezIts](./food/snacks/homemade-cheez-its.md)
 * [Rosemary Chickpea Fries](./food/snacks/rosemary-chickpea-fries.md)
+* [Sesame rice sourdough crackers](./food/snacks/sesame-rice-sourdough-crackers.md)
 * [Sourdough crackers](./food/snacks/sourdough-starter-crackers.md)
 * [Spicy Lime Leaf Beer Nuts ](./food/snacks/spicy-lime-leaf-beer-nuts.md)
 * [Texan Queso](./food/snacks/texan-queso.md)
