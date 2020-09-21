@@ -37,3 +37,4 @@ From Sandor Katz's _"Wild Fermentation"_, shared by Claire Altizer
 ### 20200921
 - this dough is way too sticky to roll out then transfer. Ended up grabbing small balls of it with a fork then flattening them with the tines. 
 - need to figure out a more consistent mass-based measurement for this recipe.
+- much better results when using convection at 325°F.
