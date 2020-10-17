@@ -21,8 +21,8 @@ From Sandor Katz's _"Wild Fermentation"_, shared by Claire Altizer
 4. Knead into a cohesive dough, adding a little more flour if the dough seems
    sticky. 
 5. Ferment the dough for 8-12 hours.
-6. Preheat the overn to 325ºF. Brush a cooke sheet with oil.
-7. On a floured surface, roll out out baseball-sized balls of dough ont at a
+6. Preheat the overn to 325ºF. Brush a cookie sheet with oil.
+7. On a floured surface, roll out out baseball-sized balls of dough one at a
    time, getting each as thin as you can roll it. Cut into individual crackers
    (small squares/rectangles) and place on the cookie sheet. Prick crackers with
    a fork to increase surface area and help crisp during baking. Brush crackers
@@ -31,3 +31,10 @@ From Sandor Katz's _"Wild Fermentation"_, shared by Claire Altizer
 
 ## Reference
 * Katz, Sandor. _Wild Fermentation: a Do-It-Yourself Guide to Cultural Manipulation._ Microcosm Publishing, 2017. 
+
+## Notes
+
+### 20200921
+- this dough is way too sticky to roll out then transfer. Ended up grabbing small balls of it with a fork then flattening them with the tines. 
+- need to figure out a more consistent mass-based measurement for this recipe.
+- much better results when using convection at 325°F.
