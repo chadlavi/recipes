@@ -24,6 +24,7 @@ It’s recipes. You know, to cook with.
 
 ### Breakfasts
 * [Chilaquiles with Fried Eggs](./food/breakfast/chilaquiles-with-fried-eggs.md)
+* [Dutch Baby Pancake](./food/breakfast/dutch-baby-pancake.md)
 * [Hashbrowns](./food/breakfast/hashbrowns.md)
 * [Sourdough Pancakes](./food/breakfast/sourdough-starter-pancakes.md)
 * [Sourdough ricotta pancakes](./food/breakfast/sourdough-ricotta-pancakes.md)
