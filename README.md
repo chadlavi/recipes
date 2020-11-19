@@ -40,6 +40,7 @@ It’s recipes. You know, to cook with.
 * [Blueberry Pound Cake](./food/desserts/dessert-breads/blueberry-pound-cake.md)
 * [Blueberry Sour Cream Cake](./food/desserts/cakes/blueberry-sour-cream-cake.md)
 * [Butternut Squash Pie](./food/desserts/pies/butternut-squash-pie.md)
+* [Carrot cake](./food/desserts/cakes/carrot-cake.md)
 * [Castella Cake](./food/desserts/cakes/castella-cake.md)
 * [Cherry Clafoutis](./food/desserts/pies/cherry-clafoutis.md)
 * [Chia Seed Pudding](./food/desserts/puddings/chia-seed-pudding.md)
