@@ -1,6 +1,8 @@
 # Sandi Gant's Sweet Potato Pie
 
-From a collection of recipes my mother in law gave my wife when she went to college
+From a collection of recipes my mother-in-law gave my wife when she went to college
+
+Note: this recipe makes 2 pies.
 
 ## Ingredients
 * 1/2 cup butter
