@@ -7,7 +7,7 @@ Note: this recipe makes 2 pies.
 ## Ingredients
 * 1/2 cup butter
 * 1/2 cup miniature marshmallows
-* 2 cups peeled cooked sweet potatoes
+* 2 cups canned peeled cooked sweet potatoes
 * 3 eggs slightly beaten
 * 1.5 cups sugar
 * 1 tsp. cinnamon
