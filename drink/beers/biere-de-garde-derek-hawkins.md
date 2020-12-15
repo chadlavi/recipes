@@ -2,7 +2,7 @@
 
 ## Ingredients
 Grains
-* [ ] 3 lbs Belgian Pils
+* 3 lbs Belgian Pils
 * 0.25 lbs Belgian Biscuit
 * 0.25 lbs Belgian Aromatic
 * 0.5 lbs Caravienne
