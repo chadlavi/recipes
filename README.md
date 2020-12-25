@@ -53,6 +53,7 @@ It’s recipes. You know, to cook with.
 * [Mrs. Kleemeyer's Pound Cake](./food/desserts/dessert-breads/mrs-kleemeyers-pound-cake.md)
 * [Oatmeal Craisin Cookies](./food/desserts/cookies/oatmeal-craisin-cookies.md)
 * [Oatmeal Peanut Butter Cookies](./food/desserts/cookies/oatmeal-peanut-butter-cookies.md)
+* [Peanut butter blossom cookies](./food/desserts/cookies/peanut-butter-blossom-cookies.md)
 * [Perfect Chocolate Chip Cookies](./food/desserts/cookies/chocolate-chip-cookies.md)
 * [Pies 'n' Thighs Apple Pie](./food/desserts/pies/pies-n-thighs-apple-pie.md)
 * [Plum torte](./food/desserts/cakes/plum-torte.md)
