@@ -45,6 +45,7 @@ It’s recipes. You know, to cook with.
 * [Cherry Clafoutis](./food/desserts/pies/cherry-clafoutis.md)
 * [Chia Seed Pudding](./food/desserts/puddings/chia-seed-pudding.md)
 * [Chocolate Chip Cookies with sea salt](./food/desserts/cookies/chocolate-chip-cookies-with-sea-salt.md)
+* [Chocolate delight](./food/desserts/puddings/chocolate-delight.md)
 * [Deb Perelman's Triple Berry Buttermilk Bundt Cake](./food/desserts/cakes/deb-perelman-triple-berry-buttermilk-bundt-cake.md)
 * [Deborah Rubin's lemon cookies](./food/desserts/cookies/deborah-rubin-lemon-cookies.md)
 * [Eggnog Cake](./food/desserts/cakes/eggnog-cake.md)
@@ -67,6 +68,7 @@ It’s recipes. You know, to cook with.
 ### Main courses
 * [Beef Chili](./food/mains/beef-chili.md)
 * [Beef Plov](./food/mains/beef-plov.md)
+* [Black eyed peas](./food/mains/black-eyed-peas.md)
 * [Broccoli Parmesan Fritters](./food/mains/broccoli-parmesan-fritters.md)
 * [Chana Masala (in the pressure cooker)](./food/mains/chana-masala-pressure-cooker.md)
 * [Chicken and Tomato Stew with Caramelized Lemon](./food/mains/caramelized-lemon-chicken-stew.md)
