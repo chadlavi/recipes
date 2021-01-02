@@ -23,7 +23,7 @@ for new year's day
 6. Try a bean to see if they're done, it should have an intact but easily burst
   skin, and it should be possible to crush it on the roof of the mouth with the
   tongue, with a creamy consistency inside. Continue to simmer until this is
-  reached.
+  reached. Discard the bay leaves.
 7. If there's a little too much liquid left, remove the lid and turn the heat up
   to high to boil it off. Bear in mind that the beans will absorb some liquid,
   so it's not necessary to cook all the liquid away.
