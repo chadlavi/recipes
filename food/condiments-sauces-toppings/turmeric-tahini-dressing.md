@@ -1,5 +1,5 @@
 # Turmeric-tahini dressing
-Can be made 4 days ahead. Cover and chill. Goes great with [Modern Greek crunch salad](../salads/modern-greek-crunch.html)
+Can be made 4 days ahead. Cover and chill. Goes great with [Modern Greek crunch salad](../salads/modern-greek-crunch.html).
 
 ## Ingredients
 * 1/2 cup tahini
