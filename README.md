@@ -137,6 +137,7 @@ It’s recipes. You know, to cook with.
 ### Salads
 * [Celery and Fennel Salad](./food/salads/celery-fennel-salad.md)
 * [Corn salad with mint and feta](./food/salads/corn-mint-feta-salad.md)
+* [Modern Greek crunch](./food/salads/modern-greek-crunch.md)
 * [Nancy's Salad from Sweetgreens](./food/salads/nancys-sweetgreen-salad.md)
 * [Quick Pickle Cucumber Salad](./food/salads/quick-pickle-cucumber-salad.md)
 * [Sam Meyer's Danish Cucumber Salad](./food/salads/sam-meyer-danish-cucumber-salad.md)
@@ -169,6 +170,7 @@ It’s recipes. You know, to cook with.
 * [Pickled Celery](./food/cured-pickled/pickled-celery.md)
 * [Pickled Daikon](./food/cured-pickled/pickled-daikon.md)
 * [Pickled jalapeños](./food/cured-pickled/pickled-jalapenos.md)
+* [Quick pickled red onions](./food/cured-pickled/quick-pickled-red-onions.md)
 * [Vietnamese Pickled Vegetables (Do Chua)](./food/cured-pickled/do-chua-vietnamese-quick-pickles.md)
 
 ### Sides and dips
@@ -193,6 +195,7 @@ It’s recipes. You know, to cook with.
 * [Garlic serrano coconut crisp](./food/condiments-sauces-toppings/garlic-serrano-coconut-crisp.md)
 * [In-N-Out Animal Style Onions](./food/condiments-sauces-toppings/in-n-out-onions.md)
 * [Sandi Gant's adjusted BBQ sauce](./food/condiments-sauces-toppings/adjusted-bbq-sauce.md)
+* [Turmeric-tahini dressing](./food/condiments-sauces-toppings/turmeric-tahini-dressing.md)
 
 ### Cocktails
 * [Americano Highball](./drink/cocktails/americano-highball.md)
