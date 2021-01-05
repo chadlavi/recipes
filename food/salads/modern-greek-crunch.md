@@ -1,5 +1,5 @@
 # Modern Greek crunch
-A clone/approximation of a JustSalad salad. Makes 2 large servings
+A clone/approximation of a JustSalad salad. Makes 2 large servings.
 
 ## Ingredients
 * 1/2 - 3/4 cup [Turmeric-tahini dressing](../condiments-sauces-toppings/turmeric-tahini-dressing.html)
