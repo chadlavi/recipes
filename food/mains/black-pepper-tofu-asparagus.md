@@ -6,7 +6,7 @@
 * 2 garlic cloves
 * 1 1.5in piece ginger, peeled
 * 1 Tbsp. cornstarch
-* ½ tsp. kosher salt
+* 1/2 tsp. kosher salt
 * 3 Tbsp. extra-virgin olive oil
 * 1 lb. asparagus, trimmed, cut into 1.5in pieces
 * 1/3 cup soy sauce
