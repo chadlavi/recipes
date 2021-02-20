@@ -78,6 +78,7 @@ It’s recipes. You know, to cook with.
 * [Coriander Chicken Thighs with Miso-Glazed Root Vegetables](./food/mains/coriander-chicken-thighs-miso-glazed-root-vegetables.md)
 * [Corned beef à la Patty Gaffney](./food/mains/corned-beef-patty-gaffney.md)
 * [Crispy Chicken Breasts with Chermoula and Escarole](./food/mains/crispy-chicken-breasts-chermoula-escarole.md)
+* [Crispy Mushrooms With Creamy White Beans and Kale](./food/mains/mushrooms-and-cannellini-beans.md)
 * [Dan Delaney's ribs](./food/mains/dan-delaney-ribs.md)
 * [Dong Bei-style Cumin Lamb Ribs](./food/mains/dong-bei-cumin-lamb-ribs.md)
 * [Filet Mignon de Porc à Sauvignon Blanc](./food/mains/filet-mignon-de-porc-a-sauvignon-blanc.md)
