@@ -58,6 +58,7 @@ It’s recipes. You know, to cook with.
 * [Perfect Chocolate Chip Cookies](./food/desserts/cookies/chocolate-chip-cookies.md)
 * [Pies 'n' Thighs Apple Pie](./food/desserts/pies/pies-n-thighs-apple-pie.md)
 * [Plum torte](./food/desserts/cakes/plum-torte.md)
+* [Ricotta Chocolate Chip Pound Cake](./food/desserts/dessert-breads/chocolate-chip-pound-cake.md)
 * [Sandi Gant's Sweet Potato Pie](./food/desserts/pies/sandi-gant-sweet-potato-pie.md)
 * [Silky Sweet Potato Pie](./food/desserts/pies/serious-eats-sweet-potato-pie.md)
 * [Slab pie](./food/desserts/pies/slab-pie.md)
