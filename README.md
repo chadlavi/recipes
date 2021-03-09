@@ -76,6 +76,7 @@ It’s recipes. You know, to cook with.
 * [Chicken adobo](./food/mains/chicken-adobo.md)
 * [Chicken and Tomato Stew with Caramelized Lemon](./food/mains/caramelized-lemon-chicken-stew.md)
 * [Cider-Braised Brisket & Veggies](./food/mains/cider-braised-brisket-and-vegetables.md)
+* [Colombian pressure cooker chicken stew](./food/mains/colombian-chicken-stew.md)
 * [Coriander Chicken Thighs with Miso-Glazed Root Vegetables](./food/mains/coriander-chicken-thighs-miso-glazed-root-vegetables.md)
 * [Corned beef à la Patty Gaffney](./food/mains/corned-beef-patty-gaffney.md)
 * [Crispy Chicken Breasts with Chermoula and Escarole](./food/mains/crispy-chicken-breasts-chermoula-escarole.md)
