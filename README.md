@@ -15,6 +15,7 @@ It’s recipes. You know, to cook with.
 * [Jim Lahey's No-Knead Bread](./food/bread/jim-lahey-no-knead-bread.md)
 * [Mushroom and Gruyère stuffed baguette](./food/bread/mushroom-gruyere-stuffed-baguette.md)
 * [Onion Bacon Tart](./food/bread/onion-bacon-tart.md)
+* [Onion pretzels](./food/bread/onion-pretzel-buns.md)
 * [Priya Krishna's roti](./food/bread/priya-krishna-roti.md)
 * [Prosciutto Ring Bread](./food/bread/prosciutto-ring-bread.md)
 * [Rosemary Schmaltz Popovers](./food/bread/rosemary-schmaltz-popovers.md)
