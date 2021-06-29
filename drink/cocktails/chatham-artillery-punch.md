@@ -4,10 +4,10 @@ Nota bene: this is **strong**. As warned by Sam Meyer:
 
 > be careful with Artillery Punch, as the poem says:
 > 
-> _If you visit the town of Savannah
-> Enlist 'neath the temperance bannah
-> For if you should lunch
-> On Artillery Punch
+> _If you visit the town of Savannah  
+> Enlist 'neath the temperance bannah  
+> For if you should lunch  
+> On Artillery Punch  
 > 'T'will treat you in powerful mannah_
 
 Requires a large (2.5 gallon) serving vessel
