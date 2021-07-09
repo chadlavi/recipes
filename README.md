@@ -68,6 +68,7 @@ It’s recipes. You know, to cook with.
 * [Vegan Chewy Ginger Molasses Cookies](./food/desserts/cookies/chewy-ginger-molasses-cookies.md)
 
 ### Main courses
+* [ # Thai red curry](./food/mains/thai-red-curry.md)
 * [Beef Chili](./food/mains/beef-chili.md)
 * [Beef Plov](./food/mains/beef-plov.md)
 * [Black eyed peas](./food/mains/black-eyed-peas.md)
@@ -104,6 +105,7 @@ It’s recipes. You know, to cook with.
 * [Pressure cooker cabbage with pork](./food/mains/cabbage-pork.md)
 * [Red Wine Braised Beef Short Ribs](./food/mains/red-wine-braised-short-ribs.md)
 * [Rice Cooker Miso Clay Pot Chicken](./food/mains/rice-cooker-miso-clay-pot-chicken.md)
+* [Rice cooker lentils](./food/mains/rice-cooker-lentils.md)
 * [Roasted pork shoulder](./food/mains/roasted-pork-shoulder.md)
 * [Roger Ebert's Fragrant Rice with Chicken](./food/mains/fragrant-rice-with-chicken.md)
 * [Shakshuka with Feta](./food/mains/shakshuka-feta.md)
