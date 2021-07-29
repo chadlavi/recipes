@@ -10,7 +10,7 @@ Can be made 4 days ahead. Cover and chill. Goes great with [Modern Greek crunch 
 * Kosher salt and freshly ground black pepper to taste
 
 ## Directions
-Whisk together tahini, lemon juice, olive oil, turmeric, cayenne, and ¼ cup
+Whisk together tahini, lemon juice, olive oil, turmeric, cayenne, and 1/4 cup
 water until smooth. Add salt and pepper to taste.
 
 ## References

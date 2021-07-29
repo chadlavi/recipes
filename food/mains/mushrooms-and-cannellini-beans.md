@@ -5,14 +5,14 @@ Serves 2. Can be scaled up.
 
 * 6 Tbsp. extra-virgin olive oil, divided
 * 4 oz. maitake mushrooms, broken into large pieces
-* 4 oz. shiitake mushrooms, cut into ½" slices
+* 4 oz. shiitake mushrooms, cut into 1/2" slices
 * Kosher salt
 * 1 14.5-oz. can cannellini beans, rinsed, drained
 * 2 Tbsp. fresh lime juice, plus wedges for serving
 * 2 garlic cloves, divided
 * 4 scallions, cut into 1" pieces
 * 1 bunch Tuscan kale, center ribs and stems removed, leaves torn
-* ½ cup crumbled feta cheese
+* 1/2 cup crumbled feta cheese
 * 1 Tbsp. toasted sesame seeds
 * 1 cup cilantro leaves
 

@@ -3,12 +3,12 @@ Note: this took more like 80+ minutes to reach 205°F internally.
 
 ## Ingredients
 
-- 1 1⁄4 cups (220 grams) semi-sweet chocolate chips
-- 1 2⁄3 cups (200 grams) all-purpose flour
+- 1 1/4 cups (220 grams) semi-sweet chocolate chips
+- 1 2/3 cups (200 grams) all-purpose flour
 - 1 tablespoon (15 grams) baking powder
-- 1 2⁄3 cups (367 grams) whole milk ricotta
-- 12 tablespoons (1½ sticks, or 170 grams) unsalted butter, cubed, softened
-- 1 ½ cups (300 grams) granulated sugar
+- 1 2/3 cups (367 grams) whole milk ricotta
+- 12 tablespoons (1 1/2 sticks, or 170 grams) unsalted butter, cubed, softened
+- 1 1/2 cups (300 grams) granulated sugar
 - 3 (150 grams) large eggs
 - 1 tablespoon (15 grams) pure vanilla extract
 - 1 teaspoon (6 grams) fine sea salt
