@@ -20,6 +20,7 @@ It’s recipes. You know, to cook with.
 * [Prosciutto Ring Bread](./food/bread/prosciutto-ring-bread.md)
 * [Rosemary Schmaltz Popovers](./food/bread/rosemary-schmaltz-popovers.md)
 * [Rosemary onion focaccia](./food/bread/focaccia-rosemary-onion.md)
+* [Samin Nosrat's Ligurian Focaccia](./food/bread/samin-nosrat-focaccia.md)
 * [Tartine Bakery Sourdough Country Bread](./food/bread/tartine-sourdough.md)
 * [The Simplest Brioche](./food/bread/simple-brioche.md)
 
