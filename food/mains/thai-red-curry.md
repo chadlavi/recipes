@@ -1,4 +1,4 @@
- # Thai red curry
+# Thai red curry
 
 ## Ingredients
 * 2tbsp coconut oil
