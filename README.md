@@ -69,7 +69,6 @@ It’s recipes. You know, to cook with.
 * [Vegan Chewy Ginger Molasses Cookies](./food/desserts/cookies/chewy-ginger-molasses-cookies.md)
 
 ### Main courses
-* [ # Thai red curry](./food/mains/thai-red-curry.md)
 * [Beef Chili](./food/mains/beef-chili.md)
 * [Beef Plov](./food/mains/beef-plov.md)
 * [Black eyed peas](./food/mains/black-eyed-peas.md)
@@ -117,6 +116,7 @@ It’s recipes. You know, to cook with.
 * [Spicy Whole Roasted Cauliflower](./food/mains/spicy-whole-roasted-cauliflower.md)
 * [Stir-Fried Farro With Garlicky Kale](./food/mains/stir-fried-farro-with-garlicky-kale.md)
 * [Tacos de barbacoa de borrego ](./food/mains/barbacoa-tacos.md)
+* [Thai red curry](./food/mains/thai-red-curry.md)
 * [Tourtière, Bedard family](./food/mains/bedard-tourtiere.md)
 * [Tourtière](./food/mains/tourtiere.md)
 * [Ultra-Crispy Slow-Roasted Pork Shoulder](./food/mains/crispy-slow-roasted-pork-shoulder.md)
