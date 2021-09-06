@@ -1,19 +1,30 @@
-# Carrot cake
+# Carrot cake with cream cheese frosting
 
 ## Ingredients
+
+### Cake
+
+#### Wet ingredients
 
 * 4 large eggs
 * 2 cups sugar
 * 1 cup vegetable oil
 * 1 tsp vanilla
+
+#### Dry ingredients
+
 * 2 cups flour, plus more for dusting pan
 * 1 tsp baking powder
 * 2 tsp cinnamon
 * 1.5 tsp baking soda
-* 4-5 cups grated carrot
+* 4-5 cups grated carrot (about 1.5lb)
+
+### Frosting
+
 * 8oz cream cheese
 * 1 stick salted butter, plus more for greasing pan
 * 1 lb. confectioner's sugar
+* 1/4 tsp vanilla (optional)
 
 ## Directions
 
