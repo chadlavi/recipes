@@ -1,5 +1,7 @@
 # Nancy's Salad from Sweetgreens
 
+See also updated [Nancy's Chopped Salad](./nancys-chopped-salad.md)
+
 ## Ingredients
 * Romaine lettuce
 * Kale
