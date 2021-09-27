@@ -147,6 +147,7 @@ It’s recipes. You know, to cook with.
 * [Celery and Fennel Salad](./food/salads/celery-fennel-salad.md)
 * [Corn salad with mint and feta](./food/salads/corn-mint-feta-salad.md)
 * [Modern Greek crunch](./food/salads/modern-greek-crunch.md)
+* [Nancy's Chopped Salad](./food/salads/nancys-chopped-salad.md)
 * [Nancy's Salad from Sweetgreens](./food/salads/nancys-sweetgreen-salad.md)
 * [Quick Pickle Cucumber Salad](./food/salads/quick-pickle-cucumber-salad.md)
 * [Sam Meyer's Danish Cucumber Salad](./food/salads/sam-meyer-danish-cucumber-salad.md)
