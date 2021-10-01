@@ -106,6 +106,7 @@ It’s recipes. You know, to cook with.
 * [Red Wine Braised Beef Short Ribs](./food/mains/red-wine-braised-short-ribs.md)
 * [Rice Cooker Miso Clay Pot Chicken](./food/mains/rice-cooker-miso-clay-pot-chicken.md)
 * [Rice cooker lentils](./food/mains/rice-cooker-lentils.md)
+* [Roasted Squash With Crunchy Kale & Feta](./food/mains/delicata-kale-feta.md)
 * [Roasted pork shoulder](./food/mains/roasted-pork-shoulder.md)
 * [Roger Ebert's Fragrant Rice with Chicken](./food/mains/fragrant-rice-with-chicken.md)
 * [Shakshuka with Feta](./food/mains/shakshuka-feta.md)
@@ -174,6 +175,7 @@ It’s recipes. You know, to cook with.
 * [Caldo Verde](./food/soup/caldo-verde.md)
 * [Chicken lentil soup with jammy onions](./food/soup/chicken-lentil-soup.md)
 * [Matzoh Ball Soup](./food/soup/matzoh-ball-soup.md)
+* [Roasted chicken soup](./food/soup/roasted-chicken-soup.md)
 
 ### Cured and pickled
 * [Citrus and Dill gravlox](./food/cured-pickled/citrus-dill-gravlax.md)
