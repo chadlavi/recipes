@@ -171,7 +171,7 @@ It’s recipes. You know, to cook with.
 * [Win Son's Roasted Peanuts](./food/snacks/win-son-roasted-peanuts.md)
 
 ### Soup
-* [Borscht](./food/soup/borscht.md)
+* [--- ](./food/soup/borscht.md)
 * [Caldo Verde](./food/soup/caldo-verde.md)
 * [Chicken lentil soup with jammy onions](./food/soup/chicken-lentil-soup.md)
 * [Matzoh Ball Soup](./food/soup/matzoh-ball-soup.md)
