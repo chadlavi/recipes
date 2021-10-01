@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-* 1 (about 5 to 6 ounces) squash (delicata, butternut, kabocha), ends trimmed, seeds removed and sliced into 1/* 2-inch-thick half moons
+* 1 (about 5 to 6 ounces) squash (delicata, butternut, kabocha), ends trimmed, seeds removed and sliced into 1/2-inch-thick half moons
 * 1 bunch lacinato or curly kale, leaves removed from the stems and torn into 1-inch pieces
 * 3 tablespoons extra-virgin olive oil, plus more for drizzling
 * 1 tablespoon ground cumin

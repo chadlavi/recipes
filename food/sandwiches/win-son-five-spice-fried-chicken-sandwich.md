@@ -2,7 +2,7 @@
 
 ## Ingredients
 Chicken
-* 4 skinless, boneless chicken breasts, (about 31/2 pounds)
+* 4 skinless, boneless chicken breasts, (about 3 1/2 pounds)
 * 6 tablespoons light soy sauce
 * 1/4 cup toasted sesame oil
 * 2 tablespoons Chinese five-spice powder
