@@ -1,4 +1,6 @@
-# Borscht
+--- 
+title: Borscht
+---
 
 ## Ingredients
 * 4 large or 6 small beets, peeled and halved
