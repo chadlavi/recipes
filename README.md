@@ -175,6 +175,7 @@ It’s recipes. You know, to cook with.
 * [Caldo Verde](./food/soup/caldo-verde.md)
 * [Chicken lentil soup with jammy onions](./food/soup/chicken-lentil-soup.md)
 * [Matzoh Ball Soup](./food/soup/matzoh-ball-soup.md)
+* [Potato leek soup](./food/soup/potato-leek-soup.md)
 * [Roasted chicken soup](./food/soup/roasted-chicken-soup.md)
 
 ### Cured and pickled
