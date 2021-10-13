@@ -5,12 +5,12 @@ Makes enough for about 4 salads.
 ## Ingredients
 
 * 1 tablespoon anchovy paste or 2 filets
-* 2 small garlic clove
-* 2 large egg yolk
-* 4 teaspoons fresh lemon juice juice from about 1 lemon
+* 2 small garlic cloves
+* 2 large egg yolks
+* 4 teaspoons fresh lemon juice (i.e., the juice from about 1 lemon)
 * 1/3 cup finely grated Parmesan
-* Freshly ground black pepper
 * 1/2 cup olive oil
+* Freshly ground black pepper
 * Pinch of sea salt
 
 ## Directions
