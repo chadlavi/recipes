@@ -175,6 +175,7 @@ It’s recipes. You know, to cook with.
 * [Caldo Verde](./food/soup/caldo-verde.md)
 * [Chicken lentil soup with jammy onions](./food/soup/chicken-lentil-soup.md)
 * [Matzoh Ball Soup](./food/soup/matzoh-ball-soup.md)
+* [Potato celery soup](./food/soup/potato-celery-soup.md)
 * [Potato leek soup](./food/soup/potato-leek-soup.md)
 * [Roasted chicken soup](./food/soup/roasted-chicken-soup.md)
 
@@ -202,6 +203,7 @@ It’s recipes. You know, to cook with.
 * [Tony's Braised Beets](./food/sides-dips/tonybs-braised-beets.md)
 
 ### Condiments, sauces and toppings
+* [Caesar salad dressing](./food/condiments-sauces-toppings/caesar-salad-dressing.md)
 * [Chile Vinegar Sauce](./food/condiments-sauces-toppings/chile-vinegar-sauce.md)
 * [Chunky roasted Salsa](./food/condiments-sauces-toppings/chunky-roasted-salsa-teresa-finney.md)
 * [Cranberry sauce](./food/condiments-sauces-toppings/cranberry-sauce.md)
