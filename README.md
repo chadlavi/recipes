@@ -9,6 +9,7 @@ It’s recipes. You know, to cook with.
 
 ### Breads
 * [Alton Brown's Popovers](./food/bread/alton-brown-popovers.md)
+* [Apple bread](./food/bread/apple-bread.md)
 * [Bagels](./food/bread/bagels.md)
 * [Challah (from _Joy of Cooking_)](./food/bread/joy-of-cooking-challah.md)
 * [Challah](./food/bread/challah.md)
@@ -27,6 +28,7 @@ It’s recipes. You know, to cook with.
 ### Breakfasts
 * [Chilaquiles with Fried Eggs](./food/breakfast/chilaquiles-with-fried-eggs.md)
 * [Dutch Baby Pancake](./food/breakfast/dutch-baby-pancake.md)
+* [French toast casserole](./food/breakfast/french-toast-casserole.md)
 * [Hashbrowns](./food/breakfast/hashbrowns.md)
 * [Sourdough Pancakes](./food/breakfast/sourdough-starter-pancakes.md)
 * [Sourdough ricotta pancakes](./food/breakfast/sourdough-ricotta-pancakes.md)
@@ -41,13 +43,17 @@ It’s recipes. You know, to cook with.
 * [Blueberry & Banana Bread](./food/desserts/dessert-breads/blueberry-banana-bread.md)
 * [Blueberry Pound Cake](./food/desserts/dessert-breads/blueberry-pound-cake.md)
 * [Blueberry Sour Cream Cake](./food/desserts/cakes/blueberry-sour-cream-cake.md)
+* [Buckeyes](./food/desserts/cookies/buckeyes.md)
 * [Butternut Squash Pie](./food/desserts/pies/butternut-squash-pie.md)
+* [Cannoli dip](./food/desserts/cannoli-dip.md)
 * [Carrot cake with cream cheese frosting](./food/desserts/cakes/carrot-cake.md)
 * [Castella Cake](./food/desserts/cakes/castella-cake.md)
+* [Cheesecake](./food/desserts/cakes/cheesecake.md)
 * [Cherry Clafoutis](./food/desserts/pies/cherry-clafoutis.md)
 * [Chia Seed Pudding](./food/desserts/puddings/chia-seed-pudding.md)
 * [Chocolate Chip Cookies with sea salt](./food/desserts/cookies/chocolate-chip-cookies-with-sea-salt.md)
 * [Chocolate delight](./food/desserts/puddings/chocolate-delight.md)
+* [Chow Mein noodle cookies](./food/desserts/cookies/chow-mein-noodle-cookies.md)
 * [Deb Perelman's Triple Berry Buttermilk Bundt Cake](./food/desserts/cakes/deb-perelman-triple-berry-buttermilk-bundt-cake.md)
 * [Deborah Rubin's lemon cookies](./food/desserts/cookies/deborah-rubin-lemon-cookies.md)
 * [Eggnog Cake](./food/desserts/cakes/eggnog-cake.md)
@@ -67,6 +73,7 @@ It’s recipes. You know, to cook with.
 * [Tarte Tatin](./food/desserts/pies/tarte-tatin.md)
 * [Tiramisu](./food/desserts/tiramisu.md)
 * [Vegan Chewy Ginger Molasses Cookies](./food/desserts/cookies/chewy-ginger-molasses-cookies.md)
+* [](./food/desserts/peanut)
 
 ### Main courses
 * [Beef Chili](./food/mains/beef-chili.md)
@@ -160,6 +167,7 @@ It’s recipes. You know, to cook with.
 
 ### Snacks
 * [Cheese Crackers](./food/snacks/cheese-crackers.md)
+* [Cheez-its](./food/snacks/cheez-its.md)
 * [Crisp Rosemary Flatbread](./food/snacks/deb-perelman-rosemary-flatbread-crackers.md)
 * [Deep Fried Chick Peas](./food/snacks/deep-fried-chickpeas.md)
 * [Homemade CheezIts](./food/snacks/homemade-cheez-its.md)
@@ -190,6 +198,7 @@ It’s recipes. You know, to cook with.
 ### Sides and dips
 * [Baba Ganoush](./food/sides-dips/baba-ganoush.md)
 * [Beer and Bacon Butter Beans](./food/sides-dips/beer-and-bacon-butter-beans.md)
+* [Corn casserole](./food/sides-dips/corn-casserole.md)
 * [Couscous with Butternut Squash, Pepitas and Cranberries](./food/sides-dips/couscous-butternut-squash-pepitas-cranberries.md)
 * [Gigantes Plakis](./food/sides-dips/gigantes-plaki-lima-beans.md)
 * [Holdiay Mashed Carrots](./food/sides-dips/holiday-mashed-carrots.md)
