@@ -63,6 +63,7 @@ It’s recipes. You know, to cook with.
 * [Oatmeal Craisin Cookies](./food/desserts/cookies/oatmeal-craisin-cookies.md)
 * [Oatmeal Peanut Butter Cookies](./food/desserts/cookies/oatmeal-peanut-butter-cookies.md)
 * [Peanut butter blossom cookies](./food/desserts/cookies/peanut-butter-blossom-cookies.md)
+* [Peanut butter fudge](./food/desserts/peanut-butter-fudge.md)
 * [Perfect Chocolate Chip Cookies](./food/desserts/cookies/chocolate-chip-cookies.md)
 * [Pies 'n' Thighs Apple Pie](./food/desserts/pies/pies-n-thighs-apple-pie.md)
 * [Plum torte](./food/desserts/cakes/plum-torte.md)
@@ -73,7 +74,6 @@ It’s recipes. You know, to cook with.
 * [Tarte Tatin](./food/desserts/pies/tarte-tatin.md)
 * [Tiramisu](./food/desserts/tiramisu.md)
 * [Vegan Chewy Ginger Molasses Cookies](./food/desserts/cookies/chewy-ginger-molasses-cookies.md)
-* [](./food/desserts/peanut)
 
 ### Main courses
 * [Beef Chili](./food/mains/beef-chili.md)
