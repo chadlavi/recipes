@@ -9,7 +9,6 @@ It’s recipes. You know, to cook with.
 
 ### Breads
 * [Alton Brown's Popovers](./food/bread/alton-brown-popovers.md)
-* [Apple bread](./food/bread/apple-bread.md)
 * [Bagels](./food/bread/bagels.md)
 * [Challah (from _Joy of Cooking_)](./food/bread/joy-of-cooking-challah.md)
 * [Challah](./food/bread/challah.md)
@@ -39,6 +38,7 @@ It’s recipes. You know, to cook with.
 
 ### Desserts
 * [All butter crust from Sister Pie](./food/desserts/pies/sister-pie-crust.md)
+* [Apple bread](./food/desserts/cakes/apple-bread.md)
 * [Big Berry Pie](./food/desserts/pies/big-berry-pie.md)
 * [Blueberry & Banana Bread](./food/desserts/dessert-breads/blueberry-banana-bread.md)
 * [Blueberry Pound Cake](./food/desserts/dessert-breads/blueberry-pound-cake.md)
