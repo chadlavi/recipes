@@ -1,13 +1,13 @@
 # Broccoli Parmesan Fritters
 
 ## Ingredients
-* 8 ounces (1 small-to-medium bundle, 225 grams) fresh broccoli (3 cups chopped) 
-* 1 large egg 
-* 1/2 cup (65 grams) all-purpose flour 
-* 1/3 cup (30 grams) finely grated parmesan cheese 
-* 1 small clove garlic, minced 
-* 1/2 teaspoon Kosher salt, plus more to taste 
-* A pinch of red pepper flakes or several grinds of black pepper 
+* 8 ounces (1 small-to-medium bundle, 225 grams) fresh broccoli (3 cups chopped)
+* 1 large egg
+* 1/2 cup (65 grams) all-purpose flour
+* 1/3 cup (30 grams) finely grated parmesan cheese
+* 1 small clove garlic, minced
+* 1/2 teaspoon Kosher salt, plus more to taste
+* A pinch of red pepper flakes or several grinds of black pepper
 * Olive or vegetable oil for frying
 
 ## Directions

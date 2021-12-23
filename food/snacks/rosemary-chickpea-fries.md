@@ -1,11 +1,11 @@
 # Rosemary Chickpea Fries
 
 ## Ingredients
-* Oil for greasing the pan 
-* 1 cup chickpea flour 
-* 2 cups vegetable or chicken stock 
-* 1/2 teaspoon dried rosemary 
-* Salt and black pepper 
+* Oil for greasing the pan
+* 1 cup chickpea flour
+* 2 cups vegetable or chicken stock
+* 1/2 teaspoon dried rosemary
+* Salt and black pepper
 * Canola or light olive oil for deep-frying
 
 ## Directions
