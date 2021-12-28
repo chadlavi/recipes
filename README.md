@@ -94,6 +94,7 @@ It’s recipes. You know, to cook with.
 * [Crispy Mushrooms With Creamy White Beans and Kale](./food/mains/mushrooms-and-cannellini-beans.md)
 * [Dan Delaney's ribs](./food/mains/dan-delaney-ribs.md)
 * [Dong Bei-style Cumin Lamb Ribs](./food/mains/dong-bei-cumin-lamb-ribs.md)
+* [Enchilada Lasagna ("Enchizaña")](./food/mains/enchilada-lasagna.md)
 * [Filet Mignon de Porc à Sauvignon Blanc](./food/mains/filet-mignon-de-porc-a-sauvignon-blanc.md)
 * [Frijoles de Olla](./food/mains/frijoles-de-olla.md)
 * [Garlic Roasted Chicken](./food/mains/garlic-roasted-chicken.md)
