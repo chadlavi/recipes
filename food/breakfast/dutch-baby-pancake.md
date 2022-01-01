@@ -1,5 +1,7 @@
 # Dutch Baby Pancake
-tonyb's recipe
+tonyb's recipe. 
+
+See also [NYT version](./nyt-dutch-baby-pancake).
 
 ## Ingredients
 

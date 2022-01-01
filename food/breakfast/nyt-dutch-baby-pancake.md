@@ -1,5 +1,7 @@
 # Dutch Baby Pancake (NYT cooking version)
 
+See also [tonyb's version](./dutch-baby-pancake).
+
 ## Ingredients
 
 - 1/2 cup milk, room temperature
