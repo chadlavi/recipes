@@ -35,7 +35,7 @@ It’s recipes. You know, to cook with.
 * [Teresa Finney's Grandma's Chilaquiles](./food/breakfast/teresa-finney-chilaquiles.md)
 * [Waffles](./food/breakfast/waffles.md)
 * [Whole Wheat Pancakes](./food/breakfast/whole-wheat-pancakes.md)
-* [Zojirushi steel cut oats](./food/breakfast/zojirushi-rice-cooker-steel-cut-oats.md)
+* [Zojirushi oatmeal](./food/breakfast/zojirushi-rice-cooker-oatmeal.md)
 
 ### Desserts
 * [All butter crust from Sister Pie](./food/desserts/pies/sister-pie-crust.md)
