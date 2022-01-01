@@ -26,6 +26,7 @@ It’s recipes. You know, to cook with.
 
 ### Breakfasts
 * [Chilaquiles with Fried Eggs](./food/breakfast/chilaquiles-with-fried-eggs.md)
+* [Dutch Baby Pancake (NYT cooking version)](./food/breakfast/nyt-dutch-baby-pancake.md)
 * [Dutch Baby Pancake](./food/breakfast/dutch-baby-pancake.md)
 * [French toast casserole](./food/breakfast/french-toast-casserole.md)
 * [Hashbrowns](./food/breakfast/hashbrowns.md)
