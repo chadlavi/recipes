@@ -23,7 +23,7 @@ This recipe makes 1 Detroit-style pizza in a 10x14 pan. Give yourself at least 1
 3. Knead rested dough for 3 minutes. Shape into a ball, and put it in a bowl with a little oil, turning to coat. Put plastic wrap on the dough (pressed down onto the dough, so there's no air touching it), and refrigerate for a day or two. Three days would probably also be ok.
 
 ### Cookin' it
-1. Grease a 10x14 pan with 2" tall sides with Crisco (ideally) or butter (also ok).
+1. Grease a 10x14 pan with 2" tall sides with beef fat (ideally) or Crisco or butter (also ok).
 2. Remove dough from the fridge and stretch it into a roughly rectangular shape, then place it in the pan, stretching and pushing the dough to completely cover the bottom of the pan and fill the corners.
 3. Move a rack to the lowest position in your oven, and preheat it to 550º or as close as your oven gets to that.
 4. Let the dough come to room temperature and rise on the counter (this usually takes an hour or more). 
@@ -38,6 +38,14 @@ This recipe makes 1 Detroit-style pizza in a 10x14 pan. Give yourself at least 1
 * <https://www.nytimes.com/2014/04/09/dining/a-little-pizza-homework.html>
 
 ## Notes
+
+### 2022-01-29
+Truly amazing results—thanks to greasing the pan with rendered beef fat leftover from a beef short rib dish made last month. Coincidentally, I used the same Italian cheese blend I used in 2018 and blamed for my poor results at the time (see below); I think probably the issue was pan lubrication. Today's pie released effortlessly from the pan, with a crisp brown bottom. It was the cleanest release I have ever had, and also the first time I used beef fat to grease the pan.
+
+For future reference: I greased the pan with cold hardened beef fat, which softened and partially liquified as I handled it. I kept the greased pan in the refrigerator until it was time to put the dough in the pan for the final rise.
+
+Also used hormel pepperoni, bought at the grocery store as a whole sausage and sliced thin just before applying. Good cupping. 
+
 ### 2018-11-11
 Uneven results
 * Used vegetable shortening on pan, this seems to have worked well
