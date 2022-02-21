@@ -60,6 +60,7 @@ It’s recipes. You know, to cook with.
 * [Eggnog Cake](./food/desserts/cakes/eggnog-cake.md)
 * [Four and Twenty Blackbirds' Egg n' Grogg pie](./food/desserts/pies/egg-n-grog-pie.md)
 * [Levain's Chocolate Chip Walnut Cookies](./food/desserts/cookies/levain-chocolate-chip-walnut-cookies.md)
+* [Milk and honey pie](./food/desserts/pies/milk-and-honey-pie.md)
 * [Mrs. Kleemeyer's Pound Cake](./food/desserts/dessert-breads/mrs-kleemeyers-pound-cake.md)
 * [Oatmeal Craisin Cookies](./food/desserts/cookies/oatmeal-craisin-cookies.md)
 * [Oatmeal Peanut Butter Cookies](./food/desserts/cookies/oatmeal-peanut-butter-cookies.md)
