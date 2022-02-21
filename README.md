@@ -291,7 +291,7 @@ It’s recipes. You know, to cook with.
 * [White Lady](./drink/cocktails/white-lady.md)
 
 ### Coffee and Tea
-* [Café au lait au bol](./drink/coffee/bowl-café-au-lait.md)
+* [Café au lait au bol](./drink/coffee/bowl-cafe-au-lait.md)
 * [Cà Phê](./drink/coffee/vietnamese-ca-phe.md)
 * [Mojitea](./drink/tea/mojitea.md)
 * [Vietnamese iced coffee with sweetened condensed coconut milk](./drink/coffee/vietnamese-iced-coffee.md)
