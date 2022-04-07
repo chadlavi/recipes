@@ -40,6 +40,7 @@ It’s recipes. You know, to cook with.
 ### Desserts
 * [All butter crust from Sister Pie](./food/desserts/pies/sister-pie-crust.md)
 * [Apple bread](./food/desserts/cakes/apple-bread.md)
+* [Banana bread](./food/desserts/dessert-breads/banana-bread.md)
 * [Big Berry Pie](./food/desserts/pies/big-berry-pie.md)
 * [Blueberry & Banana Bread](./food/desserts/dessert-breads/blueberry-banana-bread.md)
 * [Blueberry Pound Cake](./food/desserts/dessert-breads/blueberry-pound-cake.md)
