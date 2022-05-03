@@ -177,6 +177,7 @@ It’s recipes. You know, to cook with.
 * [Win Son's Five Spice Fried Chicken Sandwich](./food/sandwiches/win-son-five-spice-fried-chicken-sandwich.md)
 
 ### Snacks
+* [Boneless buffalo bites](./food/snacks/boneless-buffalo.md)
 * [Cheese Crackers](./food/snacks/cheese-crackers.md)
 * [Cheez-its](./food/snacks/cheez-its.md)
 * [Crisp Rosemary Flatbread](./food/snacks/deb-perelman-rosemary-flatbread-crackers.md)
