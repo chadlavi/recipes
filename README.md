@@ -247,6 +247,7 @@ It’s recipes. You know, to cook with.
 * [Chatham Artillery Punch](./drink/cocktails/chatham-artillery-punch.md)
 * [David Wondrich's Royal Hibernian Punch](./drink/cocktails/royal-hibernian-punch.md)
 * [Delmonico Cocktail](./drink/cocktails/delmonico.md)
+* [Dirty Shirley](./drink/cocktails/dirty-shirley.md)
 * [Dry Martini](./drink/cocktails/dry-martini.md)
 * [Eamon's Punch](./drink/cocktails/eamons-punch.md)
 * [Eighteenth-century-style Rum Punch](./drink/cocktails/18th-century-rum-punch.md)
