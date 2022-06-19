@@ -224,6 +224,7 @@ It’s recipes. You know, to cook with.
 * [Sandi Gant's Sweet Potato Casserole](./food/sides-dips/sandi-gant-sweet-potato-casserole.md)
 * [Stuffing](./food/sides-dips/stuffing.md)
 * [Tony's Braised Beets](./food/sides-dips/tonybs-braised-beets.md)
+* [감자샐러드 / Gamja Salad (Korean potato salad)](./food/sides-dips/gamja-salad-korean-potato-salad.md)
 
 ### Condiments, sauces and toppings
 * [Caesar salad dressing](./food/condiments-sauces-toppings/caesar-salad-dressing.md)
