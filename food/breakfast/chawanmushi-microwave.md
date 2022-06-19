@@ -1,6 +1,6 @@
 # 茶碗蒸し / Chawanmushi (Microwave)
 
-Dave Chang's recipe. Makes 1 serving.
+Dave Chang's recipe
 
 ## Ingredients
 
