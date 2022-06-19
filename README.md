@@ -36,6 +36,7 @@ It’s recipes. You know, to cook with.
 * [Waffles](./food/breakfast/waffles.md)
 * [Whole Wheat Pancakes](./food/breakfast/whole-wheat-pancakes.md)
 * [Zojirushi oatmeal](./food/breakfast/zojirushi-rice-cooker-oatmeal.md)
+* [茶碗蒸し / Chawanmushi (Microwave)](./food/breakfast/chawanmushi-microwave.md)
 
 ### Desserts
 * [All butter crust from Sister Pie](./food/desserts/pies/sister-pie-crust.md)
