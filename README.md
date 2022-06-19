@@ -78,6 +78,7 @@ It’s recipes. You know, to cook with.
 * [Silky Sweet Potato Pie](./food/desserts/pies/serious-eats-sweet-potato-pie.md)
 * [Slab pie](./food/desserts/pies/slab-pie.md)
 * [Tarte Tatin](./food/desserts/pies/tarte-tatin.md)
+* [Thai Tea Ice Cream](./food/desserts/ice-cream/thai-tea-ice-cream.md)
 * [Tiramisu](./food/desserts/tiramisu.md)
 * [Vegan Chewy Ginger Molasses Cookies](./food/desserts/cookies/chewy-ginger-molasses-cookies.md)
 
