@@ -24,4 +24,4 @@
 ## Reference
 
 - <https://cooking.nytimes.com/recipes/1021439-gamja-salad-with-cucumber-carrot-and-red-onion>
-- <https://archive.ph/UW26M#selection-947.0-1012.0>
+- <https://archive.ph/UW26M>
