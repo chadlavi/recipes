@@ -3,8 +3,8 @@
 This is a recipe that my wife's great-grandfater (Holsey Hytche) created, and
 his granddaughter (my mother-in-law) modified.
 
-![Adjusted BBQ Sauce (hand-written by Sandi Gant), part 1](/images/adjusted-bbq-sauce-1.jpg)
-![Adjusted BBQ Sauce (hand-written by Sandi Gant), part 2](/images/adjusted-bbq-sauce-2.jpg)
+![Adjusted BBQ Sauce (hand-written by Sandi Gant), part 1](../../images/adjusted-bbq-sauce-1.jpg)
+![Adjusted BBQ Sauce (hand-written by Sandi Gant), part 2](../../images/adjusted-bbq-sauce-2.jpg)
 
 ## Ingredients
 * 1 large bottle of KC Masterpiece BBQ sauce
