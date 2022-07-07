@@ -1,6 +1,6 @@
 # Manitoba honey dill sauce
 
-THE number one sauce for chicken fingers/tenders (in Manitoba). As recommended by Bill Oakley on Ep. 742 of Jordan Jesse Go
+THE number one sauce for chicken fingers/tenders (in Manitoba). As recommended by Bill Oakley on [Ep. 741 of Jordan Jesse Go](https://maximumfun.org/episodes/jordan-jesse-go/ep-741-pickle-chill-summer-with-bill-oakley/)
 
 ## Ingredients
 
