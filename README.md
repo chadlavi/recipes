@@ -236,6 +236,7 @@ It’s recipes. You know, to cook with.
 * [Cranberry sauce](./food/condiments-sauces-toppings/cranberry-sauce.md)
 * [Garlic serrano coconut crisp](./food/condiments-sauces-toppings/garlic-serrano-coconut-crisp.md)
 * [In-N-Out Animal Style Onions](./food/condiments-sauces-toppings/in-n-out-onions.md)
+* [Manitoba honey dill sauce](./food/condiments-sauces-toppings/monitoba-honey-dill-sauce.md)
 * [Sandi Gant's adjusted BBQ sauce](./food/condiments-sauces-toppings/adjusted-bbq-sauce.md)
 * [Turmeric-tahini dressing](./food/condiments-sauces-toppings/turmeric-tahini-dressing.md)
 
