@@ -132,6 +132,7 @@ It’s recipes. You know, to cook with.
 * [Roasted pork shoulder](./food/mains/roasted-pork-shoulder.md)
 * [Roger Ebert's Fragrant Rice with Chicken](./food/mains/fragrant-rice-with-chicken.md)
 * [Shakshuka with Feta](./food/mains/shakshuka-feta.md)
+* [Shrimp curry](./food/mains/shrimp-curry.md)
 * [Shrimp noodle salad](./food/mains/shrimp-noodle-salad.md)
 * [Slow-Cooked Chicken with Herbed Biscuits](./food/mains/slow-cooked-chicken-stew-with-herbed-biscuits.md)
 * [Slow-Roasted Pork Shoulder with Mustard and Sage](./food/mains/slow-roasted-pork-shoulder-mustard-sage.md)
