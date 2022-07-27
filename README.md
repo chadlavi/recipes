@@ -201,6 +201,7 @@ It’s recipes. You know, to cook with.
 ### Soup
 * [Borscht](./food/soup/borscht.md)
 * [Caldo Verde](./food/soup/caldo-verde.md)
+* [Chicken Pozole](./food/soup/chicken-pozole.md)
 * [Chicken lentil soup with jammy onions](./food/soup/chicken-lentil-soup.md)
 * [Matzoh Ball Soup](./food/soup/matzoh-ball-soup.md)
 * [Potato celery soup](./food/soup/potato-celery-soup.md)
