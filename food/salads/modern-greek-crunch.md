@@ -8,7 +8,7 @@ A clone/approximation of a JustSalad salad. Makes 2 large servings.
 * 3-4 persian cucumbers, halved lengthwise and sliced into thin half moons
 * 2-4 spoonfuls [quick-pickled red onions](../cured-pickled/quick-pickled-red-onions.html)
 * 1/2 cup crumbled Feta
-* 1 cup cooked chickpeas
+* 1 cup [cooked chickpeas](../mains/instant-pot-chickpeas.html)
 * 1 cup pita chip crumbs (crushed pita chips)
 
 ## Directions
