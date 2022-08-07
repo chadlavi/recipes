@@ -110,6 +110,7 @@ It’s recipes. You know, to cook with.
 * [Green goddess chicken ](./food/mains/green-goddess-chicken.md)
 * [Hungarian Goulash](./food/mains/hungarian-goulash.md)
 * [Instant Pot Lamb Ragu](./food/mains/instant-pot-lamb-ragu.md)
+* [Instant pot chickpeas](./food/mains/instant-pot-chickpeas.md)
 * [Jamaican Oxtail](./food/mains/jamaican-oxtail.md)
 * [Jer's Crispy Fried Chicken](./food/mains/southern-fried-chicken.md)
 * [Kabocha no Nimono (Simmered Pumpkin)](./food/mains/nimono.md)
