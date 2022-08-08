@@ -181,6 +181,7 @@ It’s recipes. You know, to cook with.
 * [Quick Pickle Cucumber Salad](./food/salads/quick-pickle-cucumber-salad.md)
 * [Sam Meyer's Danish Cucumber Salad](./food/salads/sam-meyer-danish-cucumber-salad.md)
 * [Summer Salad](./food/salads/summer-salad.md)
+* [Watermelon with mint, yuzu kosho and nigella seeds](./food/salads/watermelon-mint-yuzu.md)
 
 ### Sandwiches
 * [In-N-Out Animal Style Burgers](./food/sandwiches/in-and-out-animal-style-burger.md)
