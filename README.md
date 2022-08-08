@@ -84,6 +84,7 @@ It’s recipes. You know, to cook with.
 * [Vegan Chewy Ginger Molasses Cookies](./food/desserts/cookies/chewy-ginger-molasses-cookies.md)
 
 ### Main courses
+* [Aloo Gobi](./food/mains/aloo-gobi.md)
 * [Beef Chili](./food/mains/beef-chili.md)
 * [Beef Plov](./food/mains/beef-plov.md)
 * [Black eyed peas](./food/mains/black-eyed-peas.md)
