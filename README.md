@@ -230,6 +230,7 @@ It’s recipes. You know, to cook with.
 * [Jamaican rice and peas](./food/sides-dips/jamaican-rice-peas.md)
 * [Mujadara(ish)](./food/sides-dips/mujadara-ish.md)
 * [Mujadara](./food/sides-dips/mujadara.md)
+* [Pimento Cheese Elote](./food/sides-dips/pimento-cheese-elote.md)
 * [Potato Rösti](./food/sides-dips/potato-rosti.md)
 * [Sandi Gant's Sweet Potato Casserole](./food/sides-dips/sandi-gant-sweet-potato-casserole.md)
 * [Stuffing](./food/sides-dips/stuffing.md)
