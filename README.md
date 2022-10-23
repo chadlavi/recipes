@@ -95,6 +95,7 @@ It’s recipes. You know, to cook with.
 * [Chicken Pho](./food/mains/chicken-pho.md)
 * [Chicken adobo](./food/mains/chicken-adobo.md)
 * [Chicken and Tomato Stew with Caramelized Lemon](./food/mains/caramelized-lemon-chicken-stew.md)
+* [Chicken cacciatore](./food/mains/chicken-cacciatore.md)
 * [Cider-Braised Brisket & Veggies](./food/mains/cider-braised-brisket-and-vegetables.md)
 * [Colombian pressure cooker chicken stew](./food/mains/colombian-chicken-stew.md)
 * [Coriander Chicken Thighs with Miso-Glazed Root Vegetables](./food/mains/coriander-chicken-thighs-miso-glazed-root-vegetables.md)
