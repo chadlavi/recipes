@@ -248,6 +248,7 @@ It’s recipes. You know, to cook with.
 * [Manitoba honey dill sauce](./food/condiments-sauces-toppings/monitoba-honey-dill-sauce.md)
 * [Sandi Gant's adjusted BBQ sauce](./food/condiments-sauces-toppings/adjusted-bbq-sauce.md)
 * [Turmeric-tahini dressing](./food/condiments-sauces-toppings/turmeric-tahini-dressing.md)
+* [Two-minute mayonnaise](./food/condiments-sauces-toppings/two-minute-mayo.md)
 
 ### Cocktails
 * [Americano Highball](./drink/cocktails/americano-highball.md)
