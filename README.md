@@ -12,7 +12,7 @@ It’s recipes. You know, to cook with.
 * [Bagels](./food/bread/bagels.md)
 * [Challah (from _Joy of Cooking_)](./food/bread/joy-of-cooking-challah.md)
 * [Challah](./food/bread/challah.md)
-* [Cornbread](./food/bread/jubilee-cornbread.md)
+* [Cornbread (from _Jubilee_)](./food/bread/jubilee-cornbread.md)
 * [Jim Lahey's No-Knead Bread](./food/bread/jim-lahey-no-knead-bread.md)
 * [Mushroom and Gruyère stuffed baguette](./food/bread/mushroom-gruyere-stuffed-baguette.md)
 * [Onion Bacon Tart](./food/bread/onion-bacon-tart.md)
@@ -40,7 +40,7 @@ It’s recipes. You know, to cook with.
 * [茶碗蒸し / Chawanmushi (Microwave)](./food/breakfast/chawanmushi-microwave.md)
 
 ### Desserts
-* [All butter pie crust from Sister Pie](./food/desserts/pies/sister-pie-crust.md)
+* [All butter pie crust (from _Sister Pie_)](./food/desserts/pies/sister-pie-crust.md)
 * [Apple bread](./food/desserts/cakes/apple-bread.md)
 * [Banana bread](./food/desserts/dessert-breads/banana-bread.md)
 * [Big Berry Pie](./food/desserts/pies/big-berry-pie.md)
@@ -86,7 +86,7 @@ It’s recipes. You know, to cook with.
 
 ### Main courses
 * [Aloo Gobi](./food/mains/aloo-gobi.md)
-* [Baked Macaroni and Cheese](./food/mains/jubilee-mac-and-cheese.md)
+* [Baked Macaroni and Cheese (from _Jubilee_)](./food/mains/jubilee-mac-and-cheese.md)
 * [Beef Chili](./food/mains/beef-chili.md)
 * [Beef Plov](./food/mains/beef-plov.md)
 * [Black eyed peas](./food/mains/black-eyed-peas.md)
@@ -153,7 +153,7 @@ It’s recipes. You know, to cook with.
 * [Ultra-Crispy Slow-Roasted Pork Shoulder](./food/mains/crispy-slow-roasted-pork-shoulder.md)
 * [Urvashi Pitre’s Instant Pot Butter Chicken](./food/mains/instant-pot-butter-chicken.md)
 * [Vaguely Vietnamese pork tacos](./food/mains/vaguely-vietnamese-pork-tacos.md)
-* [Vegan Shiitake Bacon from By Chloe](./food/mains/by-chloe-vegan-shiitake-bacon.md)
+* [Vegan Shiitake Bacon (from By Chloe)](./food/mains/by-chloe-vegan-shiitake-bacon.md)
 * [Vegan Tacos Al Pastor](./food/mains/vegan-tacos-al-pastor.md)
 * [牛丼 (gyūdon)](./food/mains/gyudon.md)
 
@@ -180,7 +180,7 @@ It’s recipes. You know, to cook with.
 * [Corn salad with mint and feta](./food/salads/corn-mint-feta-salad.md)
 * [Modern Greek crunch](./food/salads/modern-greek-crunch.md)
 * [Nancy's Chopped Salad](./food/salads/nancys-chopped-salad.md)
-* [Nancy's Salad from Sweetgreens](./food/salads/nancys-sweetgreen-salad.md)
+* [Nancy's Salad (from Sweetgreens)](./food/salads/nancys-sweetgreen-salad.md)
 * [Quick Pickle Cucumber Salad](./food/salads/quick-pickle-cucumber-salad.md)
 * [Sam Meyer's Danish Cucumber Salad](./food/salads/sam-meyer-danish-cucumber-salad.md)
 * [Summer Salad](./food/salads/summer-salad.md)
@@ -226,7 +226,7 @@ It’s recipes. You know, to cook with.
 * [Baba Ganoush](./food/sides-dips/baba-ganoush.md)
 * [Beer and Bacon Butter Beans](./food/sides-dips/beer-and-bacon-butter-beans.md)
 * [Corn casserole](./food/sides-dips/corn-casserole.md)
-* [Cornbread dressing](./food/sides-dips/jubilee-cornbread-dressing.md)
+* [Cornbread dressing (from _Jubilee_)](./food/sides-dips/jubilee-cornbread-dressing.md)
 * [Couscous with Butternut Squash, Pepitas and Cranberries](./food/sides-dips/couscous-butternut-squash-pepitas-cranberries.md)
 * [Gigantes Plakis](./food/sides-dips/gigantes-plaki-lima-beans.md)
 * [Holdiay Mashed Carrots](./food/sides-dips/holiday-mashed-carrots.md)
