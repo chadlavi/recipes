@@ -1,22 +1,25 @@
-# All butter crust from Sister Pie
+# All butter pie crust from Sister Pie
 
 ## Ingredients
+
 * 2.5 cups all-purpose flour
 * 1 tsp granulated sugar
+* 1 tsp kosher salt
 * 1 cup (2 sticks) unsalted butter, cold
 * 1/2 cup ice cold water
 * 1 Tbsp apple cider vinegar
 
 ## Directions
+
 1. Combine flour, sugar, and salt in a large bowl
 2. put the sticks of butter in the bowl and turn to coat
 3. cut the butter into 1/4in cubes with a bench scraper, then work quickly with
    your hands to separate the cubes and coat them all
 4. cut the small cubes in half again with the bench scraper and ensure all
-   surfaces are coated 
+   surfaces are coated
 5. Using a pastry blender/cutter, cut into the butter cubes then (carefully) use
    your hand to toss and turn the ingredients until the butter chunks are the
-   size of small peas and the rest of the mixutre resembles parmesan cheese
+   size of small peas and the rest of the mixture resembles parmesan cheese
 6. Add the water/vinegar mixture all at once, and using the bench scraper scrape
    the mixture from one side of the bowl to the other until no more visible
    pools of liquid remain
@@ -31,4 +34,5 @@
    from the fridge
 
 ## Reference
+
 * _Sister Pie_, Lisa Ludwinski, pp. 22, 25-6
