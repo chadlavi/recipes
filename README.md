@@ -39,7 +39,7 @@ It’s recipes. You know, to cook with.
 * [茶碗蒸し / Chawanmushi (Microwave)](./food/breakfast/chawanmushi-microwave.md)
 
 ### Desserts
-* [All butter crust from Sister Pie](./food/desserts/pies/sister-pie-crust.md)
+* [All butter pie crust from Sister Pie](./food/desserts/pies/sister-pie-crust.md)
 * [Apple bread](./food/desserts/cakes/apple-bread.md)
 * [Banana bread](./food/desserts/dessert-breads/banana-bread.md)
 * [Big Berry Pie](./food/desserts/pies/big-berry-pie.md)
