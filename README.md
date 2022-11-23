@@ -12,6 +12,7 @@ It’s recipes. You know, to cook with.
 * [Bagels](./food/bread/bagels.md)
 * [Challah (from _Joy of Cooking_)](./food/bread/joy-of-cooking-challah.md)
 * [Challah](./food/bread/challah.md)
+* [Cornbread](./food/bread/jubilee-cornbread.md)
 * [Jim Lahey's No-Knead Bread](./food/bread/jim-lahey-no-knead-bread.md)
 * [Mushroom and Gruyère stuffed baguette](./food/bread/mushroom-gruyere-stuffed-baguette.md)
 * [Onion Bacon Tart](./food/bread/onion-bacon-tart.md)
@@ -85,6 +86,7 @@ It’s recipes. You know, to cook with.
 
 ### Main courses
 * [Aloo Gobi](./food/mains/aloo-gobi.md)
+* [Baked Macaroni and Cheese](./food/mains/jubilee-mac-and-cheese.md)
 * [Beef Chili](./food/mains/beef-chili.md)
 * [Beef Plov](./food/mains/beef-plov.md)
 * [Black eyed peas](./food/mains/black-eyed-peas.md)
@@ -224,6 +226,7 @@ It’s recipes. You know, to cook with.
 * [Baba Ganoush](./food/sides-dips/baba-ganoush.md)
 * [Beer and Bacon Butter Beans](./food/sides-dips/beer-and-bacon-butter-beans.md)
 * [Corn casserole](./food/sides-dips/corn-casserole.md)
+* [Cornbread dressing](./food/sides-dips/jubilee-cornbread-dressing.md)
 * [Couscous with Butternut Squash, Pepitas and Cranberries](./food/sides-dips/couscous-butternut-squash-pepitas-cranberries.md)
 * [Gigantes Plakis](./food/sides-dips/gigantes-plaki-lima-beans.md)
 * [Holdiay Mashed Carrots](./food/sides-dips/holiday-mashed-carrots.md)
