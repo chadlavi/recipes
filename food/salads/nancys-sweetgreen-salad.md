@@ -1,8 +1,9 @@
-# Nancy's Salad from Sweetgreens
+# Nancy's Salad (from Sweetgreens)
 
-See also updated [Nancy's Chopped Salad](./nancys-chopped-salad.md)
+See also updated [Nancy's Chopped Salad](./nancys-chopped-salad)
 
 ## Ingredients
+
 * Romaine lettuce
 * Kale
 * Cherry tomatoes
@@ -18,7 +19,8 @@ See also updated [Nancy's Chopped Salad](./nancys-chopped-salad.md)
 * Pickled celery
 
 ## Directions
-1. Clean all the fresh vegetables. Chop kale and romaine; slice half-moons of cucumber; dice the onion; halve the cherry tomatoes. 
+
+1. Clean all the fresh vegetables. Chop kale and romaine; slice half-moons of cucumber; dice the onion; halve the cherry tomatoes.
 2. Slice salami into batons, then slide those lengthwise into thin rectangles.
 3. Mix olive oil, red wine vinegar, a generous pinch of dried oregano, a spoonful of mustard, a pinch of salt and a few grinds of fresh black pepper in a jar with a watertight screwtop lid. Shake vigorously to make vinaigrette. It should emulsify easily.
 4. Add a 50/50 mix of romaine and kale to a large salad bowl. Drizzle with vinaigrette.
@@ -26,4 +28,5 @@ See also updated [Nancy's Chopped Salad](./nancys-chopped-salad.md)
 6. Drizzle a little more vinaigrette over the whole salad, then use tongs or utensils to toss together vigorously. Eat immediately.
 
 ## Reference
-Cobbled together from the ingredients list of the Sweetgreen Salad chain's springtime 2018 seasonal salad, "Nancy's Chopped Salad." 
+
+Cobbled together from the ingredients list of the Sweetgreen Salad chain's springtime 2018 seasonal salad, "Nancy's Chopped Salad."

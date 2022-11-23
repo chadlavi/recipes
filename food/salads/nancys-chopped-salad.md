@@ -1,6 +1,6 @@
 # Nancy's Chopped Salad
 
-See also [Nancy's Salad from Sweetgreens](./nancys-sweetgreen-salad.md)
+See also [Nancy's Salad from Sweetgreens](./nancys-sweetgreen-salad)
 
 ## Ingredients
 
@@ -33,7 +33,7 @@ See also [Nancy's Salad from Sweetgreens](./nancys-sweetgreen-salad.md)
 ### Vinaigrette
 
 1. Whisk together the vinegar, oregano, lemon juice, the smashed garlic and grated garlic and the salt and pepper in a medium bowl. Let the mixture rest for 5 minutes (to marinate the oregano).
-2. Add the oil in a slow, steady stream, whisking constantly to form an emulsified vinaigrette. Taste for seasoning, and add salt or lemon juice as needed. 
+2. Add the oil in a slow, steady stream, whisking constantly to form an emulsified vinaigrette. Taste for seasoning, and add salt or lemon juice as needed.
 
 The yield is a generous 1 1/2 cups; you'll use up to 1/2 cup for this salad, and the remainder can be refrigerated for another use (up to 3 days).
 

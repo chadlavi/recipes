@@ -1,4 +1,4 @@
-# Cornbread
+# Cornbread (from _Jubilee_)
 
 Can be doubled for use in [Cornbread dressing](../sides-dips/jubilee-cornbread-dressing)
 

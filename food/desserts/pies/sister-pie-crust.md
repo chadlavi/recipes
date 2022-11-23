@@ -1,4 +1,4 @@
-# All butter pie crust from Sister Pie
+# All butter pie crust (from _Sister Pie_)
 
 ## Ingredients
 

@@ -1,4 +1,4 @@
-# Cornbread dressing
+# Cornbread dressing (from _Jubilee_)
 
 ## Ingredients
 
