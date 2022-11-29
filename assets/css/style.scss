@@ -8,11 +8,13 @@
     color: #BBBBBB;
     background-color: #141617;
   }
+  .markdown-body {
+    h1, h2, h3, h4, h5, h6, h7 {
+      border-bottom-color: #4a4f57;
+    }
+  }
   a {
     color: #7AAFE2;
-  }
-  h1, h2, h3, h4, h5, h6, h7 {
-    border-bottom-color: #4a4f57;
   }
 
 }
