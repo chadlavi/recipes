@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
-h1 {
-  color: red;
+@media (prefers-color-scheme: dark) {
+  :root {
+    color: white;
+    background: #222222;
+  }
+  a {
+    color: rgb(88, 138, 226);
+  }
+
 }
