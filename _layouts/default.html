@@ -12,7 +12,7 @@
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       {% if site.title and site.title != page.title %}
-      <a href="{{ "/" | absolute_url }}">⬅ home</a>
+      <a href="{{ "/" | absolute_url }}">⬅ home</a> // {{page.title}}
       {% endif %}
 
       {{ content }}

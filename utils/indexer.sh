@@ -1,10 +1,6 @@
 #!/bin/sh
 
-start="---
-title: Recipes
----
-
-# Recipes
+start="# Recipes
 
 It’s recipes. You know, to cook with. 
 
