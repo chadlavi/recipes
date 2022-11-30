@@ -8,6 +8,9 @@ on:
       - 'README.md'
       - 'index.md'
       - '.github/*'
+      - '_layouts/*'
+      - 'assets/*'
+      - '_utils/*'
 jobs:
   build:
 
@@ -16,7 +19,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Update README.md
-      run: ./utils/indexer.sh > README.md
+      run: ./_utils/indexer.sh > README.md
     - name: Commit files
       run: |
         git config --global user.email "chad@chadlavimoniere.com"
