@@ -1,6 +1,12 @@
 #!/bin/sh
 
-start="It’s recipes. You know, to cook with. 
+start="---
+title: Recipes
+---
+
+# Recipes
+
+It’s recipes. You know, to cook with. 
 
 <https://github.com/chadlavi/recipes>
 
