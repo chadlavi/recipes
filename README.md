@@ -128,6 +128,7 @@ It’s recipes. You know, to cook with.
 * [Jamaican Oxtail](./food/mains/jamaican-oxtail.md)
 * [Jer's Crispy Fried Chicken](./food/mains/southern-fried-chicken.md)
 * [Kabocha no Nimono (Simmered Pumpkin)](./food/mains/nimono.md)
+* [Kenji's spatchcocked turkey](./food/mains/spatchcocked-turkey.md)
 * [Kuku Sabzi (Persian Herb Frittata)](./food/mains/kuku-sabzi.md)
 * [Lazy Cassoulet](./food/mains/lazy-cassoulet.md)
 * [Makhani Dal (Butter Dal), Mogul-Style](./food/mains/makhani-dal.md)
