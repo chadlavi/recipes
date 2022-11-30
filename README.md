@@ -4,18 +4,16 @@ title: Recipes
 
 # Recipes
 
-It’s recipes. You know, to cook with.
+It’s recipes. You know, to cook with. 
 
 <https://github.com/chadlavi/recipes>
 
 ## Categories
-
 [Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing)
 
 ## Contents
 
 ### Breads
-
 * [Alton Brown's Popovers](./food/bread/alton-brown-popovers.md)
 * [Bagels](./food/bread/bagels.md)
 * [Challah (from _Joy of Cooking_)](./food/bread/joy-of-cooking-challah.md)
@@ -34,7 +32,6 @@ It’s recipes. You know, to cook with.
 * [The Simplest Brioche](./food/bread/simple-brioche.md)
 
 ### Breakfasts
-
 * [Chilaquiles with Fried Eggs](./food/breakfast/chilaquiles-with-fried-eggs.md)
 * [Dutch Baby Pancake (NYT cooking version)](./food/breakfast/nyt-dutch-baby-pancake.md)
 * [Dutch Baby Pancake](./food/breakfast/dutch-baby-pancake.md)
@@ -49,7 +46,6 @@ It’s recipes. You know, to cook with.
 * [茶碗蒸し / Chawanmushi (Microwave)](./food/breakfast/chawanmushi-microwave.md)
 
 ### Desserts
-
 * [All butter pie crust (from _Sister Pie_)](./food/desserts/pies/sister-pie-crust.md)
 * [Apple bread](./food/desserts/cakes/apple-bread.md)
 * [Banana bread](./food/desserts/dessert-breads/banana-bread.md)
@@ -95,7 +91,6 @@ It’s recipes. You know, to cook with.
 * [Vegan Chewy Ginger Molasses Cookies](./food/desserts/cookies/chewy-ginger-molasses-cookies.md)
 
 ### Main courses
-
 * [Aloo Gobi](./food/mains/aloo-gobi.md)
 * [Baked Macaroni and Cheese (from _Jubilee_)](./food/mains/jubilee-mac-and-cheese.md)
 * [Beef Chili](./food/mains/beef-chili.md)
@@ -122,7 +117,7 @@ It’s recipes. You know, to cook with.
 * [Frijoles de Olla](./food/mains/frijoles-de-olla.md)
 * [Garlic Roasted Chicken](./food/mains/garlic-roasted-chicken.md)
 * [Gołąbki](./food/mains/golabki.md)
-* [Green goddess chicken](./food/mains/green-goddess-chicken.md)
+* [Green goddess chicken ](./food/mains/green-goddess-chicken.md)
 * [Hungarian Goulash](./food/mains/hungarian-goulash.md)
 * [Instant Pot Lamb Ragu](./food/mains/instant-pot-lamb-ragu.md)
 * [Instant pot chickpeas](./food/mains/instant-pot-chickpeas.md)
@@ -156,7 +151,7 @@ It’s recipes. You know, to cook with.
 * [Spicy Whole Roasted Cauliflower](./food/mains/spicy-whole-roasted-cauliflower.md)
 * [Spicy silken tofu](./food/mains/spicy-silken-tofu.md)
 * [Stir-Fried Farro With Garlicky Kale](./food/mains/stir-fried-farro-with-garlicky-kale.md)
-* [Tacos de barbacoa de borrego](./food/mains/barbacoa-tacos.md)
+* [Tacos de barbacoa de borrego ](./food/mains/barbacoa-tacos.md)
 * [Taiwanese braised pork rice (滷肉飯)](./food/mains/taiwanese-braised-pork.md)
 * [Thai red curry](./food/mains/thai-red-curry.md)
 * [Tourtière, Bedard family](./food/mains/bedard-tourtiere.md)
@@ -169,7 +164,6 @@ It’s recipes. You know, to cook with.
 * [牛丼 (gyūdon)](./food/mains/gyudon.md)
 
 ### Pasta
-
 * [Creamy Tomato Parmesan Linguine](./food/pasta/creamy-tomato-parmesan-linguine.md)
 * [Gnocchi](./food/pasta/gnocchi.md)
 * [Kale pesto](./food/pasta/kale-pesto.md)
@@ -179,7 +173,6 @@ It’s recipes. You know, to cook with.
 * [Rao's Meatballs](./food/pasta/raos-meatballs.md)
 
 ### Pizza
-
 * [Detroit Style Pizza](./food/pizza/kenji-lopez-alt-detroit-style-pizza.md)
 * [Foolproof Pan Pizza](./food/pizza/foolproof-pan-pizza.md)
 * [Neapolitan pizza](./food/pizza/neapolitan-pizza.md)
@@ -189,7 +182,6 @@ It’s recipes. You know, to cook with.
 * [Sicilian sheet pizza](./food/pizza/sicilian-sheet-pizza.md)
 
 ### Salads
-
 * [Celery and Fennel Salad](./food/salads/celery-fennel-salad.md)
 * [Corn salad with mint and feta](./food/salads/corn-mint-feta-salad.md)
 * [Modern Greek crunch](./food/salads/modern-greek-crunch.md)
@@ -201,12 +193,10 @@ It’s recipes. You know, to cook with.
 * [Watermelon with mint, yuzu kosho and nigella seeds](./food/salads/watermelon-mint-yuzu.md)
 
 ### Sandwiches
-
 * [In-N-Out Animal Style Burgers](./food/sandwiches/in-and-out-animal-style-burger.md)
 * [Win Son's Five Spice Fried Chicken Sandwich](./food/sandwiches/win-son-five-spice-fried-chicken-sandwich.md)
 
 ### Snacks
-
 * [Boneless buffalo bites](./food/snacks/boneless-buffalo.md)
 * [Cheese Crackers](./food/snacks/cheese-crackers.md)
 * [Cheez-its](./food/snacks/cheez-its.md)
@@ -216,12 +206,11 @@ It’s recipes. You know, to cook with.
 * [Rosemary Chickpea Fries](./food/snacks/rosemary-chickpea-fries.md)
 * [Sesame rice sourdough crackers](./food/snacks/sesame-rice-sourdough-crackers.md)
 * [Sourdough crackers](./food/snacks/sourdough-starter-crackers.md)
-* [Spicy Lime Leaf Beer Nuts](./food/snacks/spicy-lime-leaf-beer-nuts.md)
+* [Spicy Lime Leaf Beer Nuts ](./food/snacks/spicy-lime-leaf-beer-nuts.md)
 * [Texan Queso](./food/snacks/texan-queso.md)
 * [Win Son's Roasted Peanuts](./food/snacks/win-son-roasted-peanuts.md)
 
 ### Soup
-
 * [Borscht](./food/soup/borscht.md)
 * [Caldo Verde](./food/soup/caldo-verde.md)
 * [Chicken Pozole](./food/soup/chicken-pozole.md)
@@ -232,7 +221,6 @@ It’s recipes. You know, to cook with.
 * [Roasted chicken soup](./food/soup/roasted-chicken-soup.md)
 
 ### Cured and pickled
-
 * [Citrus and Dill gravlox](./food/cured-pickled/citrus-dill-gravlax.md)
 * [Pickled Celery](./food/cured-pickled/pickled-celery.md)
 * [Pickled Daikon](./food/cured-pickled/pickled-daikon.md)
@@ -241,7 +229,6 @@ It’s recipes. You know, to cook with.
 * [Vietnamese Pickled Vegetables (Do Chua)](./food/cured-pickled/do-chua-vietnamese-quick-pickles.md)
 
 ### Sides and dips
-
 * [Baba Ganoush](./food/sides-dips/baba-ganoush.md)
 * [Beer and Bacon Butter Beans](./food/sides-dips/beer-and-bacon-butter-beans.md)
 * [Corn casserole](./food/sides-dips/corn-casserole.md)
@@ -261,7 +248,6 @@ It’s recipes. You know, to cook with.
 * [감자샐러드 / Gamja Salad (Korean potato salad)](./food/sides-dips/gamja-salad-korean-potato-salad.md)
 
 ### Condiments, sauces and toppings
-
 * [Caesar salad dressing](./food/condiments-sauces-toppings/caesar-salad-dressing.md)
 * [Chile Vinegar Sauce](./food/condiments-sauces-toppings/chile-vinegar-sauce.md)
 * [Chunky roasted Salsa](./food/condiments-sauces-toppings/chunky-roasted-salsa-teresa-finney.md)
@@ -274,7 +260,6 @@ It’s recipes. You know, to cook with.
 * [Two-minute mayonnaise](./food/condiments-sauces-toppings/two-minute-mayo.md)
 
 ### Cocktails
-
 * [Americano Highball](./drink/cocktails/americano-highball.md)
 * [Aromatic Collins](./drink/cocktails/aromatic-collins.md)
 * [Barbancourt Rum Punch](./drink/cocktails/barbancourt-rum-punch.md)
@@ -335,14 +320,12 @@ It’s recipes. You know, to cook with.
 * [White Lady](./drink/cocktails/white-lady.md)
 
 ### Coffee and Tea
-
 * [Café au lait au bol](./drink/coffee/bowl-cafe-au-lait.md)
 * [Cà Phê](./drink/coffee/vietnamese-ca-phe.md)
 * [Mojitea](./drink/tea/mojitea.md)
 * [Vietnamese iced coffee with sweetened condensed coconut milk](./drink/coffee/vietnamese-iced-coffee.md)
 
 ### Brewing
-
 * [Brasserie à Vapeur's Saison de Pipaix clone](./drink/beers/saison-de-pipaix-clone.md)
 * [Derek Hawkins' Thanksgiving Biere de Garde](./drink/beers/biere-de-garde-derek-hawkins.md)
 * [Oskar Blues Old Chub Scotch Ale clone](./drink/beers/oskar-blues-old-chub-scotch-ale-clone.md)
@@ -351,3 +334,4 @@ It’s recipes. You know, to cook with.
 🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥑🍆🥔🥕🌽🌶🥒🍄🥜🌰🍞🥐🥖🥞🧀🍖🍗🥓🍔🍟🍕🌭🌮🌯🍳🍲🥗🍿🍱🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍥🍡🍦🍧🍨🍩🍪🎂🍰🍫🍬🍭🍮🍯🍼🥛☕🍵🍶🍾🍷🍸🍹🍺🍻🥂🥃🍽🍴🥄
 
 <i>Inspired by <https://github.com/shaniber/recipes></i>
+
