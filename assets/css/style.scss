@@ -18,7 +18,15 @@
   }
 
 }
-
+a + h1 {
+  margin-top: 0;
+}
 footer {
   text-align: right;
+}
+
+@media print {
+  footer {
+    display: none;
+  }
 }
