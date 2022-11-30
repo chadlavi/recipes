@@ -1,30 +1,40 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="{{ page.lang | default: site.lang | default: " en-US" }}">
 
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    {% include head-custom.html %}
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      {% if page.title !== "Recipes" %}
-      <a href="{{ "/" | absolute_url }}">← home</a>
-      {% endif %}
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-      {{ content }}
+  {% seo %}
+  <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  {% include head-custom.html %}
+</head>
 
-      {% if site.github.private != true and site.github.license %}
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        This site is open source. {% github_edit_link "Improve this page" %}.
-      </div>
-      {% endif %}
-      <footer><a href="https://github.com/chadlavi/recipes">https://github.com/chadlavi/recipes</a> &middot; Chad Lavimoniere</footer>
+<body>
+  <div class="container-lg px-3 my-5 markdown-body">
+    {% if page.title !== "Recipes" %}
+    <a href="{{ "/" | absolute_url }}">← home</a>
+    {% endif %}
+
+    {{ content }}
+
+    {% if site.github.private != true and site.github.license %}
+    <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
+      This site is open source. {% github_edit_link "Improve this page" %}.
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
+    {% endif %}
+    <br/>
+    <footer>
+      <small>
+        <a href="https://github.com/chadlavi/recipes">https://github.com/chadlavi/recipes</a>
+        &middot; Chad Lavimoniere
+      </small>
+    </footer>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"
+    integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+  <script>anchors.add();</script>
+</body>
+
 </html>
