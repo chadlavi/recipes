@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% seo title=false %}
-  <title>{{page.title}}{% if page.title != "Recipes" %} | {{site.title}}{% endif %}</title>
+  <title>{% if page.title != "Recipes" %}{{page.title}} | {% endif %}{{site.title}}</title>
   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   {% include head-custom.html %}
 </head>
