@@ -29,7 +29,7 @@ footer {
 }
 
 @media print {
-  footer {
+  footer, *.no-print {
     display: none;
   }
 }
