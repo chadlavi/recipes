@@ -3,6 +3,16 @@
 
 @import "{{ site.theme }}";
 
+.markdown-body {
+  a + h1 {
+    margin-top: 0;
+  }
+}
+
+footer {
+  text-align: right;
+}
+
 @media (prefers-color-scheme: dark) {
   body, :root {
     color: #BBBBBB;
@@ -12,17 +22,10 @@
     h1, h2 {
       border-bottom-color: #4a4f57;
     }
-    a + h1 {
-      margin-top: 0;
-    }
   }
   a {
     color: #4b9eee;
   }
-
-}
-footer {
-  text-align: right;
 }
 
 @media print {
