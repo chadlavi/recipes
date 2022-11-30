@@ -26,6 +26,7 @@ It’s recipes. You know, to cook with.
 * [Rosemary Schmaltz Popovers](./food/bread/rosemary-schmaltz-popovers.md)
 * [Rosemary onion focaccia](./food/bread/focaccia-rosemary-onion.md)
 * [Samin Nosrat's Ligurian Focaccia](./food/bread/samin-nosrat-focaccia.md)
+* [Sohla's cheesy corn mochi cake](./food/bread/cheesy-corn-mochi-cake.md)
 * [Tartine Bakery Sourdough Country Bread](./food/bread/tartine-sourdough.md)
 * [The Simplest Brioche](./food/bread/simple-brioche.md)
 
@@ -85,6 +86,8 @@ It’s recipes. You know, to cook with.
 * [Sandi Gant's Sweet Potato Pie](./food/desserts/pies/sandi-gant-sweet-potato-pie.md)
 * [Silky Sweet Potato Pie](./food/desserts/pies/serious-eats-sweet-potato-pie.md)
 * [Slab pie](./food/desserts/pies/slab-pie.md)
+* [Sohla's black & white swirl pound cake](./food/desserts/cakes/black-white-swirl-pound-cake.md)
+* [Sohla's go-to vanilla pound cake](./food/desserts/cakes/vanilla-pound-cake.md)
 * [Tarte Tatin](./food/desserts/pies/tarte-tatin.md)
 * [Thai Tea Ice Cream](./food/desserts/ice-cream/thai-tea-ice-cream.md)
 * [Tiramisu](./food/desserts/tiramisu.md)
