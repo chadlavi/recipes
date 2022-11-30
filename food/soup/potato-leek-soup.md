@@ -4,7 +4,7 @@ From a recipe card included in a _Farm to People_ box
 
 ## Ingredients
 
-- 1 lb Potatoes, peeled and roughly chopped into ½-inch pieces
+- 1 lb Potatoes, peeled and roughly chopped into 1/2-inch pieces
 - 2 Large Leeks or 3 Smaller
 - Leeks, cleaned well and roughly chopped
 - 2 Tbsp Unsalted Butter

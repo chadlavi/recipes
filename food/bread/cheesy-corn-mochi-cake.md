@@ -14,11 +14,11 @@
 
 ## Directions
 
-1. Heat the oven to 350°F. Brush an 8x8-inch brownie pan with butter. In a small bowl, toss together the Pecorino and chile flakes. Transfer ½ cup of this mixture to a bowl and set aside for later. Coat the sides and bottom of the buttered pan with the remaining cheese mixture.
+1. Heat the oven to 350°F. Brush an 8x8-inch brownie pan with butter. In a small bowl, toss together the Pecorino and chile flakes. Transfer 1/2 cup of this mixture to a bowl and set aside for later. Coat the sides and bottom of the buttered pan with the remaining cheese mixture.
 2. Using a sharp knife, shave the corn kernels off the cobs. Measure out 2 cups of corn. (If you have a little extra, add it to the batter as well. This cake is forgiving.) Use the back of the knife to scrape any corn milk left in the shaved cobs and add it to kernels.
-3. In a blender, puree 1 cup of corn kernels with the sour cream and ¼ cup of the reserved cheese mixture until combined.
+3. In a blender, puree 1 cup of corn kernels with the sour cream and 1/4 cup of the reserved cheese mixture until combined.
 4. In a medium bowl, whisk the eggs and melted butter until smooth and creamy. Add the sugar, salt, and corn puree and whisk until combined. Add the rice flour and whisk until combined. Add the reserved 1 cup of corn kernels and, using a spatula, stir to combine.
-5. Scrape the batter into the prepared pan. Evenly sprinkle the remaining ¼ cup cheese mixture on top. Bake until deeply browned and the cake bounces back when gently pressed in the center, 55 to 65 minutes. Cool at least 15 minutes before inverting and serving. Store refrigerated in an airtight container for 3 to 4 days.
+5. Scrape the batter into the prepared pan. Evenly sprinkle the remaining 1/4 cup cheese mixture on top. Bake until deeply browned and the cake bounces back when gently pressed in the center, 55 to 65 minutes. Cool at least 15 minutes before inverting and serving. Store refrigerated in an airtight container for 3 to 4 days.
 
 ## Reference
 

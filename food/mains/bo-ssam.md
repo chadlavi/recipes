@@ -30,7 +30,7 @@
 
 ### For quick Pickles
 
-- 2 meaty kirby cucumbers, cut into ⅛-inch-thick disks
+- 2 meaty kirby cucumbers, cut into 1/8-inch-thick disks
 - 1 tablespoon sugar, or more to taste
 - 1 teaspoon kosher salt, or more to taste
 

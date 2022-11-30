@@ -9,7 +9,7 @@ Simonds family recipe
 - 3 tsp. cinnamon
 - 1 tsp. baking powder
 - 1 tsp. baking soda
-- ½ tsp. salt
+- 1/2 tsp. salt
 - 2 cups sugar
 - 1 cup oil
 - 3 eggs

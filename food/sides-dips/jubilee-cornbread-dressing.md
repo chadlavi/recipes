@@ -3,7 +3,7 @@
 ## Ingredients
 
 - Softened butter, for the baking pan
-- Double recipe [Cornbread](../bread/jubilee-cornbread), crumbled 1½ cups dried bread crumbs, toasted
+- Double recipe [Cornbread](../bread/jubilee-cornbread), crumbled 1 1/2 cups dried bread crumbs, toasted
 - 2.5 teaspoons dried sage
 - 2 teaspoons dried thyme
 - 1 teaspoon poultry seasoning
