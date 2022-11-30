@@ -10,6 +10,7 @@ It’s recipes. You know, to cook with.
 ## Contents
 
 ### Breads
+<details>
 * [Alton Brown's Popovers](./food/bread/alton-brown-popovers.md)
 * [Bagels](./food/bread/bagels.md)
 * [Challah (from _Joy of Cooking_)](./food/bread/joy-of-cooking-challah.md)
@@ -26,6 +27,7 @@ It’s recipes. You know, to cook with.
 * [Samin Nosrat's Ligurian Focaccia](./food/bread/samin-nosrat-focaccia.md)
 * [Tartine Bakery Sourdough Country Bread](./food/bread/tartine-sourdough.md)
 * [The Simplest Brioche](./food/bread/simple-brioche.md)
+</details>
 
 ### Breakfasts
 * [Chilaquiles with Fried Eggs](./food/breakfast/chilaquiles-with-fried-eggs.md)
