@@ -33,7 +33,9 @@ foodLinks="$(filter "$markdownLinks" food | sort)"
 echo "$start
 
 ### Breads
+<details>
 $(filter "$foodLinks" "/bread")
+</details>
 
 ### Breakfasts
 $(filter "$foodLinks" breakfast)
