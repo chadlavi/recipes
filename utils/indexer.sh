@@ -34,7 +34,11 @@ echo "$start
 
 ### Breads
 
+<details>
+
 $(filter "$foodLinks" "/bread")
+
+</details>
 
 ### Breakfasts
 
