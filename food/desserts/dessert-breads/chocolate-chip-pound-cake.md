@@ -1,4 +1,5 @@
 # Ricotta Chocolate Chip Pound Cake
+
 Note: this took more like 80+ minutes to reach 205°F internally.
 
 ## Ingredients
@@ -25,4 +26,5 @@ Note: this took more like 80+ minutes to reach 205°F internally.
 7. Scoop the batter into the prepared pan and use a small offset spatula to smooth and level out the top. Place the cake on the center rack of the oven to bake for 60 to 70 minutes, until a digital thermometer registers 200 degrees when inserted into the center. Remove the cake from the oven and place the pan on a cooling rack to cool for 15 minutes. Remove the cake from the pan by lifting up on the ends of parchment paper and return to the rack to cool completely. Enjoy with or without a cup of coffee
 
 ## Reference
+
 - <https://www.eater.com/21345639/ricotta-chocolate-chip-pound-cake-recipe-melissa-weller>
