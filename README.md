@@ -1,3 +1,7 @@
+---
+title: Recipes
+---
+
 # Recipes
 
 It’s recipes. You know, to cook with.
