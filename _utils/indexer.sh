@@ -23,7 +23,7 @@ getMarkdownLinks() {
 }
 
 getHolidayLinks() {
-  for file in $(grep -ilr --include="**/*.md" --exclude="README.md" "holiday" .); do
+  for file in $(find . -name '*.md' -not -name "README.md" -type f -exec grep -F -li 'holiday' {} +); do
     echo "* [$(cat "$file" | head -n 1 | sed 's/^# //')]("$file")"
   done
 }
