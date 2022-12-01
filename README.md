@@ -350,7 +350,27 @@ It's recipes. You know, to cook with.
 
 ### Holiday
 
-
+* [All butter pie crust (from _Sister Pie_)](./food/desserts/pies/sister-pie-crust.md)
+* [Baked Macaroni and Cheese (from _Jubilee_)](./food/mains/jubilee-mac-and-cheese.md)
+* [Black eyed peas](./food/mains/black-eyed-peas.md)
+* [Buckeyes](./food/desserts/cookies/buckeyes.md)
+* [Challah (from _Joy of Cooking_)](./food/bread/joy-of-cooking-challah.md)
+* [Chow Mein noodle cookies](./food/desserts/cookies/chow-mein-noodle-cookies.md)
+* [Corn casserole](./food/sides-dips/corn-casserole.md)
+* [Cornbread dressing (from _Jubilee_)](./food/sides-dips/jubilee-cornbread-dressing.md)
+* [Cranberry sauce](./food/condiments-sauces-toppings/cranberry-sauce.md)
+* [Dutch Baby Pancake](./food/breakfast/dutch-baby-pancake.md)
+* [Holiday Mashed Carrots](./food/sides-dips/holiday-mashed-carrots.md)
+* [Holiday Mashed Potatoes](./food/sides-dips/holiday-mashed-potatoes.md)
+* [Holiday Stuffing](./food/sides-dips/stuffing.md)
+* [Kenji's spatchcocked turkey](./food/mains/spatchcocked-turkey.md)
+* [Peanut butter blossom cookies](./food/desserts/cookies/peanut-butter-blossom-cookies.md)
+* [Peanut butter fudge](./food/desserts/peanut-butter-fudge.md)
+* [Rum balls](./food/desserts/rum-balls.md)
+* [Sandi Gant's Sweet Potato Casserole](./food/sides-dips/sandi-gant-sweet-potato-casserole.md)
+* [Sandi Gant's Sweet Potato Pie](./food/desserts/pies/sandi-gant-sweet-potato-pie.md)
+* [Texan Queso](./food/snacks/texan-queso.md)
+* [Tourtière, Bedard family](./food/mains/bedard-tourtiere.md)
 
 🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥑🍆🥔🥕🌽🌶🥒🍄🥜🌰🍞🥐🥖🥞🧀🍖🍗🥓🍔🍟🍕🌭🌮🌯🍳🍲🥗🍿🍱🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍥🍡🍦🍧🍨🍩🍪🎂🍰🍫🍬🍭🍮🍯🍼🥛☕🍵🍶🍾🍷🍸🍹🍺🍻🥂🥃🍽🍴🥄
 
