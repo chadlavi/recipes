@@ -8,7 +8,7 @@ It’s recipes. You know, to cook with.
 
 ## Categories
 
-[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing)
+[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing) &middot; [Holiday](#Holiday)
 
 ## Contents"
 
@@ -22,11 +22,18 @@ getMarkdownLinks() {
   done
 }
 
+getHolidayLinks() {
+  for file in $(grep -ilR --include="**/*.md" --exclude="README.md" "holiday" .); do
+    echo "* [$(cat "$file" | head -n 1 | sed 's/^# //')]("$file")"
+  done
+}
+
 filter() {
   echo "$1" | grep -E "$2"
 }
 
 markdownLinks="$(getMarkdownLinks)"
+holidayLinks="$(getHolidayLinks | sort)"
 drinkLinks="$(filter "$markdownLinks" drink | sort)"
 foodLinks="$(filter "$markdownLinks" food | sort)"
 
@@ -95,5 +102,9 @@ $(filter "$drinkLinks" coffee\|tea)
 ### Brewing
 
 $(filter "$drinkLinks" beers)
+
+### Holiday
+
+$holidayLinks
 
 $end"
