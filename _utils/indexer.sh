@@ -2,13 +2,13 @@
 
 start="# Recipes
 
-It’s recipes. You know, to cook with.
+It's recipes. You know, to cook with.
 
 <https://github.com/chadlavi/recipes>
 
 ## Categories
 
-[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing) &middot; [Holiday](#Holiday)
+[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing) &middot; [Holiday](#holiday)
 
 ## Contents"
 
@@ -23,7 +23,7 @@ getMarkdownLinks() {
 }
 
 getHolidayLinks() {
-  for file in $(grep -ilR --include="**/*.md" --exclude="README.md" "holiday" .); do
+  for file in $(grep -ilr --include="**/*.md" --exclude="README.md" "holiday" .); do
     echo "* [$(cat "$file" | head -n 1 | sed 's/^# //')]("$file")"
   done
 }
