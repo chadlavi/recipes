@@ -70,7 +70,7 @@
 4. Using a pizza peel, transfer the pizza to your oven and bake until the crust is golden and the cheese is melted.
 5. To finish off the pizza, grate some more parmesan over top, top with torn basil, and a drizzle of olive oil.
 
-## References
+## Reference
 
 - <https://www.youtube.com/watch?v=OjsCEJ8CWlg>
 - <https://prohomecooks.com/recipes/a-master-class-in-neapolitan-pizza-making-full-breakdown/>

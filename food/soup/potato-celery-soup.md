@@ -14,9 +14,9 @@
 
 ## Directions
 
-1. Combine celery, potato, onion, and butter in a medium saucepan over medium heat; season with kosher salt. Cook, stirring, until onion is tender, 8–10 minutes. 
-2. Add broth; simmer until potatoes are tender, 8–10 minutes. 
-3. Add dill and use a stick blender to purée. Stir in cream. 
+1. Combine celery, potato, onion, and butter in a medium saucepan over medium heat; season with kosher salt. Cook, stirring, until onion is tender, 8–10 minutes.
+2. Add broth; simmer until potatoes are tender, 8–10 minutes.
+3. Add dill and use a stick blender to purée. Stir in cream.
 
 Serve soup topped with celery leaves, sea salt, and oil.
 
@@ -26,7 +26,7 @@ Serve soup topped with celery leaves, sea salt, and oil.
 
 ## Notes
 
-The first time I made this, I had a lot of celery to use up. The ingredients I used were: 
+The first time I made this, I had a lot of celery to use up. The ingredients I used were:
 
 * 2 heads celery
 * 4 large waxy potatoes

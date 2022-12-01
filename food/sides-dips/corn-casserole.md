@@ -1,5 +1,7 @@
 # Corn casserole
 
+A family holiday classic.
+
 ## Ingredients
 
 - 2 cans cream corn
@@ -10,6 +12,6 @@
 
 ## Directions
 
-1. Preaheat oven to 350ºF
+1. Preheat oven to 350ºF
 2. Combine all ingredients in a casserole dish (8x8")
 3. Bake 45 minutes or until slightly browned on top

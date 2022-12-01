@@ -1,7 +1,9 @@
 # Black eyed peas
-for new year's day
+
+Family holiday tradition: eat these on new year's day
 
 ## Ingredients
+
 * 1lb bacon, chopped
 * 1 medium yellow onion
 * 3-6 cloves garlic, chopped
@@ -10,6 +12,7 @@ for new year's day
 * bay leaves
 
 ## Directions
+
 1. Put a heavy cast iron dutch oven over medium-low heat, and add the chopped
   bacon. Let cook until most of the fat has rendered out.
 2. Add chopped onion, garlic, and jalapeño to the bacon and fat. Sauté until the

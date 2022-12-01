@@ -1,4 +1,4 @@
-# Sohla's cheesy corn mochi cake
+# Sohla El-Wally's cheesy corn mochi cake
 
 ## Ingredients
 

@@ -25,7 +25,7 @@
 4. Return 3 tablespoons oil to now-empty Dutch oven or wok and heat over medium-high heat until shimmering. Add cumin seeds and cook until seeds start to spit, about 10 seconds. Add onion and cook, stirring frequently, until onions just start to brown, about 8 minutes. Add ginger, garlic, and chiles and cook until fragrant, about 20 seconds. Mound vegetables in center of pan, add turmeric and dried fenugreek leaves on top, and stir to combine. Stir in chopped tomatoes and remaining 1 teaspoon salt and cook until tomatoes break down slightly and release their liquid, about 2 minutes.
 5. Stir in 1 cup water, increase heat to high heat, and cook until liquid reduces slightly, 2 to 3 minutes. Add reserved cauliflower and potatoes and fold gently to evenly coat vegetables with sauce. Off-heat, stir in cilantro. Serve immediately.
 
-## References
+## Reference
 
 - <https://www.seriouseats.com/aloo-gobi-recipe-5220973>
-- <http://archive.today/Mffq3> 
+- <http://archive.today/Mffq3>

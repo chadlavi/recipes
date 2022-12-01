@@ -1,8 +1,8 @@
-# Bo Ssam
+# Bo Ssäm
 
 ## Ingredients
 
-### For Bo Ssam
+### For Bo Ssäm
 
 - 1 whole 8- to 10-pound bone-in Boston pork butt
 - 1 cup granulated sugar
@@ -36,7 +36,7 @@
 
 ## Directions
 
-### Bo Ssam
+### Bo Ssäm
 
 1. Put the pork shoulder in a roasting pan, ideally one that holds it snugly. Mix together the granulated sugar and 1 cup of salt in a bowl, then rub the mixture into the meat; discard any excess salt-and-sugar mixture. Cover the pan with plastic wrap and put it into the fridge for at least 6 hours, or overnight.
 2. Heat the oven to 300ºF. Remove the pork from the refrigerator and discard any juices that have accumulated. Put the pork in the oven and cook for 6 hours, basting with the rendered fat and pan juices every hour. The pork should be tender and yielding at this point—it should offer almost no resistance to the blade of a knife and you should be able to easily pull the meat of the shoulder with a fork. Depending on your schedule, you can serve the pork right away or let it rest and mellow out at room temperature for up to an hour.
@@ -55,7 +55,7 @@
 
 Taste: if the pickles are too sweet or too salty, put them in a colander, rinse off the seasoning, and dry in a kitchen towel. Taste again and add more sugar or salt as needed. Serve after 5 to 10 minutes, or refrigerate up to 4 hours.
 
-## References
+## Reference
 
-- <https://peachykeen.momofuku.com/recipe/bo-ssam/>
+- <https://peachykeen.momofuku.com/recipe/bo-Ssäm/>
 - <https://archive.ph/jJqu4>

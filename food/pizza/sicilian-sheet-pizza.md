@@ -4,6 +4,7 @@ NOTE: start making this recipe at least 12 (ideally, 48+) hours before you
 intend to eat.
 
 ## Dough ingredients
+
 * 425g unbleached bread flour
 * 142g whole wheat flour
 * 11g kosher salt
@@ -13,6 +14,7 @@ intend to eat.
 * 35g olive oil
 
 ## Other ingredients (mostly approximated)
+
 * 1 ball of fresh mozzarella
 * 1 large can of san marzano whole peeled tomatoes
 * Dried oregano
@@ -26,9 +28,9 @@ intend to eat.
 ### Dough: phase 1
 
 1. Mix the flours, salt, honey, yeast and water in a large bowl, and mix until just combined. Set a timer for 30 minutes.
-2. 30 minutes later, add the 35g of olive oil. Mix throughly by hand until gluten begins to form and the dough starts to come together -- though it will be extremely loose and wet.
+2. 30 minutes later, add the 35g of olive oil. Mix thoroughly by hand until gluten begins to form and the dough starts to come together -- though it will be extremely loose and wet.
 3. Turn the dough in the bowl, giving it coil folds, every thirty minutes or so, until it can hold tension.
-4. Add a little more oil to surround the dough ball, cover the bowl with plastic wrap, and refridgerate for at least 12 (but ideally more like 36-48) hours.  This works particularly well if you start the dough on Friday night, then cook the pizza Sunday afternoon.
+4. Add a little more oil to surround the dough ball, cover the bowl with plastic wrap, and refrigerate for at least 12 (but ideally more like 36-48) hours.  This works particularly well if you start the dough on Friday night, then cook the pizza Sunday afternoon.
 
 ### Dough: phase 2
 
@@ -69,4 +71,5 @@ weighty or soggy toppings that would hold it down.
 3. Cut the half pizza into 8 even pieces.
 
 ## Reference
-- based on the whole wheat pizza dough and grandma sicilian pizza from [Perfect Pan Pizza](https://www.penguinrandomhouse.com/books/573362/perfect-pan-pizza-by-peter-reinhart/9780399581953)
+
+* based on the whole wheat pizza dough and grandma sicilian pizza from [Perfect Pan Pizza](https://www.penguinrandomhouse.com/books/573362/perfect-pan-pizza-by-peter-reinhart/9780399581953)

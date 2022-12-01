@@ -22,6 +22,6 @@
 4. Add wine and bring to a simmer. Add tomatoes and reserved juices, along with herb sprigs and bay leaf. Return to a simmer. Season with salt and pepper. Nestle chicken and any accumulated juices into liquid and vegetables.
 5. Transfer to oven and cook, uncovered, until chicken is fully cooked through and tender and sauce is slightly reduced and thickened, about 30 minutes. Discard herb sprigs and bay leaf. Serve right away, garnishing with minced parsley if desired.
 
-## References
+## Reference
 
 - <https://www.seriouseats.com/chicken-cacciatore-red-peppers-recipe>

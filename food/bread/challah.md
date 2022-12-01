@@ -1,21 +1,24 @@
 # Challah
+
 Makes 1 large braided loaf, 2 smaller loaves, or 1 large double—braided celebration loaf.
 
 ## Ingredients
+
 * 4 cups (18 ounces) unbleached bread flour
 * 2 tablespoons (1 ounce) granulated sugar
 * 1 teaspoon (.25 ounce) salt
 * 1 1/3 teaspoons (.15 ounce) instant yeast
 * 2 tablespoons (1 ounce) vegetable oil
-* 2 large (3.3 ounces) eggs, siightly beaten
+* 2 large (3.3 ounces) eggs, slightly beaten
 * 2 large (1.25 ounces) egg yolks, slightly beaten
 * 3/4 cup plus 2 tbsp to 1 1/8 cups (7 to 9 ounces) water, at room temperature
 * 2 egg whites, whisked until frothy, for egg wash
 * Sesame or poppy seeds for garnish
 
 ## Directions
-1. Stir together the ﬂour, sugar, salt, and yeast in a mixing bowl (or in the bowl of an electric mixer), In a separate bowl, whisk together the oil, eggs and yolks, and 3/4 cup plus 2 tablespoons water. Pour the egg mixture into the ﬂour mixture. Mix with a spoon (or on low speed with the paddle attachment) until all the ingredients gather and form a ball. Add the remaining water, if needed.
-2. Sprinkle ﬂour on the counter. transfer the dough to the counter, and knead for about 10 minutes (or mix at medium-low speed for 6 minutes with the dough hook), sprinkling in more ﬂour if needed to make a soft, supple, but not sticky dough. The dough should pass the windowpane test and register approximately 80°F.
+
+1. Stir together the flour, sugar, salt, and yeast in a mixing bowl (or in the bowl of an electric mixer), In a separate bowl, whisk together the oil, eggs and yolks, and 3/4 cup plus 2 tablespoons water. Pour the egg mixture into the flour mixture. Mix with a spoon (or on low speed with the paddle attachment) until all the ingredients gather and form a ball. Add the remaining water, if needed.
+2. Sprinkle flour on the counter. transfer the dough to the counter, and knead for about 10 minutes (or mix at medium-low speed for 6 minutes with the dough hook), sprinkling in more flour if needed to make a soft, supple, but not sticky dough. The dough should pass the windowpane test and register approximately 80°F.
 3. Lightly oil a large bowl. Form the dough into a *boule* and transfer into the bowl, rolling it around to coat it with oil. Cover the bowl with plastic wrap. Ferment for 1 hour at room temperature.
 4. Remove the dough from the bowl and knead for 2 minutes to degas. Reform it into a ball, return the ball to the bowl, cover with plastic wrap, and ferment for an additional hour. It should be at least 1.5 times its original size.
 5. Remove the dough from the bowl and divide it into 3 equal pieces for 1 large loaf, or 6 pieces for 2 loaves. (Or, for a celebration challah, divide it into 3 equal pieces and combine 2 of those pieces and form them into 1 large dough. Take this larger piece and divide it into 3 equal pieces. Take the smaller dough and divide it into 3 pieces as well; in the end, you will have 3 large pieces and 3 small pieces.) Regardless of the size of the loaves you decide to make, form each of the pieces into a *boule*, cover them with a towel, and let them rest on the counter for 10 minutes.

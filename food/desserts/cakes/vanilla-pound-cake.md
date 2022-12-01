@@ -1,4 +1,4 @@
-# Sohla's go-to vanilla pound cake
+# Sohla El-Wally's go-to vanilla pound cake
 
 ## Ingredients
 

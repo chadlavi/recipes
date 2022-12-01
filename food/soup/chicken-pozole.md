@@ -22,6 +22,6 @@
 3. Transfer to a blender, then add the chiles, cilantro and the remaining 1/2 teaspoon thyme and puree until smooth. Return to the saucepan and cook over medium heat, stirring, until the sauce thickens and turns deep green, about 5 minutes.
 4. Add the broth, hominy and chicken to the saucepan. Cover and simmer until the chicken is tender, about 10 minutes. Garnish with avocado, radishes and/or corn chips, if desired.
 
-## References
+## Reference
 
 - <https://www.foodnetwork.com/recipes/food-network-kitchen/chile-chicken-posole-recipe-2104030>

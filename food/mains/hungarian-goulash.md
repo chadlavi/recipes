@@ -1,13 +1,14 @@
 # Hungarian Goulash
 
 ## Ingredients
+
 * 2 LB chuck beef diced
 * 2 cups carrots
 * 2 tablespoons paprika
 * 1 Yellow onion
-* 1 can diced tomatos
+* 1 can diced tomatoes
 * 1 tsp caraway seeds
-* 1/2 cup dry red wine (pinot noir or saivagnon)
+* 1/2 cup dry red wine (pinot noir or sauvignon)
 * 1 1/2 cups beef broth
 * 1/2 cup ketchup
 * 3 tablespoons brown sugar
@@ -16,6 +17,7 @@
 * Cornstarch slurry
 
 ## Directions
+
 1. Slice onion into long strips and dice beef into bite sized cubes
 2. Melt 2 tablespoons butter in instant pot
 3. Add beef allow to sear while constantly stirring
@@ -31,5 +33,5 @@
 Serve on pasta or egg noodles.
 
 ## Reference
-* <https://reddit.com/r/MealPrepSunday/comments/ev5gcs/hungarian_goulash_over_ditalini_pasta_freezes/>
 
+* <https://reddit.com/r/MealPrepSunday/comments/ev5gcs/hungarian_goulash_over_ditalini_pasta_freezes/>

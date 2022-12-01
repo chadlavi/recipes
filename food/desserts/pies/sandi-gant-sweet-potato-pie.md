@@ -1,10 +1,11 @@
 # Sandi Gant's Sweet Potato Pie
 
-From a collection of recipes my mother-in-law gave my wife when she went to college
+From a collection of recipes my mother-in-law gave my wife when she went to college. A family holiday classic.
 
 Note: this recipe makes 2 pies.
 
 ## Ingredients
+
 * 1/2 cup butter
 * 1/2 cup miniature marshmallows
 * 2 cups canned peeled cooked sweet potatoes
@@ -18,6 +19,7 @@ Note: this recipe makes 2 pies.
 * 2 9" pie crusts
 
 ## Directions
+
 1. Preheat oven to 425ºF
 2. Cook marshmallows and butter in medium sauce pan over low heat, stirring until smooth
 3. Combine sweet potatoes, marshmallow mixture, sugar, brown sugar, and spices

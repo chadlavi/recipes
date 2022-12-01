@@ -1,5 +1,7 @@
 # Cornbread dressing (from _Jubilee_)
 
+A family holiday classic.
+
 ## Ingredients
 
 - Softened butter, for the baking pan

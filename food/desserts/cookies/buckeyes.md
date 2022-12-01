@@ -1,5 +1,7 @@
 # Buckeyes
 
+A holiday classic.
+
 ## Ingredients
 
 - 1.5 cups peanut butter
@@ -14,5 +16,5 @@
 2. Mix peanut butter, vanilla, and confectioner's sugar by hand to form a stiff dough
 3. Shape into ~1" balls
 4. Melt chocolate in a double boiler or (carefully in a) microwave
-5. Dip balls halfway in chcolate, then place on prepared cookie sheet or plate
+5. Dip balls halfway in chocolate, then place on prepared cookie sheet or plate
 6. Refrigerate at least 30 minutes before serving

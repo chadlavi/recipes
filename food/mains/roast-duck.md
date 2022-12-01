@@ -1,7 +1,5 @@
 # Roast Duck
 
-Walk by any Chinese BBQ shop and you will likely see glistening roast ducks hanging on the shop windows. Roast ducks are eaten year-round but extremely popular during the holidays as a shared dish for family gatherings. Slice and serve with mandarin pancakes or steamed buns; no matter how you eat it, it is a guaranteed to be a crowd-pleasing centerpiece of any holiday meal!
-
 ## Ingredients
 
 - 1 duck, 4-5 lbs

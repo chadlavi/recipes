@@ -1,5 +1,6 @@
 # Dutch Baby Pancake
-tonyb's recipe. 
+
+tonyb's recipe. A holiday morning breakfast classic.
 
 See also [NYT version](./nyt-dutch-baby-pancake).
 

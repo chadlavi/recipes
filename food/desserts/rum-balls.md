@@ -1,6 +1,6 @@
 # Rum balls
 
-From family recipe book.
+From family recipe book. A holiday classic.
 
 ## Ingredients
 
@@ -14,7 +14,7 @@ From family recipe book.
 
 ## Directions
 
-1. Mix vanilla wafers, sugar, pecans, and cocoa. Stir well. 
-2. Add corn syrup and rum. mix well. 
-3. Shape into balls with wet fingertips, then roll in granulated sugar. 
+1. Mix vanilla wafers, sugar, pecans, and cocoa. Stir well.
+2. Add corn syrup and rum. mix well.
+3. Shape into balls with wet fingertips, then roll in granulated sugar.
 4. Store in warm, dark covered jar or can for 1 week.

@@ -1,6 +1,6 @@
 # Peanut butter fudge
 
-Simonds family recipe
+Simonds family recipe. A holiday classic.
 
 ## Ingredients
 

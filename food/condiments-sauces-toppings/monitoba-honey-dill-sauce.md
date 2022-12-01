@@ -13,7 +13,7 @@ THE number one sauce for chicken fingers/tenders (in Manitoba). As recommended b
 
 Mix mayonnaise and honey together until completely combined. Add dill and lemon and mix again. Let chill in the fridge for at least 15 minutes for best results.
 
-## References
+## Reference
 
 - <https://www.travelmanitoba.com/blog/honey-dill-at-home-4-ways-to-make-a-signature-manitoba-sauce/>
 - <https://archive.ph/2tvFN>

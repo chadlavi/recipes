@@ -1,7 +1,9 @@
 # Jamaican Oxtail
+
 Pressure cooker method
 
 ## Ingredients
+
 * 2.5-3.5 lbs beef oxtail
 * 1/4 cup low-sodium soy sauce
 * 3 tbsp vegetable or canola oil
@@ -12,11 +14,12 @@ Pressure cooker method
 * 1 lime, juiced
 * 1 cup diced sweet onions
 * 4 cups water
-* 1 habanero pepper
+* 1 habañero pepper
 * Fresh thyme sprigs
 * Green onions, for garnishing (optional)
 
 ## Directions
+
 1. Mix marinade ingredients: soy sauce, 2 tbsp vegetable oil, allspice, garlic,
    brown sugar, ginger, lime juice, and thyme sprigs.
 2. Place oxtail in gallon size resealable bag or large bowl. Pour marinade over
@@ -37,4 +40,5 @@ Pressure cooker method
     reduces about 50%
 
 ## Reference
+
 * <http://serenityfood.com/jamaican-oxtail>

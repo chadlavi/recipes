@@ -1,5 +1,7 @@
 # Baked Macaroni and Cheese (from _Jubilee_)
 
+A family holiday classic.
+
 ## Ingredients
 
 - Softened butter, for the baking dish

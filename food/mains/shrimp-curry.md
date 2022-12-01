@@ -1,6 +1,6 @@
 # Shrimp curry
 
-Shrimp could be substituted with chicken or tofu as well. 
+Shrimp could be substituted with chicken or tofu as well.
 
 ## Ingredients
 
@@ -32,7 +32,6 @@ Shrimp could be substituted with chicken or tofu as well.
 6. Flip the shrimp and cook until just cooked through, about 6 minutes. Add the fish sauce and lime juice and season with salt. Stir in the cilantro and basil leaves.
 Place the rice in individual bowls, spoon the shrimp curry on top and serve with the lime wedges.
 
-## References
+## Reference
 
 - <https://www.foodnetwork.com/fnk/recipes/shrimp-curry-with-coconut-milk-7974870>
- 

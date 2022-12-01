@@ -1,5 +1,6 @@
 # Dirty Shirley
-It's a shirley temple, with vokda
+
+It's a shirley temple, with vodka
 
 ## Ingredients
 
@@ -13,5 +14,6 @@ It's a shirley temple, with vokda
 
 Fill a highball glass with ice. Add the vodka and grenadine to the glass. Top with soda and garnish with a maraschino cherry.
 
-## References
+## Reference
+
 - <https://cooking.nytimes.com/recipes/1023159-dirty-shirley>

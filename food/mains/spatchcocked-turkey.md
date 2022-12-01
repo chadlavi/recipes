@@ -1,5 +1,7 @@
 # Kenji's spatchcocked turkey
 
+For the big holiday.
+
 ## Ingredients
 
 ### Dry brine

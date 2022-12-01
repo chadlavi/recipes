@@ -1,8 +1,9 @@
 # Sandi Gant's Sweet Potato Casserole
 
-From a collection of recipes my mother in law gave my wife when she went to college
+From a collection of recipes my mother in law gave my wife when she went to college. A family holiday classic.
 
 ## Ingredients
+
 * 2 eggs, well beaten
 * 3 cups peeled, cooked, mashed sweet potatoes
 * 1/2 cup milk
@@ -14,6 +15,7 @@ From a collection of recipes my mother in law gave my wife when she went to coll
 * 1 cup chopped pecans
 
 ## Directions
+
 1. Preheat oven to 400ºF
 2. Combine sweet potatoes, milk, 1/2 cup butter, sugar, eggs, and vanilla in a large bowl
 3. Pour into a medium greased casserole dish and bake for 20 minutes

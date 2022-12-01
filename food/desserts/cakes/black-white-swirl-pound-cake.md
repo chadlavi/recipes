@@ -1,4 +1,4 @@
-# Sohla's black & white swirl pound cake
+# Sohla El-Wally's black & white swirl pound cake
 
 ## Ingredients
 

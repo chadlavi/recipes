@@ -18,7 +18,7 @@ Based on the [Ice Cream Base](ice-cream-base) recipe
 1. In a heavy saucepan, bring cream and half and half to a bare simmer. Stir in vanilla seeds and Thai tea. Cover, and let steep until richly colored and intensely tea flavored, being careful not to steep too long to avoid bitterness. Strain dairy mixture to remove tea.
 2. Whisk together egg yolks and sugar in a bowl until well-combined and light in color. Slowly pour dairy mixture into yolk mixture, whisking well to combine. Return to saucepan and cook custard on low heat, whisking frequently, until it reaches a temperature of between 170ºF and 180ºF.
 3. Strain into an airtight container. Add salt to taste. Chill overnight, then churn the next day according to manufacturer's instructions.
-4. Optionally fold condensed milk into the churned ice cream, being careful not to mix it into the ice cream. Alternatively, top the ice cream with condened milk before serving.
+4. Optionally fold condensed milk into the churned ice cream, being careful not to mix it into the ice cream. Alternatively, top the ice cream with condensed milk before serving.
 
 ## Reference
 

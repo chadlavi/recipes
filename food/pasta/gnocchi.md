@@ -3,11 +3,13 @@
 I learned this recipe at a small private cooking school in the Amalfi Coast in Italy.
 
 ## Ingredients
+
 * 1kg potatoes (a mix of white and red)
 * 300g of tipo-00 flour
 * 100g of semolina flour
 
 ## Directions
+
 1. Wash potatoes carefully, and boil in salted water until they are fork-soft
 2. When the potatoes are ready, crush in a potato ricer and allow them to cool
 3. Mix the tipo-00 and semolina flour with the cooled riced potatoes until homogeneous

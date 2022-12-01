@@ -1,15 +1,16 @@
 # Jamaican rice and peas
 
 ## Ingredients
+
 * 2 cups uncooked jasmine rice
 * 1 tablespoon olive oil
 * 3 cloves garlic, minced
-* 3 eaches green onions, chopped
+* 3 green onions, chopped
 * 3 sprigs fresh thyme leaves
 * 1 (28 ounce) can kidney beans, drained, OR
-    * 1 heaping cup dried kidney beans
-    * 2 bay leaves
-    * 2-3 garlic cloves
+  * 1 heaping cup dried kidney beans
+  * 2 bay leaves
+  * 2-3 garlic cloves
 * 2 cups chicken stock
 * 1 (14 ounce) can coconut milk
 * 1 Scotch bonnet pepper, stemmed
@@ -23,6 +24,7 @@
 ## Directions
 
 ### With dried beans
+
 1. Rinse the dried beans and soak in enough salted water to cover by 2-3 inches
    for 8-24 hours.
 2. Discard soaking liquid and rinse beans.
@@ -32,6 +34,7 @@
 4. Proceed with "with canned beans" directions below.
 
 ### With canned beans
+
 1. Rinse rice in a fine strainer.
 2. Heat oil in a large 5-quart saucepan over medium heat. Add garlic, green
    onions, and thyme; cook until wilted, about 2 minutes. Add the rice, kidney
@@ -41,4 +44,5 @@
    is tender and liquid has evaporated, about 20 minutes.
 
 ## Reference
+
 * <https://www.allrecipes.com/recipe/269194/jamaican-rice-and-peas/>

@@ -1,5 +1,7 @@
 # All butter pie crust (from _Sister Pie_)
 
+Perfect base for holiday pies.
+
 ## Ingredients
 
 * 2.5 cups all-purpose flour
