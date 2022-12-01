@@ -6,7 +6,7 @@ It’s recipes. You know, to cook with.
 
 ## Categories
 
-[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing)
+[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing) &middot; [Holiday](#Holiday)
 
 ## Contents
 
@@ -26,7 +26,7 @@ It’s recipes. You know, to cook with.
 * [Rosemary Schmaltz Popovers](./food/bread/rosemary-schmaltz-popovers.md)
 * [Rosemary onion focaccia](./food/bread/focaccia-rosemary-onion.md)
 * [Samin Nosrat's Ligurian Focaccia](./food/bread/samin-nosrat-focaccia.md)
-* [Sohla's cheesy corn mochi cake](./food/bread/cheesy-corn-mochi-cake.md)
+* [Sohla El-Wally's cheesy corn mochi cake](./food/bread/cheesy-corn-mochi-cake.md)
 * [Tartine Bakery Sourdough Country Bread](./food/bread/tartine-sourdough.md)
 * [The Simplest Brioche](./food/bread/simple-brioche.md)
 
@@ -86,8 +86,8 @@ It’s recipes. You know, to cook with.
 * [Sandi Gant's Sweet Potato Pie](./food/desserts/pies/sandi-gant-sweet-potato-pie.md)
 * [Silky Sweet Potato Pie](./food/desserts/pies/serious-eats-sweet-potato-pie.md)
 * [Slab pie](./food/desserts/pies/slab-pie.md)
-* [Sohla's black & white swirl pound cake](./food/desserts/cakes/black-white-swirl-pound-cake.md)
-* [Sohla's go-to vanilla pound cake](./food/desserts/cakes/vanilla-pound-cake.md)
+* [Sohla El-Wally's black & white swirl pound cake](./food/desserts/cakes/black-white-swirl-pound-cake.md)
+* [Sohla El-Wally's go-to vanilla pound cake](./food/desserts/cakes/vanilla-pound-cake.md)
 * [Tarte Tatin](./food/desserts/pies/tarte-tatin.md)
 * [Thai Tea Ice Cream](./food/desserts/ice-cream/thai-tea-ice-cream.md)
 * [Tiramisu](./food/desserts/tiramisu.md)
@@ -101,7 +101,7 @@ It’s recipes. You know, to cook with.
 * [Beef Plov](./food/mains/beef-plov.md)
 * [Black eyed peas](./food/mains/black-eyed-peas.md)
 * [Black pepper tofu asparagus](./food/mains/black-pepper-tofu-asparagus.md)
-* [Bo Ssam](./food/mains/bo-ssam.md)
+* [Bo Ssäm](./food/mains/bo-ssam.md)
 * [Broccoli Parmesan Fritters](./food/mains/broccoli-parmesan-fritters.md)
 * [Chana Masala (in the pressure cooker)](./food/mains/chana-masala-pressure-cooker.md)
 * [Chicken Pho](./food/mains/chicken-pho.md)
@@ -233,7 +233,7 @@ It’s recipes. You know, to cook with.
 
 ### Cured and pickled
 
-* [Citrus and Dill gravlox](./food/cured-pickled/citrus-dill-gravlax.md)
+* [Citrus and Dill gravlax](./food/cured-pickled/citrus-dill-gravlax.md)
 * [Pickled Celery](./food/cured-pickled/pickled-celery.md)
 * [Pickled Daikon](./food/cured-pickled/pickled-daikon.md)
 * [Pickled jalapeños](./food/cured-pickled/pickled-jalapenos.md)
@@ -248,15 +248,15 @@ It’s recipes. You know, to cook with.
 * [Cornbread dressing (from _Jubilee_)](./food/sides-dips/jubilee-cornbread-dressing.md)
 * [Couscous with Butternut Squash, Pepitas and Cranberries](./food/sides-dips/couscous-butternut-squash-pepitas-cranberries.md)
 * [Gigantes Plakis](./food/sides-dips/gigantes-plaki-lima-beans.md)
-* [Holdiay Mashed Carrots](./food/sides-dips/holiday-mashed-carrots.md)
+* [Holiday Mashed Carrots](./food/sides-dips/holiday-mashed-carrots.md)
 * [Holiday Mashed Potatoes](./food/sides-dips/holiday-mashed-potatoes.md)
+* [Holiday Stuffing](./food/sides-dips/stuffing.md)
 * [Jamaican rice and peas](./food/sides-dips/jamaican-rice-peas.md)
 * [Mujadara(ish)](./food/sides-dips/mujadara-ish.md)
 * [Mujadara](./food/sides-dips/mujadara.md)
 * [Pimento Cheese Elote](./food/sides-dips/pimento-cheese-elote.md)
 * [Potato Rösti](./food/sides-dips/potato-rosti.md)
 * [Sandi Gant's Sweet Potato Casserole](./food/sides-dips/sandi-gant-sweet-potato-casserole.md)
-* [Stuffing](./food/sides-dips/stuffing.md)
 * [Tony's Braised Beets](./food/sides-dips/tonybs-braised-beets.md)
 * [감자샐러드 / Gamja Salad (Korean potato salad)](./food/sides-dips/gamja-salad-korean-potato-salad.md)
 
@@ -347,6 +347,10 @@ It’s recipes. You know, to cook with.
 * [Derek Hawkins' Thanksgiving Biere de Garde](./drink/beers/biere-de-garde-derek-hawkins.md)
 * [Oskar Blues Old Chub Scotch Ale clone](./drink/beers/oskar-blues-old-chub-scotch-ale-clone.md)
 * [Spiced Russian Imperial Stout](./drink/beers/spiced-imperial-stout.md)
+
+### Holiday
+
+
 
 🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥑🍆🥔🥕🌽🌶🥒🍄🥜🌰🍞🥐🥖🥞🧀🍖🍗🥓🍔🍟🍕🌭🌮🌯🍳🍲🥗🍿🍱🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍥🍡🍦🍧🍨🍩🍪🎂🍰🍫🍬🍭🍮🍯🍼🥛☕🍵🍶🍾🍷🍸🍹🍺🍻🥂🥃🍽🍴🥄
 
