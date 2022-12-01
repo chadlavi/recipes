@@ -1,8 +1,11 @@
 # Pizza, Updated
+
 Yield: One small, thin-crust pizza. Can serve two with a big salad.
 
 ## Ingredients
+
 Dough:
+
 * 6 tablespoons warm water (may need up to 1 or 2 tablespoons more water)
 * 2 tablespoons white wine
 * 3/4 teaspoon active dry yeast
@@ -12,12 +15,14 @@ Dough:
 * 1 1/2 cups flour
 
 Assembly:
+
 * Cornmeal for sprinkling
 * Flour for dusting counter
 * 1/2 pound torn-up buffalo mozzarella
 * Few leaves of torn-up basil
 
 ## Directions
+
 1. Whisk wine, water and yeast in a medium bowl until yeast has dissolved. Add honey, salt and olive oil and stir. Add flour and no matter how dry it looks, work it with a spoon and your fingers until it comes together as a dough. Add more water one tablespoon at a time if you need, but in my experience, this is almost never necessary.
 2. Sprinkle some flour on the counter and knead the dough for a minute or two.
 3. If you’re like me and always trying to reduce the number of dirty dishes left at the end of the night, wash the bowl you made the dough in, dry it and coat the inside with olive oil. Put the dough in, cover it with plastic wrap, and let it rise for an hour or up to two, until it is doubled.
@@ -47,4 +52,5 @@ Assembly:
 9. Bake for about 10 minutes, checking at 7. Slice and serve immediately.
 
 ## Reference
+
 * <https://smittenkitchen.com/2007/09/pizza-even-sweeter/>
