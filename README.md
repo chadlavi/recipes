@@ -27,6 +27,7 @@ It's recipes. You know, to cook with.
 * [Rosemary onion focaccia](./food/bread/focaccia-rosemary-onion.md)
 * [Samin Nosrat's Ligurian Focaccia](./food/bread/samin-nosrat-focaccia.md)
 * [Sohla El-Wally's cheesy corn mochi cake](./food/bread/cheesy-corn-mochi-cake.md)
+* [Sweet potato rolls](./food/bread/sweet-potato-rolls.md)
 * [Tartine Bakery Sourdough Country Bread](./food/bread/tartine-sourdough.md)
 * [The Simplest Brioche](./food/bread/simple-brioche.md)
 
@@ -369,6 +370,7 @@ It's recipes. You know, to cook with.
 * [Rum balls](./food/desserts/rum-balls.md)
 * [Sandi Gant's Sweet Potato Casserole](./food/sides-dips/sandi-gant-sweet-potato-casserole.md)
 * [Sandi Gant's Sweet Potato Pie](./food/desserts/pies/sandi-gant-sweet-potato-pie.md)
+* [Sweet potato rolls](./food/bread/sweet-potato-rolls.md)
 * [Texan Queso](./food/snacks/texan-queso.md)
 * [Tourtière, Bedard family](./food/mains/bedard-tourtiere.md)
 
