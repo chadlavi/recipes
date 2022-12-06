@@ -1,14 +1,17 @@
-# Chocolate delight
-à la Sandi Gant. Can be halved for a 9x12 baking dish.
+# Sandi's Chocolate Delight
+
+A Sandi Gant holiday classic. Can be halved for a 9x12 baking dish.
 
 ## Ingredients
 
 ### For the crust
+
 * 2 cups all-purpose flour
 * 2 cups finely chopped Pecans
 * 2 sticks (16 Tbsp) melted butter
   
 ### For the filling
+
 * 2 cups powdered sugar
 * 2 packages (16oz) cream cheese
 * 2 tubs cool whip
@@ -18,6 +21,7 @@
 * (optional) grated chocolate or cocoa powder
 
 ## Directions
+
 1. Preheat the oven to 350ºF
 2. Prepare the crust: Mix together flour, chopped pecans, and melted butter in a
    large bowl.
