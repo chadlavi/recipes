@@ -246,6 +246,8 @@ It's recipes. You know, to cook with.
 
 * [Baba Ganoush](./food/sides-dips/baba-ganoush.md)
 * [Beer and Bacon Butter Beans](./food/sides-dips/beer-and-bacon-butter-beans.md)
+* [Cauliflower casserole](./food/sides-dips/cauliflower-casserole.md)
+* [Collard greens](./food/sides-dips/collard-greens.md)
 * [Corn casserole](./food/sides-dips/corn-casserole.md)
 * [Cornbread dressing (from _Jubilee_)](./food/sides-dips/jubilee-cornbread-dressing.md)
 * [Couscous with Butternut Squash, Pepitas and Cranberries](./food/sides-dips/couscous-butternut-squash-pepitas-cranberries.md)
@@ -259,6 +261,7 @@ It's recipes. You know, to cook with.
 * [Pimento Cheese Elote](./food/sides-dips/pimento-cheese-elote.md)
 * [Potato Rösti](./food/sides-dips/potato-rosti.md)
 * [Potato wedges](./food/sides-dips/potato-wedges.md)
+* [Roasted beets](./food/sides-dips/roasted-beets.md)
 * [Sandi Gant's Sweet Potato Casserole](./food/sides-dips/sandi-gant-sweet-potato-casserole.md)
 * [Tony's Braised Beets](./food/sides-dips/tonybs-braised-beets.md)
 * [감자샐러드 / Gamja Salad (Korean potato salad)](./food/sides-dips/gamja-salad-korean-potato-salad.md)
