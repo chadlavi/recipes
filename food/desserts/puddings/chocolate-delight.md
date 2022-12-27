@@ -17,7 +17,7 @@ A Sandi Gant holiday classic. Can be halved for a 9x12 baking dish.
 * 2 tubs cool whip
 * 2 sachets vanilla instant pudding mix
 * 2 sachets chocolate instant pudding mix
-* 6 cups milk (or total amount of milk indicated on pudding sachets)
+* 8 cups milk (or total amount of milk indicated on pudding sachets)
 * (optional) grated chocolate or cocoa powder
 
 ## Directions
