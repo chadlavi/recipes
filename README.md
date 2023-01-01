@@ -104,6 +104,7 @@ It's recipes. You know, to cook with.
 * [Black eyed peas](./food/mains/black-eyed-peas.md)
 * [Black pepper tofu asparagus](./food/mains/black-pepper-tofu-asparagus.md)
 * [Bo Ssäm](./food/mains/bo-ssam.md)
+* [Braised short ribs](./food/mains/braised-short-ribs.md)
 * [Broccoli Parmesan Fritters](./food/mains/broccoli-parmesan-fritters.md)
 * [Chana Masala (in the pressure cooker)](./food/mains/chana-masala-pressure-cooker.md)
 * [Chicken Pho](./food/mains/chicken-pho.md)
