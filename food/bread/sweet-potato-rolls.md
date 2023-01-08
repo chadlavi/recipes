@@ -16,7 +16,7 @@ Makes 15 rolls. Perfect holiday rolls.
 ## Directions
 
 1. In a small saucepan, combine the sweet potato with enough water to cover. Add 1 teaspoon salt. Bring to a boil over high heat, then turn down the heat to medium and gently boil until the sweet potato is very tender when pierced with a knife, 10 to 13 minutes.
-2. Drain and transfer the sweet potato to a large bowl. Mash with a potato masher or fork. Add the buttermilk and ¼ cup of the butter.
+2. Drain and transfer the sweet potato to a large bowl. Mash with a potato masher or fork. Add the buttermilk and 1/4 cup of the butter.
 3. With a stand mixer, beat the sweet potato mixture with a paddle attachment at medium-low speed until fairly smooth, about 5 minutes. Add the flour, yeast, sugar, eggs and 1.5 teaspoons salt and mix on medium-low speed, scraping the bottom and sides of the bowl as needed with a spatula, until the dough is smooth and sticky and pulls away from the sides of the bowl. Add a little more flour if the dough is very sticky. This can take as long as 15 minutes.
 4. Grease the inside of a large bowl with butter. Transfer the dough to the bowl. Cover and let the dough rise in a warm, draft-free spot for about 1.5 hours, or until it has more than doubled in size.
 5. Grease a 9-by-13-inch baking pan with more butter. Place the dough on a clean, ungreased surface and divide it into 15 equal pieces, each weighing about 65 grams. Working with one piece of dough at a time, cup each piece beneath your palm and work in quick, circular motions to form a tight ball, with only a tiny seam along the bottom. Arrange the dough balls in three evenly spaced rows of five within the greased pan.
