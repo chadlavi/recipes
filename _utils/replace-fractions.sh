@@ -61,3 +61,9 @@ sed -i '' 's|⅝|5/8|g' $FILES
 # 7/8
 sed -i '' 's|\([[:digit:]]\)⅞|\1 7/8|g' $FILES
 sed -i '' 's|⅞|7/8|g' $FILES
+
+# ”
+sed -i '' 's|”|"|g' $FILES
+
+# “
+sed -i '' 's|“|"|g' $FILES
