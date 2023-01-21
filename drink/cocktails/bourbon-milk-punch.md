@@ -1,6 +1,7 @@
 # Bourbon Milk Punch
 
 Shake with ice (vigorously, for 30 seconds):
+
 * 1.5 oz bourbon
 * 2 tsps simple syrup
 * 2 dashes vanilla extract

@@ -1,10 +1,11 @@
 # Instant Pot Lamb Ragu
 
 ## Ingredients
+
 * 1.125 lb lamb, cut into about 2" (5cm) square pieces
-* 1 Small red onion peeled and finely chopped 
-* 1 Carrot peeled and finely chopped 
-* 1 Celery stalk finely chopped 
+* 1 Small red onion peeled and finely chopped
+* 1 Carrot peeled and finely chopped
+* 1 Celery stalk finely chopped
 * 4 cloves Garlic peeled and finely chopped
 * 2 tbs Fresh thyme leaves, finely chopped or 2 tsp dried
 * 2 tbs Fresh rosemary, finely chopped or 2 tsp dried
@@ -15,6 +16,7 @@
 * 1/2 cup finely graded Parmesan or Grana Padano cheese
 
 ## Directions
+
 1. Begin by heating the olive oil in the bowl of the instant pot. Once heated (oil should be shimmering), add the meat and brown on all sides. You may have to do this in two batches.
 2. Once the meat is browned, remove it to a plate; add onions, carrots, celery and herbs to instant pot bowl. Stir and continue cooking until the veggies are softened (takes about 7-10 minutes). Add garlic and stir for a minute or two until the garlic is just fragrant—don't overcook it.
 3. Deglaze the bottom of the instant pot bowl with the wine. Scrape up any and all stuck bits.
@@ -32,5 +34,6 @@
 15. Finally, garnish with a little finely chopped fresh rosemary and Parmesan.
 
 ## Reference
+
 * <https://lostinapot.com/slow-cooked-italian-lamb-ragout/>
 * <https://lostinapot.com/lamb-ragu-comparison/>

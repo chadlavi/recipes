@@ -1,6 +1,7 @@
 # Gin Fizz
 
 Shake with ice:
+
 * 1.5 oz dry gin
 * 1/2 oz fresh lemon juice
 * 1/4 oz simple syrup

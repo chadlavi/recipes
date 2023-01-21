@@ -7,7 +7,7 @@ The key to a good pad see ew is cooking ingredients quickly over high heat, so i
 - 8 oz thinly sliced beef or chicken
 - 1 tsp and 1 tsp dark soy sauce
 - 1 tsp sugar
-- 1 tsp fish sauce 
+- 1 tsp fish sauce
 - 3 tbsp and 1 tsp vegetable oil
 - 3 cloves garlic
 - 2 c Chinese broccoli

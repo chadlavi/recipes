@@ -1,6 +1,7 @@
 # Shrimp noodle salad
 
 ## Ingredients
+
 * 1/3 cup fresh lime juice
 * 2 tsp. honey
 * 1 serrano chile, very thinly sliced
@@ -16,6 +17,7 @@
 * 1 cup basil leaves
 
 ## Directions
+
 1. Stir lime juice and honey in a small bowl until honey dissolves. Mix in chile, ginger, garlic, fish sauce, and 3 Tbsp. oil; season dressing with salt.
 2. Toss shrimp and 2 Tbsp. dressing in a medium bowl to coat; let sit 10 minutes.
 3. Meanwhile, cook noodles according to package directions. Drain and add to bowl with remaining dressing along with cucumber and 1/4 cup peanuts; toss well.
@@ -23,4 +25,5 @@
 5. Divide noodle salad among bowls and top with remaining peanuts.
 
 ## Reference
+
 * <https://www.bonappetit.com/recipe/bright-and-spicy-shrimp-noodle-salad>

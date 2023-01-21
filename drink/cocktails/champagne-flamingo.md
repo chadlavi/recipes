@@ -1,6 +1,7 @@
 # Champagne Flamingo
 
 Stir with ice:
+
 * 3/4 oz Campari
 * 3/4 oz vodka
 

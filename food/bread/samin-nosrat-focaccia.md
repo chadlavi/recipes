@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-For the dough: 
+For the dough:
 
 * 2 1/2 cups (600 grams) lukewarm water
 * 1/2 teaspoon active dry yeast
@@ -23,13 +23,13 @@ In a medium bowl, stir together water, yeast, and honey to dissolve. In a very l
 
 Spread 2 to 3 tablespoons oil evenly onto a 18-by-13 inch (46-by-33 cm) rimmed baking sheet. When dough is ready, use a spatula or your hand to release it from the sides of the bowl and fold it onto itself gently, then pour out onto pan. Pour an additional 2 tablespoons of olive oil over dough and gently spread across. Gently stretch the dough to the edge of the sheet by placing your hands underneath and pulling outward.  The dough will shrink a bit, so repeat stretching once or twice over the course of 30 minutes to ensure dough remains stretched.  
 
-Dimple the dough by pressing the pads of your first three fingers in at an angle.  Make the brine by stirring together salt and water until salt is dissolved. Pour the brine over the dough to fill dimples.  Proof focaccia for 45 minutes until the dough is light and bubbly. 
+Dimple the dough by pressing the pads of your first three fingers in at an angle.  Make the brine by stirring together salt and water until salt is dissolved. Pour the brine over the dough to fill dimples.  Proof focaccia for 45 minutes until the dough is light and bubbly.
 
-Thirty minutes into this final proof, adjust rack to center position and preheat oven to 450°F (235°C). If you have a baking stone, place it on rack.  Otherwise, invert another sturdy baking sheet and place on rack.  Allow to preheat with the oven until very hot, before proceeding with baking. 
+Thirty minutes into this final proof, adjust rack to center position and preheat oven to 450°F (235°C). If you have a baking stone, place it on rack.  Otherwise, invert another sturdy baking sheet and place on rack.  Allow to preheat with the oven until very hot, before proceeding with baking.
 
 Sprinkle focaccia with flaky salt. Bake for 25 to 30 minutes directly on top of stone or inverted pan until bottom crust is crisp and golden brown when checked with a metal spatula.  To finish browning top crust, place focaccia on upper rack and bake for 5 to 7 minutes more.  
 
-Remove from oven and brush or douse with 2 to 3 tablespoons oil over the whole surface (don’t worry if the olive pools in pockets, it will absorb as it sits). Let cool for 5 minutes, then release focaccia from pan with metal spatula and transfer to a cooling rack to cool completely. 
+Remove from oven and brush or douse with 2 to 3 tablespoons oil over the whole surface (don’t worry if the olive pools in pockets, it will absorb as it sits). Let cool for 5 minutes, then release focaccia from pan with metal spatula and transfer to a cooling rack to cool completely.
 
 Serve warm or at room temperature.  
 

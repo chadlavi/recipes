@@ -17,7 +17,7 @@
 1. Melt butter and add brown sugar and cinnamon; make a paste and spread over bottom of dish a 9x12" dish
 2. Remove crusts from bread
 3. Layer two slices of bread and fill in sides and ends with smaller pieces
-4. Beat eggs and milk. Pour over top. 
+4. Beat eggs and milk. Pour over top.
 5. Cover and refrigerate overnight
 
 ### Baking

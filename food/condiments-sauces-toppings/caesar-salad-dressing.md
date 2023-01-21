@@ -1,6 +1,6 @@
 # Caesar salad dressing
 
-Makes enough for about 4 salads. 
+Makes enough for about 4 salads.
 
 ## Ingredients
 
@@ -15,8 +15,8 @@ Makes enough for about 4 salads.
 
 ## Directions
 
-1. To a blender of food processor, add the anchovy paste, garlic clove, egg yolk, lemon juice, Parmesan cheese and a few rounds of freshly ground pepper. 
-2. Turn the blender on and with it running, add the olive oil in a steady stream, until it’s emulsified and thickened. 
+1. To a blender of food processor, add the anchovy paste, garlic clove, egg yolk, lemon juice, Parmesan cheese and a few rounds of freshly ground pepper.
+2. Turn the blender on and with it running, add the olive oil in a steady stream, until it’s emulsified and thickened.
 3. Salt to taste
 
 ## Reference

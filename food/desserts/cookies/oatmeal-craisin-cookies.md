@@ -1,6 +1,7 @@
 # Oatmeal Craisin Cookies
 
 ## Ingredients
+
 * 3/4 cup sugar
 * 1/4 cup brown sugar, packed
 * 1/2 cup butter, softened
@@ -15,6 +16,7 @@
 * 3/4 cup dried cranberries ( Craisins)
 
 ## Directions
+
 1. Preheat Oven to 375°F.
 2. In a large bowl with an electric mixer combine, sugar, brown sugar and butter and mix well.
 3. Add in egg and vanilla and mix until combined.
@@ -24,4 +26,5 @@
 7. Remove from oven and let cool for 2-3 minutes on the cookie sheet.
 
 ## Reference
+
 * <http://www.food.com/recipe/oatmeal-craisin-cookies-worlds-best-27570>

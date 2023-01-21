@@ -1,6 +1,7 @@
 # Cheez-its
 
-## INGREDIENTS:
+## INGREDIENTS
+
 - 8 oz extra-sharp cheddar cheese, coarsely shredded
 - 1/2 stick unsalted butter, at room temperature
 - 1 teaspoon kosher salt

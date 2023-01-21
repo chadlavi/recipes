@@ -1,6 +1,7 @@
 # Bagels
 
 ## Ingredients
+
 * 3 1/2 cups (1 pound) unbleached flour (see note above)
 * 3 teaspoons coarse kosher salt, divided
 * 3/4 teaspoons instant yeast
@@ -11,6 +12,7 @@
 * Seeds!
 
 ## Directions
+
 1. Mix the flour, 2 teaspoons of the salt, the yeast, honey, and the water until everything begins to form into dough. You can use a mixer if you like, but it's simpler by hand. It'll be a stiff dough, as there's not much water, but this makes it sturdy enough to withstand a dunk in boiling water later. Feel free to add a bit more water if necessary, but you shouldn't need much.
 2. Let the dough rest for 5 minutes while you find a place in your tiny apartment on which to knead.
 3. Knead on a floured surface for about 3 minutes -- the dough will get smooth, a little tacky.
@@ -27,4 +29,5 @@
 14. Pull them from the oven, and wait an excruciating 30 minutes before you eat them.
 
 ## Reference
+
 * <http://food52.com/recipes/print/22934>

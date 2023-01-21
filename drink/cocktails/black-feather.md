@@ -11,4 +11,3 @@ Stir with ice:
 1 dash of Angostura Bitters
 
 Strain into a cocktail glass.
-

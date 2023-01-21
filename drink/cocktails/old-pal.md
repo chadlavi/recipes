@@ -1,6 +1,7 @@
 # Old Pal
 
 Stir with ice:
+
 * 1 oz straight rye whiskey
 * 3/4 oz dry vermouth
 * 3/4 oz Campari

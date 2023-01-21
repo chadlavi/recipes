@@ -1,6 +1,7 @@
 # Levain's Chocolate Chip Walnut Cookies
 
 ## Ingredients
+
 * 1 cup butter, chilled and cubed
 * 1 cup light brown sugar
 * 1/2 cup sugar
@@ -14,6 +15,7 @@
 * 1 cup walnuts, chopped
 
 ## Directions
+
 1. Preheat oven to 350ºF.
 2. Cream the butter and sugars.
 3. Add eggs on at a time.
@@ -24,5 +26,5 @@
 8. Bake 20-25min.
 
 ## Notes
-* from Maureen Sullivan
 
+* from Maureen Sullivan

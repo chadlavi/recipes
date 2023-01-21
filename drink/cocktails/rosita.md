@@ -1,6 +1,7 @@
 # Rosita
 
 Stir with ice:
+
 * 1.5 oz silver tequila
 * 1/2 oz red vermouth
 * 1/2 oz dry vermouth

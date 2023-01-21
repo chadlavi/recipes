@@ -1,6 +1,7 @@
 # Chana Masala (in the pressure cooker)
 
 ## Ingredients
+
 * 1 cup Chickpeas (Chole/Garbanzo beans) washed (250 ml)
 * 3 cups Water for soaking
 * 2 cups Water for cooking
@@ -24,27 +25,29 @@
 * 1 stick Cinnamon (Dalchini)
 
 ### Ingredient substitutions
-*  If you don't have dry mango powder or amchur, replace with 1 tablespoon lemon
+
+* If you don't have dry mango powder or amchur, replace with 1 tablespoon lemon
    juice.
-*  If you don't have chole masala, you can also replace it with a blend of:
-   * 2 black cardamom
-   * 5 cloves
-   * 1/2 inch Cinnamon stick
-   * 1 tsp Coriander powder
-   * 1/4 tsp Turmeric powder
-   * 1/2 tsp Cayenne or Red Chili powder
+* If you don't have chole masala, you can also replace it with a blend of:
+  * 2 black cardamom
+  * 5 cloves
+  * 1/2 inch Cinnamon stick
+  * 1 tsp Coriander powder
+  * 1/4 tsp Turmeric powder
+  * 1/2 tsp Cayenne or Red Chili powder
 * To use canned chickpeas: Drain and rinse the chickpeas. Pressure cook for 10
   minutes in the instant pot or 2 whistles on the stovetop pressure cooker. Add
   only 1 cup water for cooking.
-* To use canned tomatoes: Use one cup canned tomatoes to replace fresh tomatoes. 
+* To use canned tomatoes: Use one cup canned tomatoes to replace fresh tomatoes.
 
 ## Directions
+
 1. Wash and soak chickpeas in 3 cups of water overnight or at least for 4+
-   hours. 
+   hours.
 2. Start instant pot in sauté mode. Add oil, whole spices (cumin seeds, bay
-   leaves, black peppercorn, cinnamon), ginger, garlic and green chili. 
+   leaves, black peppercorn, cinnamon), ginger, garlic and green chili.
 3. When the ginger and garlic turn golden brown, add onions and sauté for 3
-   minutes 
+   minutes
 4. Add tomato and all spices except dry mango powder. Drain the chickpeas
    soaking water. Add chickpeas and water for cooking. Stir well.
 5. Change the instant pot setting to bean/chili mode for 35 minutes with vent in
@@ -57,7 +60,8 @@
    mash the chole a bit. Add the dried fenugreek leaves and dry mango powder.
    Change the instant pot setting to sauté mode and let it boil for 2 minutes.
 8. Garnish with cilantro. Chole Masala is ready to be served with naan or
-   bhatura. 
+   bhatura.
 
 ## Reference
- * <https://pipingpotcurry.com/punjabi-chole-instant-pot/#wprm-recipe-container-3918>
+
+* <https://pipingpotcurry.com/punjabi-chole-instant-pot/#wprm-recipe-container-3918>

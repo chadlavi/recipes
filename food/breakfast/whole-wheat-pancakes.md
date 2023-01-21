@@ -1,6 +1,7 @@
 # Whole Wheat Pancakes
 
 ## Ingredients
+
 * 2 eggs
 * 2 cup flour (1.5 white, 1/2 whole wheat)
 * 2 cup milk
@@ -10,6 +11,7 @@
 * 1 tsp salt
 
 ## Directions
+
 1. First thing you need to do is get your griddle heating. Turn flame on a medium setting.
 2. Add egg to a mixing bowl. Beat egg lightly.
 3. Add all the other ingredients and blend with a wire whisk.
@@ -20,4 +22,5 @@
 8. When the edges are looking a bit dry and you have bubbles over the top check the underneath. If it is nicely golden, turn to the other side. Cook until lightly browned.
 
 ## Reference
+
 * <http://www.simplycanning.com/whole-wheat-pancake-recipe.html#ixzz1hNcT2HSs>

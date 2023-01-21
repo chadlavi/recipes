@@ -1,6 +1,7 @@
 # Castella Cake
 
 ## Ingredients
+
 * 6 large eggs, at room temperature (very important!)
 * 1 cup (218 g) sugar
 * 1 cup + 2 1/2 Tbsp (200 g) bread flour
@@ -10,7 +11,8 @@
 * 1/2 Tbsp. warm water
 
 ## Directions
-1. Cut parchment paper to fit 2 1-lb loaf pans (8.50 x 4.50 x 2.75 inch / 22 x 11 x 7 cm) 
+
+1. Cut parchment paper to fit 2 1-lb loaf pans (8.50 x 4.50 x 2.75 inch / 22 x 11 x 7 cm)
 2. Preheat oven to 320ºF (160ºC).
 3. Sift the bread flour with the sifter or a fine-meshed strainer twice. Holding the handle with one hand and tapping the strainer gently with the other, the flour will gradually sift through the strainer.
 4. Add 2 1/2 Tbsp. warm water to honey and whisk well.

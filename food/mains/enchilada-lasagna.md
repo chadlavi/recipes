@@ -25,7 +25,7 @@ An American cultural fusion food. It's lasagna, but it's enchiladas. It's Enchiz
 2. Heat a large skillet over medium heat, then add a small amount of olive oil. Add and break up the ground beef, then salt and pepper it. When fully cooked, use a slotted spoon to remove the meat to a large bowl.
 3. Add the can of refried beans to the meat and stir together.
 4. Add the onions, peppers, cumin, chili powder, and cayenne pepper. Cook until onions are translucent.
-5. Stir in the garlic, cooking for another minute or so. 
+5. Stir in the garlic, cooking for another minute or so.
 6. Scrape the skillet's contents into the bowl with the beef and beans. Stir to combine.
 7. Return the skillet to the stovetop and deglaze with the chicken broth, being sure to scrape up any stuck on browned spots.
 8. In a large bowl or a 4-cup glass measuring cup, combine the two cans of enchilada sauce with the chicken broth.
@@ -37,12 +37,12 @@ An American cultural fusion food. It's lasagna, but it's enchiladas. It's Enchiz
 14. Add a handful of pickled jalapeños, roughly enough for 1 jalapeño in each serving.
 15. Add a layer of cheese.
 16. Add a double layer of tortillas, being sure that each tortilla is fully coated in sauce
-17. 
+17.
 18. Proceed like this until the meat filling runs out:
-    1.  double layer of tortillas, fully sauced
-    2.  layer of filling
-    3.  a few jalapeños
-    4.  cheese
+    1. double layer of tortillas, fully sauced
+    2. layer of filling
+    3. a few jalapeños
+    4. cheese
 19. Add a final layer of sauced tortillas, and use your hands to press down on the whole casserole evenly to evenly distribute sauce.
 20. Cover the casserole evenly with all remaining cheese, then pour over remaining sauce (or if a lot of sauce is left, just enough to cover).
 21. Bake at 350ºF for 45-60 minutes, or until the tortillas on the bottom and sides are visibly browned and the cheese is fully melted and browned on top.

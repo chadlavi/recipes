@@ -21,4 +21,5 @@ In a separate bowl, stir together the ricotta cheese, eggs, sourdough starter, m
 4. When the griddle is hot, spread 1/4 cup of batter onto the griddle for each pancake. Cook until bubbles start to form on the surface of the pancake then flip and cook the other side until brown.
 
 ## Reference
+
 * <https://savorthebest.com/sourdough-ricotta-pancakes/>

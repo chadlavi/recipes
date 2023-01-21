@@ -1,6 +1,7 @@
 # Delmonico Cocktail
 
 Stir with ice:
+
 * 1 oz dry gin
 * 1/2 oz cognac
 * 1/2 oz red vermouth

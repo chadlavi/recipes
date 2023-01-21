@@ -9,7 +9,7 @@ Based on the [Ice Cream Base](ice-cream-base) recipe
 - 1 vanilla bean (Mexican or Bourbon), split and scraped
 - 8 egg yolks
 - 3/4 cup sugar
-- 1 teaspoon kosher salt, or to taste 
+- 1 teaspoon kosher salt, or to taste
 - 12-16oz shelled pistachios (recommended: honey roasted)
 
 ## Directions

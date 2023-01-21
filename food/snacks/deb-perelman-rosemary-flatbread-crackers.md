@@ -1,6 +1,7 @@
 # Crisp Rosemary Flatbread
 
 ## Ingredients
+
 * 1 3/4 cups unbleached all-purpose flour
 * 1 tablespoon chopped rosemary plus 2 (6-inch) sprigs
 * 1 teaspoon baking powder
@@ -10,6 +11,7 @@
 * Flaky sea salt such as Maldon
 
 ## Directions
+
 1. Preheat oven to 450°F with a heavy baking sheet on rack in middle.
 2. Stir together flour, chopped rosemary, baking powder, and salt in a medium bowl. Make a well in center, then add water and oil and gradually stir into flour with a wooden spoon until a dough forms. Knead dough gently on a work surface 4 or 5 times.
 3. Divide dough into 3 pieces and roll out 1 piece (keep remaining pieces covered with plastic wrap) on a sheet of parchment paper into a 10-inch round (shape can be rustic; dough should be thin).
@@ -18,4 +20,5 @@
 *Do ahead: Flatbread can be made 2 days ahead and cooled completely, then kept in an airtight container at room temperature.*
 
 ## Reference
+
 * <http://smittenkitchen.com/blog/2008/08/crisp-rosemary-flatbread/>

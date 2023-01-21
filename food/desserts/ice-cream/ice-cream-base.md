@@ -9,7 +9,7 @@ A thick, rich custard ice cream. Vanilla can be omitted if it will clash with de
 - 1 vanilla bean (Mexican or Bourbon), split and scraped
 - 8 egg yolks
 - 3/4 cup sugar
-- 1 teaspoon kosher salt, or to taste 
+- 1 teaspoon kosher salt, or to taste
 - flavoring of choice (optional)
 - mixins of choice (optional)
 
