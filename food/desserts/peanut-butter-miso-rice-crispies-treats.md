@@ -23,4 +23,4 @@ Makes 20 squares
 
 ## Reference
 
-- <https://www.instagram.com/p/Cmrk-EZP3Hk/?igshid=MDJmNzVkMjY%3D> (recipe doubled from original)
+- <https://www.instagram.com/p/Cmrk-EZP3Hk> (recipe doubled from original)
