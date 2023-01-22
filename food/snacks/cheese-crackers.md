@@ -23,7 +23,8 @@
 6. Heat the oven to 375. Line two large baking sheets with parchment paper or nonstick baking mats. Unwrap the dough, discarding plastic wrap, and slice the logs into thin coins, each about the width of a pencil.
 7. Arrange the coins in neat rows on the prepared sheets, making sure they’re not quite touching one another. This dough won’t expand or flatten after baking.
 8. Bake until golden at their centers and just starting to toast at their edges, about 20 minutes. Check them midway through baking, and rotate sheets if your oven bakes unevenly.
-9.  Transfer the baking sheets to wire racks to cool. Once they are fully cooked, transfer coins to an airtight container, where they will keep for up to 3 weeks. (Supposedly. I suspect no one would ever let them last that long, though.)
+9. Transfer the baking sheets to wire racks to cool. Once they are fully cooked, transfer coins to an airtight container, where they will keep for up to 3 weeks. (Supposedly. I suspect no one would ever let them last that long, though.)
 
 ## Reference
+
 * <https://cooking.nytimes.com/recipes/1020040-cheese-crackers>

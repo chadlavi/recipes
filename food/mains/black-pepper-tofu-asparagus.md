@@ -1,6 +1,7 @@
 # Black pepper tofu asparagus
 
 ## Ingredients
+
 * 1 14oz package firm or extra-firm tofu, drained
 * 1 Tbsp. black peppercorns
 * 2 garlic cloves
@@ -15,6 +16,7 @@
 * Cooked white or brown rice (for serving)
 
 ## Directions
+
 1. Wrap tofu in a clean kitchen towel and place in a shallow baking dish or on a
    rimmed baking sheet. Weigh down with a heavy object (a cast-iron skillet
    topped with a couple of heavy cans works well). Let sit at least 15 minutes
@@ -40,4 +42,5 @@
 7. To serve, divide rice among plates and top with tofu mixture.
 
 ## Reference
+
 * <https://www.bonappetit.com/recipe/black-pepper-tofu-and-asparagus>

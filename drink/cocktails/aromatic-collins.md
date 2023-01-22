@@ -1,6 +1,7 @@
 # Aromatic Collins
 
 Shake with ice:
+
 * 1 oz fresh lemon juice
 * 1 oz simple syrup
 

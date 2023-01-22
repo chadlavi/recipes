@@ -1,7 +1,9 @@
 # Vegan Tacos Al Pastor
 
 ## Ingredients
+
 For the filling:
+
 * 3 (5-6″) dried guajillo chiles (stems and seeds removed)
 * 1 cup pineapple juice
 * juice of 2 limes
@@ -15,6 +17,7 @@ For the filling:
 * 2/3 cup fresh pineapple, diced
 
 Garnish:
+
 * the rest of that white onion, minced
 * minced cilantro
 * lime
@@ -22,6 +25,7 @@ Garnish:
 * tortillas
 
 ## Directions
+
 1. In a dry medium saucepan toast the guajillos on both sides for 3-5 minutes. Once they’re toasted cover them with water, bring to a boil, and then bring down to a simmer for about 15 minutes, until the peppers are soft.
 2. If you haven’t already, make sure to squeeze out any excess water out of your tvp, so it can absorb the marinade.
 3. Add softened peppers to the blender and mix in the pineapple juice, lime juice, cloves of garlic, 1/2 white onion, salt, Mexican oregano, cinnamon, and achiote paste. Blend until smooth.

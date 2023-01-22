@@ -1,7 +1,9 @@
 # Mushroom and Gruyère stuffed baguette
 
 ## Ingredients
+
 Stuffing:
+
 * 1/2 cup balsamic vinegar
 * 1/2 cup soy sauce
 * 2 cups sliced cremini mushroom caps
@@ -9,12 +11,14 @@ Stuffing:
 * Fresh thyme leaves
 
 Bread:
+
 * 3 1/2 cups white bread flour, plus extra as needed
 * 1 1/2 teaspoons fine sea salt
 * 1 1/2 teaspoons instant dry yeast
 * 1 1/4 cups plus 2 tablespoons warm water (82° to 84°) plus up to 1/4 cup extra if needed
 
 ## Directions
+
 1. Marinate the mushrooms: In a large, re-sealable bag, combine the balsamic vinegar, soy sauce and mushrooms. Seal the bag and shake to combine. Refrigerate 8 hours or overnight.
 2. Make the bread dough: In a large bowl, use your hand to combine the flour, salt and yeast. Make a well in the center of the dry ingredients and add the water. Use one hand to mix the dry ingredients into the water, using the other hand to rotate the bowl, stopping often to scrape down the sides of the bowl and your fingers as necessary until the dough comes together into a soft, sticky, wet mass. If the dough seems at all dry, add the remaining water 1 tablespoon at a time until the dough is quite loose and wet.
 3. Transfer the dough to your work surface. (Don't flour it first.) The dough will be very sticky; don't give in to the temptation to add more flour since that will alter the flour ratio of the dough. Hold you hands, palms facing up, at opposite sides of the dough mass that are closest to your body. Slide your fingers, still facing up, under the dough and lift the dough an inch or so from the work surface. Wrap your thumb around an index finger, creating a tight "OK" sign through the dough. While holding the "OK" sign, continue to curl your thumbs and index fingers tightly together to pinch off a portion of dough.
@@ -31,4 +35,5 @@ Bread:
 14. Continue to bake until the bread is deep golden-brown with a crisp crust and sounds hollow when tapped on the bottom, 10 to 15 minutes more. An instant-read thermometer inserted into the center of the bread from the bottom should register between 185° and 210°. Transfer the loaf to a cooling rack and cool for at least 1 hour before slicing and serving. In the meantime, bake off the remaining loaf.
 
 ## Reference
+
 * <http://www.tastingtable.com/entry_detail/chefs_recipes/15122>

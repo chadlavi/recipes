@@ -1,6 +1,7 @@
 # Broccoli Parmesan Fritters
 
 ## Ingredients
+
 * 8 ounces (1 small-to-medium bundle, 225 grams) fresh broccoli (3 cups chopped)
 * 1 large egg
 * 1/2 cup (65 grams) all-purpose flour
@@ -11,6 +12,7 @@
 * Olive or vegetable oil for frying
 
 ## Directions
+
 1. Prepare your broccoli: Separate the florets from the biggest stem(s). Cut the florets into 1-inch chunks. To prepare the stems, I like to peel them, as the skin can be thick and doesn’t cook quickly, then slice them into 1/2-inch lengths. You should have about 3 cups of chopped broccoli total.
 2. Steam your broccoli until tender but not mushy: Use whatever method you prefer. My quickie, lazy method is to bring a 1/2-inch or so of water to a boil in a small saucepan, then add the broccoli, place a lid on it and simmer it for 5 to 6 minutes. Drain the broccoli, then set it aside to cool slightly.
 3. In the bottom of a large bowl, lightly beat your egg. Add the flour, cheese, garlic, salt and pepper. Then, add the somewhat cooled broccoli and, using a potato masher, mash the broccoli just a bit. You’re looking to keep the bits recognizable, but small enough (1/4- to 1/2-inch chunks) that you can press a mound of the batter into a fritter in the pan. Once mashed a bit, stir or fold the ingredients together the rest of the way with a spoon. Adjust seasonings to taste.
@@ -18,5 +20,5 @@
 5. Transfer briefly to paper towels to drain, then to a serving plate if you’ll be eating them shortly or a baking sheet in a 200 degree oven if you’d like to keep them warm for a while until needed. Repeat with remaining batter, adding more oil as needed.
 
 ## Reference
-* <http://smittenkitchen.com/blog/2012/06/broccoli-parmesan-fritters>
 
+* <http://smittenkitchen.com/blog/2012/06/broccoli-parmesan-fritters>

@@ -19,4 +19,4 @@ Turn a bag of dried chickpeas into cooked chickpeas in about an hour
 
 Cooked chickpeas can be used in any recipe that calls for them.
 
-The cooking liquid can also be used in anything that calls for stock/ broth. There will be about 3 cups of cooking liquid. 
+The cooking liquid can also be used in anything that calls for stock/ broth. There will be about 3 cups of cooking liquid.

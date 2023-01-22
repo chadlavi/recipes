@@ -17,4 +17,5 @@
 4. Remove from heat and let it sit covered until cool. As it cools, Kabocha will absorb more of the flavor from the broth. If you like it warm, reheat before serving.
 
 ## Reference
+
 * <https://www.japanesecooking101.com/kabocha-no-nimono-simmered-pumpkin-recipe/>

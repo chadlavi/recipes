@@ -1,5 +1,6 @@
 # Crispy Mushrooms With Creamy White Beans and Kale
-Serves 2. Can be scaled up. 
+
+Serves 2. Can be scaled up.
 
 ## Ingredients
 
@@ -23,6 +24,6 @@ Serves 2. Can be scaled up.
 3. Heat 1 Tbsp. oil in same skillet over medium-high. Add scallions and remaining garlic clove and cook, tossing, until just beginning to brown, about 1 minute. Add kale and cook, tossing often, until wilted and crisp-tender, 3–5 minutes. Season with salt. Transfer to plate with mushrooms.
 4. Divide bean purée between bowls. Top with greens, feta, mushrooms, sesame seeds, and cilantro. Serve with lime wedges alongside.
 
-## Reference 
+## Reference
 
 * <https://www.bonappetit.com/recipe/crispy-mushrooms-with-creamy-white-beans-and-kale>

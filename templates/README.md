@@ -1,8 +1,10 @@
 # Templates
+
 There are two different templates so far: one for beer, and one for everything else.
 
 ## [main template](main-template.md)
-```
+
+```md
 # Title
 
 ## Ingredients
@@ -14,8 +16,10 @@ There are two different templates so far: one for beer, and one for everything e
 ## Reference
 * 
 ```
+
 ## [beer template](beer-template.md)
-```
+
+```md
 # Title
  
 ## Ingredients

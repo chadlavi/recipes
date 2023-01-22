@@ -1,6 +1,7 @@
 # Perfect Chocolate Chip Cookies
 
 ## Ingredients
+
 * 1 1/2 cups all-purpose flour see notes below
 * 1 teaspoon baking soda
 * 1/2 teaspoon salt
@@ -12,6 +13,7 @@
 * 2 1/4 cups semisweet chocolate chips I used Ghiradelli semi-sweet
 
 ## Directions
+
 1. Preheat the oven to 350°F and line 2 baking sheets with parchment paper or spray with non-stick spray.
 2. In a medium bowl, sift the flour, baking soda and salt together.
 3. In another large bowl, using an electric mixer at medium speed, beat together the butter, and sugars about 2 minutes and is smooth.
@@ -28,9 +30,11 @@
 Makes 15 - 30 cookies depending on size.
 
 ## Notes
+
 * Butter Tips: To avoid flat cookies: Be sure your butter is room temp (not melted or even softened), and try using cold/chilled dough if dough is warm: Just put it in the refrigerator to chill before baking.
 * Flour Tips: Don't over-mix cookie batter especially after the flour is added and add it gradually.
 
 ## Reference
+
 * <http://www.thebakingchocolatess.com/perfect-chocolate-chip-cookies/>
 * found from: <https://mltshp.com/p/1CMS4>

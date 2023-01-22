@@ -1,6 +1,7 @@
 # Oatmeal Peanut Butter Cookies
 
 ## Ingredients
+
 * 1 cup peanut butter
 * 3/4 cup pure maple syrup, agave syrup, or honey
 * 2 egg whites
@@ -10,6 +11,7 @@
 * 1/2 tsp baking soda
 
 ## Directions
+
 1. Mix peanut butter, egg whites, syrup, and vanilla together in a small mixing bowl.
 2. In a separate larger bowl, combine flour, oats, and baking soda.
 3. Add the wet ingredients to the dry, stir to combine.

@@ -1,6 +1,7 @@
 # Spicy Whole Roasted Cauliflower
 
 ## Ingredients
+
 * 1 tablespoon vegetable oil
 * 1 head cauliflower
 * 1 1/2 cups plain Greek yogurt
@@ -13,6 +14,7 @@
 * 1 teaspoon black pepper
 
 ## Directions
+
 1. Preheat the oven to 400° and lightly grease a small baking sheet with vegetable oil. Set aside.
 2. Trim the base of the cauliflower to remove any green leaves and the woody stem.
 3. In a medium bowl, combine the yogurt with the lime zest and juice, chile powder, cumin, garlic powder, curry powder, salt and pepper.
@@ -21,5 +23,5 @@
 6. Let the cauliflower cool for 10 minutes before cutting it into wedges and serving alongside a big green salad.
 
 ## Reference
-* <http://www.purewow.com/entry_detail/recipe/8821/Forget-florets--roast-the-whole-damn-cauliflower.htm>
 
+* <http://www.purewow.com/entry_detail/recipe/8821/Forget-florets--roast-the-whole-damn-cauliflower.htm>

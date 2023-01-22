@@ -1,6 +1,7 @@
 # Spatchcock Chicken over New Potatoes
 
 ## Ingredients
+
 * one whole, air-chilled chicken (without gizzards)
 * 2 lb new potatoes
 * olive oil
@@ -8,6 +9,7 @@
 * sea salt and black pepper
 
 ## Directions
+
 1. Preheat oven to 425ºF with a rack in the center.
 2. Rinse and dry the new potatoes.
 3. Put the potatoes in a 4qt pyrex baking dish, drizzle with oil, sprinkle with sea salt, herbes de province, and black pepper.

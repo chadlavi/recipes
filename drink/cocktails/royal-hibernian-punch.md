@@ -1,7 +1,9 @@
 # David Wondrich's Royal Hibernian Punch
+
 Requires prep work ahead of time (3-12 hours). Shared by Sam Meyer.
 
 ## Ingredients
+
 * 3 lemons
 * 6oz white sugar
 * 6oz strained lemon juice (from the lemons)
@@ -11,6 +13,7 @@ Requires prep work ahead of time (3-12 hours). Shared by Sam Meyer.
 * fresh nutmeg
 
 ## Directions
+
 1. Prepare an oleo-saccharum with the peel of three lemons and 6 ounces of white sugar:
     1. peel the lemons (trying to not get much white pith on them) and put the peels in a jar with the sugar and let them sit for at least three hours and preferably overnight.
 2. Add 6 ounces strained lemon juice and stir until the sugar has dissolved.

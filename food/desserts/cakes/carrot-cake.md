@@ -40,5 +40,4 @@
 
 ### Frosting
 
-1. Cream together cream cheese, butter, and confectioner's sugar. Optionally beat in 1/4tsp vanilla. 
-
+1. Cream together cream cheese, butter, and confectioner's sugar. Optionally beat in 1/4tsp vanilla.

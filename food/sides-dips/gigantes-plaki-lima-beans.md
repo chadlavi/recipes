@@ -1,7 +1,9 @@
 # Gigantes Plakis
+
 I don't know anymore where I got his recipe (the original author's quirks definitely come through in the writing style), but it certainly is delicious.
 
 ## Ingredients
+
 * 1 pound dried beans (gigantes or large lima beans)
 * 1 1/2 cups chopped onion (approx 2 medium onions)
 * 1/3 cup chopped garlic
@@ -17,6 +19,7 @@ I don't know anymore where I got his recipe (the original author's quirks defini
 * 1 cup water, room temperature
 
 ## Directions
+
 1. Soak dried beans overnight or at least 7 hours. Boil for 50 minutes and RESERVE 2 cups of cooking liquid before draining beans.
 2. Saute chopped onions and celery in olive oil over medium low heat until tender. Add garlic and cook for a few minutes until soft. Add herbs and spices, mix to combine completely and cook for just a minute to combine flavor oils.
 3. Add chopped tomatoes, stir to combine and cook for 5 minutes. Add reserved bean cooking liquid and bring sauce up to a boil.  Remove from heat and set aside until ready to bake the beans.

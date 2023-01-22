@@ -1,6 +1,7 @@
 # Hashbrowns
 
 ## Ingredients
+
 * 1 pound (450g) russet potatoes, peeled
 * 3 tablespoons (45ml) canola oil
 * Kosher salt and freshly ground black pepper
@@ -20,4 +21,5 @@
    plate. Serve immediately.
 
 ## Reference
+
 * <https://www.seriouseats.com/recipes/2014/06/shredded-hash-browns-recipe.html>

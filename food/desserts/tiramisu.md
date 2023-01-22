@@ -3,6 +3,7 @@
 I learned this recipe at a small private cooking school in the Amalfi Coast in Italy.
 
 ## Ingredients
+
 * 6 eggs
 * 500g fresh cream
 * 500g mascarpone
@@ -12,6 +13,7 @@ I learned this recipe at a small private cooking school in the Amalfi Coast in I
 * cocoa powder
 
 ## Directions
+
 1. Separate the egg yolks and whites
 2. Whip the egg whites until stiff
 3. Mix the egg yolks and sugar until the mixture lightens in color

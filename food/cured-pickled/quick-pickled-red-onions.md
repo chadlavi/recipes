@@ -1,6 +1,7 @@
 # Quick pickled red onions
 
 ## Ingredients
+
 * 1 medium red onion, very thinly sliced
 * 1/2 cup water
 * 1/4 cup distilled white vinegar
@@ -10,6 +11,7 @@
 * 1/4 teaspoon red pepper flakes (optional, for heat)
 
 ## Directions
+
 1. Pack the onions into a 1-pint mason jar or similar heat-safe vessel. Place
    the jar in the sink, to catch any splashes of hot vinegar later.
 2. In a small saucepan, combine the water, both vinegars, maple syrup, salt, and
@@ -24,4 +26,5 @@
    refrigerator.
 
 ## Reference
+
 * <https://cookieandkate.com/quick-pickled-onions-recipe/>

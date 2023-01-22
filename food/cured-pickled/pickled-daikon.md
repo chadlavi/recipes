@@ -1,6 +1,7 @@
 # Pickled Daikon
 
 ## Ingredients
+
 * 1 lb daikon
 * 1 dried red chili pepper
 * 2 Tbsp rice vinegar
@@ -9,6 +10,7 @@
 * 1/3 cup sugar (About 5 Tbsp)
 
 ## Directions
+
 1. Peel daikon and cut into 1/4 inch slices.
 2. Cut the chili peppers into small pieces and discard the seeds if you prefer
    less spicy.
@@ -17,4 +19,5 @@
    days.
 
 ## Reference
+
 * <https://www.justonecookbook.com/pickled-daikon/>

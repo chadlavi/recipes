@@ -3,6 +3,7 @@
 Serves four.
 
 ## Ingredients
+
 - 1 (14-ounce) can diced tomatoes (do not drain)
 - 5 or 6 garlic cloves, minced
 - 1 tablespoon minced ginger
@@ -18,6 +19,7 @@ Serves four.
 - 1/4 to 1/2 cup chopped fresh cilantro
 
 ## Directions
+
 1. In the inner cooking pot of the Instant Pot, add the tomatoes, garlic, ginger, turmeric, cayenne, paprika, one teaspoon of garam masala, cumin, and salt. Mix thoroughly, then place the chicken pieces on top of the sauce.
 2. Lock the lid into place. Select Manual or Pressure Cook, and adjust the pressure to High. Cook for ten minutes.
 3. When the cooking is complete, let the pressure release naturally. Unlock the lid. Carefully remove the chicken and set it aside.

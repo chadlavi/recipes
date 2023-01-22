@@ -75,6 +75,7 @@ It's recipes. You know, to cook with.
 * [Mrs. Kleemeyer's Pound Cake](./food/desserts/dessert-breads/mrs-kleemeyers-pound-cake.md)
 * [Oatmeal Craisin Cookies](./food/desserts/cookies/oatmeal-craisin-cookies.md)
 * [Oatmeal Peanut Butter Cookies](./food/desserts/cookies/oatmeal-peanut-butter-cookies.md)
+* [Peanut Butter Miso Rice Crispies Treats](./food/desserts/peanut-butter-miso-rice-crispies-treats.md)
 * [Peanut butter blossom cookies](./food/desserts/cookies/peanut-butter-blossom-cookies.md)
 * [Peanut butter fudge](./food/desserts/peanut-butter-fudge.md)
 * [Perfect Chocolate Chip Cookies](./food/desserts/cookies/chocolate-chip-cookies.md)
@@ -283,7 +284,7 @@ It's recipes. You know, to cook with.
 
 ### Cocktails
 
-* [Americano Highball](./drink/cocktails/americano-highball.md)
+* [Americano](./drink/cocktails/americano.md)
 * [Aromatic Collins](./drink/cocktails/aromatic-collins.md)
 * [Barbancourt Rum Punch](./drink/cocktails/barbancourt-rum-punch.md)
 * [Black Cherry Cranberry Fizz](./drink/cocktails/black-cherry-cranberry-vodka-fizz.md)

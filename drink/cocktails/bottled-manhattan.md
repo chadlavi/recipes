@@ -1,4 +1,5 @@
 # Bottled Manhattan
+
 Fits perfectly in a 20oz swingtop bottle, or with some room to spare in a 750ml bottle.
 
 ## Ingredients
@@ -16,4 +17,5 @@ Fits perfectly in a 20oz swingtop bottle, or with some room to spare in a 750ml 
 2. To serve, pour about 1/2 cup whiskey mixture into each of 6 cocktail glasses. Garnish with orange peel twists and maraschino cherries.
 
 ## Reference
+
 * <https://www.foodandwine.com/recipes/bottled-manhattan>
