@@ -284,7 +284,7 @@ It's recipes. You know, to cook with.
 
 ### Cocktails
 
-* [Americano Highball](./drink/cocktails/americano-highball.md)
+* [Americano](./drink/cocktails/americano.md)
 * [Aromatic Collins](./drink/cocktails/aromatic-collins.md)
 * [Barbancourt Rum Punch](./drink/cocktails/barbancourt-rum-punch.md)
 * [Black Cherry Cranberry Fizz](./drink/cocktails/black-cherry-cranberry-vodka-fizz.md)
