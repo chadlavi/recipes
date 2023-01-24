@@ -250,6 +250,7 @@ It's recipes. You know, to cook with.
 
 * [Baba Ganoush](./food/sides-dips/baba-ganoush.md)
 * [Beer and Bacon Butter Beans](./food/sides-dips/beer-and-bacon-butter-beans.md)
+* [Braised cabbage](./food/sides-dips/braised-cabbage.md)
 * [Cauliflower casserole](./food/sides-dips/cauliflower-casserole.md)
 * [Collard greens](./food/sides-dips/collard-greens.md)
 * [Corn casserole](./food/sides-dips/corn-casserole.md)
