@@ -149,6 +149,7 @@ It's recipes. You know, to cook with.
 * [Rice Cooker Miso Clay Pot Chicken](./food/mains/rice-cooker-miso-clay-pot-chicken.md)
 * [Rice cooker lentils](./food/mains/rice-cooker-lentils.md)
 * [Roast Duck](./food/mains/roast-duck.md)
+* [Roast chicken with schmaltzy cabbage](./food/mains/roast-chicken-schmaltzy-cabbage.md)
 * [Roasted Squash With Crunchy Kale & Feta](./food/mains/roasted-squash-kale-feta.md)
 * [Roasted pork shoulder](./food/mains/roasted-pork-shoulder.md)
 * [Roger Ebert's Fragrant Rice with Chicken](./food/mains/fragrant-rice-with-chicken.md)
@@ -180,6 +181,7 @@ It's recipes. You know, to cook with.
 * [Kale pesto](./food/pasta/kale-pesto.md)
 * [Linguine Broccoli Shrimp](./food/pasta/linguine-broccoli-shrimp.md)
 * [Maureen Sullivan's Pasta Dough](./food/pasta/maureen-sullivan-pasta-dough.md)
+* [Miso cacio e pepe](./food/pasta/miso-cacio-e-pepe.md)
 * [One-Pan Linguine](./food/pasta/one-pan-linguine.md)
 * [Rao's Meatballs](./food/pasta/raos-meatballs.md)
 
@@ -249,6 +251,7 @@ It's recipes. You know, to cook with.
 
 * [Baba Ganoush](./food/sides-dips/baba-ganoush.md)
 * [Beer and Bacon Butter Beans](./food/sides-dips/beer-and-bacon-butter-beans.md)
+* [Braised cabbage](./food/sides-dips/braised-cabbage.md)
 * [Cauliflower casserole](./food/sides-dips/cauliflower-casserole.md)
 * [Collard greens](./food/sides-dips/collard-greens.md)
 * [Corn casserole](./food/sides-dips/corn-casserole.md)
@@ -377,6 +380,7 @@ It's recipes. You know, to cook with.
 * [Kenji's spatchcocked turkey](./food/mains/spatchcocked-turkey.md)
 * [Peanut butter blossom cookies](./food/desserts/cookies/peanut-butter-blossom-cookies.md)
 * [Peanut butter fudge](./food/desserts/peanut-butter-fudge.md)
+* [Roast chicken with schmaltzy cabbage](./food/mains/roast-chicken-schmaltzy-cabbage.md)
 * [Rum balls](./food/desserts/rum-balls.md)
 * [Sandi Gant's Sweet Potato Casserole](./food/sides-dips/sandi-gant-sweet-potato-casserole.md)
 * [Sandi Gant's Sweet Potato Pie](./food/desserts/pies/sandi-gant-sweet-potato-pie.md)
