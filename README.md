@@ -181,6 +181,7 @@ It's recipes. You know, to cook with.
 * [Kale pesto](./food/pasta/kale-pesto.md)
 * [Linguine Broccoli Shrimp](./food/pasta/linguine-broccoli-shrimp.md)
 * [Maureen Sullivan's Pasta Dough](./food/pasta/maureen-sullivan-pasta-dough.md)
+* [Miso cacio e pepe](./food/pasta/miso-cacio-e-pepe.md)
 * [One-Pan Linguine](./food/pasta/one-pan-linguine.md)
 * [Rao's Meatballs](./food/pasta/raos-meatballs.md)
 
