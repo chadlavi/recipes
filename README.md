@@ -122,6 +122,7 @@ It's recipes. You know, to cook with.
 * [Dong Bei-style Cumin Lamb Ribs](./food/mains/dong-bei-cumin-lamb-ribs.md)
 * [Enchilada Lasagna ("Enchizaña")](./food/mains/enchilada-lasagna.md)
 * [Filet Mignon de Porc à Sauvignon Blanc](./food/mains/filet-mignon-de-porc-a-sauvignon-blanc.md)
+* [Fried chicken with 11 herbs and spices](./food/mains/11-herbs.md)
 * [Frijoles de Olla](./food/mains/frijoles-de-olla.md)
 * [Garlic Roasted Chicken](./food/mains/garlic-roasted-chicken.md)
 * [Gołąbki](./food/mains/golabki.md)
