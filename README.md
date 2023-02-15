@@ -351,8 +351,8 @@ It's recipes. You know, to cook with.
 
 ### Coffee and Tea
 
-* [Café au lait au bol](./drink/coffee/bowl-cafe-au-lait.md)
 * [Cà Phê](./drink/coffee/vietnamese-ca-phe.md)
+* [Café au lait au bol](./drink/coffee/bowl-cafe-au-lait.md)
 * [Mojitea](./drink/tea/mojitea.md)
 * [Vietnamese iced coffee with sweetened condensed coconut milk](./drink/coffee/vietnamese-iced-coffee.md)
 
@@ -394,7 +394,17 @@ It's recipes. You know, to cook with.
 
 ### Pressure cooker
 
-
+* [Chana Masala (in the pressure cooker)](./food/mains/chana-masala-pressure-cooker.md)
+* [Colombian pressure cooker chicken stew](./food/mains/colombian-chicken-stew.md)
+* [Hungarian Goulash](./food/mains/hungarian-goulash.md)
+* [Instant Pot Lamb Ragu](./food/mains/instant-pot-lamb-ragu.md)
+* [Instant pot black eyed peas](./food/mains/instant-pot-black-eyed-peas.md)
+* [Instant pot chickpeas](./food/mains/instant-pot-chickpeas.md)
+* [Jamaican Oxtail](./food/mains/jamaican-oxtail.md)
+* [Pressure Cooker Koh (Vietnamese Beef Stew)](./food/mains/pressure-cooker-koh-vietnamese-beef-stew.md)
+* [Pressure cooker Korean braised oxtail (kkorijjim)](./food/mains/korean-pressure-cooker-beef-short-ribs.md)
+* [Pressure cooker cabbage with pork](./food/mains/cabbage-pork.md)
+* [Urvashi Pitre’s Instant Pot Butter Chicken](./food/mains/instant-pot-butter-chicken.md)
 
 🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥑🍆🥔🥕🌽🌶🥒🍄🥜🌰🍞🥐🥖🥞🧀🍖🍗🥓🍔🍟🍕🌭🌮🌯🍳🍲🥗🍿🍱🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍥🍡🍦🍧🍨🍩🍪🎂🍰🍫🍬🍭🍮🍯🍼🥛☕🍵🍶🍾🍷🍸🍹🍺🍻🥂🥃🍽🍴🥄
 

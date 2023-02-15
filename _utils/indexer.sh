@@ -29,7 +29,7 @@ getHolidayLinks() {
 }
 
 getPressureCookerLinks() {
-  for file in $(find . -name '*.md' -not -name "README.md" -type f -exec grep -FE -li 'pressure cooker|instant pot' {} +); do
+  for file in $(find . -name '*.md' -not -name "README.md" -type f -exec grep -li 'pressure cooker\|instant pot' {} +); do
     echo "* [$(cat "$file" | head -n 1 | sed 's/^# //')]("$file")"
   done
 }
