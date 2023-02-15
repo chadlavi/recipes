@@ -2,7 +2,7 @@
 
 Family holiday tradition: eat these on new year's day.
 
-Short on time? See also [pressure cooker version](./instant-pot-black-eyed-peas.md).
+Short on time? See also [quick version](./instant-pot-black-eyed-peas.md).
 
 ## Ingredients
 

@@ -6,7 +6,7 @@ It's recipes. You know, to cook with.
 
 ## Categories
 
-[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing) &middot; [Holiday](#holiday)
+[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing) &middot; [Holiday](#holiday) &middot; [Pressure cooker](#pressure-cooker)
 
 ## Contents
 
@@ -351,8 +351,8 @@ It's recipes. You know, to cook with.
 
 ### Coffee and Tea
 
-* [Café au lait au bol](./drink/coffee/bowl-cafe-au-lait.md)
 * [Cà Phê](./drink/coffee/vietnamese-ca-phe.md)
+* [Café au lait au bol](./drink/coffee/bowl-cafe-au-lait.md)
 * [Mojitea](./drink/tea/mojitea.md)
 * [Vietnamese iced coffee with sweetened condensed coconut milk](./drink/coffee/vietnamese-iced-coffee.md)
 
@@ -391,6 +391,20 @@ It's recipes. You know, to cook with.
 * [Sweet potato rolls](./food/bread/sweet-potato-rolls.md)
 * [Texan Queso](./food/snacks/texan-queso.md)
 * [Tourtière, Bedard family](./food/mains/bedard-tourtiere.md)
+
+### Pressure cooker
+
+* [Chana Masala (in the pressure cooker)](./food/mains/chana-masala-pressure-cooker.md)
+* [Colombian pressure cooker chicken stew](./food/mains/colombian-chicken-stew.md)
+* [Hungarian Goulash](./food/mains/hungarian-goulash.md)
+* [Instant Pot Lamb Ragu](./food/mains/instant-pot-lamb-ragu.md)
+* [Instant pot black eyed peas](./food/mains/instant-pot-black-eyed-peas.md)
+* [Instant pot chickpeas](./food/mains/instant-pot-chickpeas.md)
+* [Jamaican Oxtail](./food/mains/jamaican-oxtail.md)
+* [Pressure Cooker Koh (Vietnamese Beef Stew)](./food/mains/pressure-cooker-koh-vietnamese-beef-stew.md)
+* [Pressure cooker Korean braised oxtail (kkorijjim)](./food/mains/korean-pressure-cooker-beef-short-ribs.md)
+* [Pressure cooker cabbage with pork](./food/mains/cabbage-pork.md)
+* [Urvashi Pitre’s Instant Pot Butter Chicken](./food/mains/instant-pot-butter-chicken.md)
 
 🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥑🍆🥔🥕🌽🌶🥒🍄🥜🌰🍞🥐🥖🥞🧀🍖🍗🥓🍔🍟🍕🌭🌮🌯🍳🍲🥗🍿🍱🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍥🍡🍦🍧🍨🍩🍪🎂🍰🍫🍬🍭🍮🍯🍼🥛☕🍵🍶🍾🍷🍸🍹🍺🍻🥂🥃🍽🍴🥄
 
