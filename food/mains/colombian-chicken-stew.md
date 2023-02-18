@@ -1,11 +1,12 @@
 # Colombian pressure cooker chicken stew
 
-Don't forget to properly salt this! Also a good idea to toss in some garlic.
+Don't forget to properly salt this! Also a good idea to toss in some garlic; the original recipe has none but it needs it.
 
 ## Ingredients
 
 - 4 large Russet or Yukon Gold potatoes, peeled and cut into 1- to 2-inch chunks
 - 1 large onion, sliced into 1/4-inch slices (about 1 1/2 cups)
+- 3-4 cloves garlic, roughly chopped
 - 4 medium beefsteak tomatoes, cut into 1- to 2-inch chunks (about 3 cups)
 - 8 bone-in, skin-on chicken thighs
 - 2 bay leaves
@@ -13,7 +14,7 @@ Don't forget to properly salt this! Also a good idea to toss in some garlic.
 
 ## Directions
 
-1. Combine potatoes, onion, tomato, chicken pieces, bay leaves, and a large pinch of salt in a pressure cooker. Toss with hands to combine. Seal lid and cook under high pressure for 30 minutes. Release pressure, remove lid, season to taste, and serve.
+1. Combine potatoes, onion, garlic, tomato, chicken pieces, bay leaves, and a large pinch of salt in a pressure cooker. Toss with hands to combine. Seal lid and cook under high pressure for 30 minutes. Release pressure, remove lid, season to taste, and serve.
 
 ## Reference
 
