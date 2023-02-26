@@ -18,5 +18,5 @@ simple pressure cooker stew
 ## Directions
 
 1. Add beans, chorizo, and vegetable stock to the pressure cooker. Cook for 35 minutes.
-2. Quick release the pressure in the pressure cooker and open it (carefully). If necessary, add 1-2 cups of water. Add the potatoes, garlic, spices and bay leaves, then add as much of the kale as you can to full the pressure cooker (it will wilt and take up less space as it cooks). Close the pressure cooker and cook for another 25 minutes.
+2. Quick release the pressure in the pressure cooker and open it (carefully). If necessary, add 1-2 cups of water. Add the potatoes, garlic, spices and bay leaves, then add as much of the kale as you can to fill the pressure cooker (it will wilt and take up less space as it cooks). Close the pressure cooker and cook for another 25 minutes.
 3. Quick release the pressure in the pressure cooker and open it (carefully). Stir the contents together, then sample a few beans. If the beans are done well, fish out the bay leaves and serve. Otherwise, pressure cook for another 10 minutes and test again.
