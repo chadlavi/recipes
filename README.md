@@ -160,6 +160,7 @@ It's recipes. You know, to cook with.
 * [Shrimp noodle salad](./food/mains/shrimp-noodle-salad.md)
 * [Slow-Cooked Chicken with Herbed Biscuits](./food/mains/slow-cooked-chicken-stew-with-herbed-biscuits.md)
 * [Slow-Roasted Pork Shoulder with Mustard and Sage](./food/mains/slow-roasted-pork-shoulder-mustard-sage.md)
+* [Soy glazed salmon hand rolls](./food/mains/soy-glazed-salmon.md)
 * [Spatchcock Chicken over New Potatoes](./food/mains/spatchcock-chicken-new-potatoes.md)
 * [Spicy Whole Roasted Cauliflower](./food/mains/spicy-whole-roasted-cauliflower.md)
 * [Spicy silken tofu](./food/mains/spicy-silken-tofu.md)
