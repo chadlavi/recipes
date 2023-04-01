@@ -33,6 +33,7 @@ It's recipes. You know, to cook with.
 
 ### Breakfasts
 
+* [Bagel Strata](./food/breakfast/bagel-strata.md)
 * [Chilaquiles with Fried Eggs](./food/breakfast/chilaquiles-with-fried-eggs.md)
 * [Dutch Baby Pancake (NYT cooking version)](./food/breakfast/nyt-dutch-baby-pancake.md)
 * [Dutch Baby Pancake](./food/breakfast/dutch-baby-pancake.md)
