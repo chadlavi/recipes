@@ -5,7 +5,8 @@
 - 8 cups bagels cut into 1-inch cubes (from approximately 1.5 pounds or 570 grams bagels, see [notes](#notes))
 - 8 ounces (225 grams) cream cheese, chilled, cut into irregular small bits
 - 1/4 medium red onion, halved lengthwise, thinly sliced (quarter-moons)
-- 1 1/2 cups (1 pint or 10 ounces) tomatoes, preferably grape or cherry tomatoes, cut in half, or - quartered if on the large side 8 large eggs
+- 1 1/2 cups (1 pint or 10 ounces) tomatoes, preferably grape or cherry tomatoes, cut in half, or quartered if on the large side
+- 8 large eggs
 - 2 1/3 cups (555 ml) milk or half-and-half
 - 1 teaspoon table salt
 - Freshly ground black pepper
