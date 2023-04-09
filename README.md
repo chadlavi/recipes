@@ -52,6 +52,7 @@ It's recipes. You know, to cook with.
 * [All butter pie crust (from _Sister Pie_)](./food/desserts/pies/sister-pie-crust.md)
 * [Apple bread](./food/desserts/cakes/apple-bread.md)
 * [Banana bread](./food/desserts/dessert-breads/banana-bread.md)
+* [Basque cheesecake](./food/desserts/basque-cheesecake.md)
 * [Big Berry Pie](./food/desserts/pies/big-berry-pie.md)
 * [Blueberry & Banana Bread](./food/desserts/dessert-breads/blueberry-banana-bread.md)
 * [Blueberry Pound Cake](./food/desserts/dessert-breads/blueberry-pound-cake.md)
