@@ -28,7 +28,7 @@ Cheese:
 3. Make the sauce: blend crushed tomatoes, salt and dried oregano
 4. Assemble pies
 5. Preheat oven to 500°F
-6. Bake on baking steel or stone
+6. Bake on baking steel or stone just under 6 minutes
 
 ## Reference
 
