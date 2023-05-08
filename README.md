@@ -178,6 +178,7 @@ It's recipes. You know, to cook with.
 * [Vegan Shiitake Bacon (from By Chloe)](./food/mains/by-chloe-vegan-shiitake-bacon.md)
 * [Vegan Tacos Al Pastor](./food/mains/vegan-tacos-al-pastor.md)
 * [牛丼 (gyūdon)](./food/mains/gyudon.md)
+* [親子丼 (Oyakodon)](./food/mains/oyakodon.md)
 
 ### Pasta
 
