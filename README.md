@@ -189,6 +189,7 @@ It's recipes. You know, to cook with.
 * [Miso cacio e pepe](./food/pasta/miso-cacio-e-pepe.md)
 * [One-Pan Linguine](./food/pasta/one-pan-linguine.md)
 * [Rao's Meatballs](./food/pasta/raos-meatballs.md)
+* [Semolina pasta dough](./food/pasta/semolina-pasta-dough.md)
 
 ### Pizza
 
@@ -196,6 +197,7 @@ It's recipes. You know, to cook with.
 * [Foolproof Pan Pizza](./food/pizza/foolproof-pan-pizza.md)
 * [Frozen Wegman's pizza dough grandma pie](./food/pizza/frozen-wegmans-pizza-dough.md)
 * [Neapolitan pizza](./food/pizza/neapolitan-pizza.md)
+* [New York style pizza](./food/pizza/ny-style.md)
 * [Pizza, Updated](./food/pizza/deb-perelman-pizza.md)
 * [Roberta's pizza, Detroit-style](./food/pizza/robertas-detroit-style-pizza.md)
 * [Roberta's pizza](./food/pizza/robertas-pizza.md)
