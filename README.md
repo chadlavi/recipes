@@ -303,6 +303,7 @@ It's recipes. You know, to cook with.
 * [Black Feather Cocktail](./drink/cocktails/black-feather.md)
 * [Bottled Manhattan](./drink/cocktails/bottled-manhattan.md)
 * [Bottled boulevardier](./drink/cocktails/bottled-boulevardier.md)
+* [Bottled negroni](./drink/cocktails/bottled-negroni.md)
 * [Bourbon Milk Punch](./drink/cocktails/bourbon-milk-punch.md)
 * [Champagne Cocktail](./drink/cocktails/champagne-cocktail.md)
 * [Champagne Flamingo](./drink/cocktails/champagne-flamingo.md)
