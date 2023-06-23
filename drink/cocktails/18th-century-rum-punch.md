@@ -1,5 +1,7 @@
 # Eighteenth-century-style Rum Punch
 
+Similar to [Philadelphia fish house punch](./philadelphia-fish-house-punch)
+
 As described by Sam Meyer:
 
 > Do the oleo-saccharum with the three lemons and dissolve it in the lemon juice. Add a bottle of – well, any spirit, really, but an aged rum with some funkiness is nice – and a bottle's worth of water, or seltzer, or even a mix of water and strong green or black tea (consider using decaf if you don't want wired drunks), or bubbly wine if you fancy, add a big ice block (I freeze water in soup containers or Bundt pans), grate a bunch of nutmeg over the top, and stand back.
