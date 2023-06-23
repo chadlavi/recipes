@@ -1,6 +1,6 @@
 # Eighteenth-century-style Rum Punch
 
-Similar to [Philadelphia fish house punch](./philadelphia-fish-house-punch)
+Similar to [Philadelphia Fish House Punch](./philadelphia-fish-house-punch).
 
 As described by Sam Meyer:
 
