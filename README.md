@@ -333,6 +333,7 @@ It's recipes. You know, to cook with.
 * [Panky Hanky](./drink/cocktails/panky-hanky.md)
 * [Penicillin](./drink/cocktails/penicillin.md)
 * [Peppermint Schnapps Hot Chocolate](./drink/cocktails/peppermint-schnapps-hot-chocolate.md)
+* [Philadelphia fish house punch](./drink/cocktails/philadelphia-fish-house-punch.md)
 * [Pink Gin](./drink/cocktails/pink-gin.md)
 * [Pisco Sour](./drink/cocktails/pisco-sour.md)
 * [Rosita](./drink/cocktails/rosita.md)
