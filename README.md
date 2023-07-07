@@ -93,6 +93,7 @@ It's recipes. You know, to cook with.
 * [Slab pie](./food/desserts/pies/slab-pie.md)
 * [Sohla El-Wally's black & white swirl pound cake](./food/desserts/cakes/black-white-swirl-pound-cake.md)
 * [Sohla El-Wally's go-to vanilla pound cake](./food/desserts/cakes/vanilla-pound-cake.md)
+* [Strawberry summer sheet cake](./food/desserts/cakes/deb-perelman-strawberry-cake.md)
 * [Tarte Tatin](./food/desserts/pies/tarte-tatin.md)
 * [Thai Tea Ice Cream](./food/desserts/ice-cream/thai-tea-ice-cream.md)
 * [Tiramisu](./food/desserts/tiramisu.md)
