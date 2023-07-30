@@ -34,6 +34,7 @@ It's recipes. You know, to cook with.
 ### Breakfasts
 
 * [Bagel Strata](./food/breakfast/bagel-strata.md)
+* [Buttermilk Pancakes](./food/breakfast/buttermilk-pancakes.md)
 * [Chilaquiles with Fried Eggs](./food/breakfast/chilaquiles-with-fried-eggs.md)
 * [Dutch Baby Pancake (NYT cooking version)](./food/breakfast/nyt-dutch-baby-pancake.md)
 * [Dutch Baby Pancake](./food/breakfast/dutch-baby-pancake.md)
@@ -288,6 +289,7 @@ It's recipes. You know, to cook with.
 * [Chile Vinegar Sauce](./food/condiments-sauces-toppings/chile-vinegar-sauce.md)
 * [Chunky roasted Salsa](./food/condiments-sauces-toppings/chunky-roasted-salsa-teresa-finney.md)
 * [Cranberry sauce](./food/condiments-sauces-toppings/cranberry-sauce.md)
+* [French-style cultured butter](./food/condiments-sauces-toppings/butter.md)
 * [Garlic serrano coconut crisp](./food/condiments-sauces-toppings/garlic-serrano-coconut-crisp.md)
 * [In-N-Out Animal Style Onions](./food/condiments-sauces-toppings/in-n-out-onions.md)
 * [Manitoba honey dill sauce](./food/condiments-sauces-toppings/monitoba-honey-dill-sauce.md)
