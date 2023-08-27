@@ -67,6 +67,7 @@ It's recipes. You know, to cook with.
 * [Cherry Clafoutis](./food/desserts/pies/cherry-clafoutis.md)
 * [Chia Seed Pudding](./food/desserts/puddings/chia-seed-pudding.md)
 * [Chocolate Chip Cookies with sea salt](./food/desserts/cookies/chocolate-chip-cookies-with-sea-salt.md)
+* [Chocolate chip cherry cookies](./food/desserts/cookies/chocolate-chip-cherry-cookies.md)
 * [Chow Mein noodle cookies](./food/desserts/cookies/chow-mein-noodle-cookies.md)
 * [Deb Perelman's Triple Berry Buttermilk Bundt Cake](./food/desserts/cakes/deb-perelman-triple-berry-buttermilk-bundt-cake.md)
 * [Deborah Rubin's lemon cookies](./food/desserts/cookies/deborah-rubin-lemon-cookies.md)
