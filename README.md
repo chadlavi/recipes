@@ -72,6 +72,7 @@ It's recipes. You know, to cook with.
 * [Deb Perelman's Triple Berry Buttermilk Bundt Cake](./food/desserts/cakes/deb-perelman-triple-berry-buttermilk-bundt-cake.md)
 * [Deborah Rubin's lemon cookies](./food/desserts/cookies/deborah-rubin-lemon-cookies.md)
 * [Eggnog Cake](./food/desserts/cakes/eggnog-cake.md)
+* [Fig Newtons](./food/desserts/cookies/fig-newtons.md)
 * [Four and Twenty Blackbirds' Egg n' Grogg pie](./food/desserts/pies/egg-n-grog-pie.md)
 * [Ice Cream base](./food/desserts/ice-cream/ice-cream-base.md)
 * [Levain's Chocolate Chip Walnut Cookies](./food/desserts/cookies/levain-chocolate-chip-walnut-cookies.md)
