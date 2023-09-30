@@ -17,6 +17,7 @@ It's recipes. You know, to cook with.
 * [Challah (from _Joy of Cooking_)](./food/bread/joy-of-cooking-challah.md)
 * [Challah](./food/bread/challah.md)
 * [Cornbread (from _Jubilee_)](./food/bread/jubilee-cornbread.md)
+* [Croissants](./food/bread/croissants.md)
 * [Jim Lahey's No-Knead Bread](./food/bread/jim-lahey-no-knead-bread.md)
 * [Mushroom and Gruyère stuffed baguette](./food/bread/mushroom-gruyere-stuffed-baguette.md)
 * [Onion Bacon Tart](./food/bread/onion-bacon-tart.md)
