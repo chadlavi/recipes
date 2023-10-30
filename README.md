@@ -137,6 +137,7 @@ It's recipes. You know, to cook with.
 * [Garlic Roasted Chicken](./food/mains/garlic-roasted-chicken.md)
 * [Gołąbki](./food/mains/golabki.md)
 * [Green goddess chicken](./food/mains/green-goddess-chicken.md)
+* [Ground beef chili](./food/mains/ground-beef-chili.md)
 * [Hungarian Goulash](./food/mains/hungarian-goulash.md)
 * [Instant Pot Lamb Ragu](./food/mains/instant-pot-lamb-ragu.md)
 * [Instant pot black eyed peas](./food/mains/instant-pot-black-eyed-peas.md)
