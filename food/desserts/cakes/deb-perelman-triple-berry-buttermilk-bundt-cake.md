@@ -3,21 +3,23 @@
 ## Ingredients
 
 Cake:
-2 1/2 cups (355 grams) plus 2 tablespoons (20 grams) all-purpose flour
-2 teaspoons (10 grams) baking powder
-1 teaspoon fine sea salt or table salt
-1 cup (8 ounces or 225 grams) unsalted butter, at room temperature
-1 3/4 cups (340 grams) granulated sugar
-Zest of 1 lemon
-3 large eggs, at room temperature
-1/2 teaspoon vanilla extract
-3/4 cup (175 ml) buttermilk
-3 cups (350 to 450 grams) mixed berries
+
+- 2 1/2 cups (355 grams) plus 2 tablespoons (20 grams) all-purpose flour
+- 2 teaspoons (10 grams) baking powder
+- 1 teaspoon fine sea salt or table salt
+- 1 cup (8 ounces or 225 grams) unsalted butter, at room temperature
+- 1 3/4 cups (340 grams) granulated sugar
+- Zest of 1 lemon
+- 3 large eggs, at room temperature
+- 1/2 teaspoon vanilla extract
+- 3/4 cup (175 ml) buttermilk
+- 3 cups (350 to 450 grams) mixed berries
 
 Glaze:
-2 cups (240 grams) powdered or confections’ sugar
-Juice of 1 lemon
-1 tablespoon (15 grams) unsalted butter, very, very soft
+
+- 2 cups (240 grams) powdered or confections’ sugar
+- Juice of 1 lemon
+- 1 tablespoon (15 grams) unsalted butter, very, very soft
 
 ## Directions
 
