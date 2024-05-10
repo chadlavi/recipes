@@ -92,6 +92,7 @@ It's recipes. You know, to cook with.
 * [Plum torte](./food/desserts/cakes/plum-torte.md)
 * [Ricotta Chocolate Chip Pound Cake](./food/desserts/dessert-breads/chocolate-chip-pound-cake.md)
 * [Rum balls](./food/desserts/rum-balls.md)
+* [Rum cake](./food/desserts/cakes/rum-cake.md)
 * [Salted Brown Butter Rice Crispies treats](./food/desserts/salted-brown-butter-rice-crispies-treat.md)
 * [Sandi Gant's Sweet Potato Pie](./food/desserts/pies/sandi-gant-sweet-potato-pie.md)
 * [Sandi's Chocolate Delight](./food/desserts/puddings/chocolate-delight.md)
