@@ -196,6 +196,7 @@ It's recipes. You know, to cook with.
 * [Creamy Tomato Parmesan Linguine](./food/pasta/creamy-tomato-parmesan-linguine.md)
 * [Gnocchi](./food/pasta/gnocchi.md)
 * [Kale pesto](./food/pasta/kale-pesto.md)
+* [Lasagna (noodles)](./food/pasta/lasagna.md)
 * [Linguine Broccoli Shrimp](./food/pasta/linguine-broccoli-shrimp.md)
 * [Maureen Sullivan's Pasta Dough](./food/pasta/maureen-sullivan-pasta-dough.md)
 * [Miso cacio e pepe](./food/pasta/miso-cacio-e-pepe.md)
