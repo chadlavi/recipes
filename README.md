@@ -303,6 +303,7 @@ It's recipes. You know, to cook with.
 * [In-N-Out Animal Style Onions](./food/condiments-sauces-toppings/in-n-out-onions.md)
 * [Manitoba honey dill sauce](./food/condiments-sauces-toppings/monitoba-honey-dill-sauce.md)
 * [Sandi Gant's adjusted BBQ sauce](./food/condiments-sauces-toppings/adjusted-bbq-sauce.md)
+* [Simple tomato sauce](./food/condiments-sauces-toppings/simple-tomato-sauce.md)
 * [Turmeric-tahini dressing](./food/condiments-sauces-toppings/turmeric-tahini-dressing.md)
 * [Two-minute mayonnaise](./food/condiments-sauces-toppings/two-minute-mayo.md)
 
