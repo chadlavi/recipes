@@ -180,6 +180,7 @@ It's recipes. You know, to cook with.
 * [Tacos de barbacoa de borrego](./food/mains/barbacoa-tacos.md)
 * [Taiwanese braised pork rice (滷肉飯)](./food/mains/taiwanese-braised-pork.md)
 * [Thai red curry](./food/mains/thai-red-curry.md)
+* [The Big Lasagna](./food/mains/big-lasagna.md)
 * [Tourtière, Bedard family](./food/mains/bedard-tourtiere.md)
 * [Tourtière](./food/mains/tourtiere.md)
 * [Ultra-Crispy Slow-Roasted Pork Shoulder](./food/mains/crispy-slow-roasted-pork-shoulder.md)
