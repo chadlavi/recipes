@@ -23,7 +23,7 @@
 
 ### Assembled lasagna
 
-- 4.5 cups Simple Tomato Sauce or 32 ounces store-bought marinara sauce (preferably without added sugar)
+- 4.5 cups [Simple Tomato Sauce](../condiments-sauces-toppings/simple-tomato-sauce.md) or 32 ounces store-bought marinara sauce (preferably without added sugar)
 - Fine sea salt
 - 1 recipe Homemade Lasagna Sheets, 16 fresh store-bought lasagna sheets, 2 (9-ounce) packages dried lasagna noodles (preferably without curly edges) or no-boil noodles (boiled until al dente)
 - 1.5 ounces grated Parmesan, Asiago or Grana Padano (1/2 cup)
