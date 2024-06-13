@@ -18,6 +18,11 @@ end="🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥑🍆🥔�
 
 _Inspired by <https://github.com/shaniber/recipes>_"
 
+# When a link looks like "* [The Someting Something](...)", sort it as though the word "The" weren't there
+sortLinksWithoutLeadingThe() {
+  cat | sed -e 's/\[The \(.*\)]/[\1, The]/gi' | sort | sed -e 's/\[\(.*\), The\]/[The \1]/gi'
+}
+
 getMarkdownLinks() {
   for file in $(find . -iname "*.md" -not -name "README.md" -not -iname "*template*"); do
     echo "* [$(cat "$file" | head -n 1 | sed 's/^# //')]("$file")"
@@ -41,10 +46,10 @@ filter() {
 }
 
 markdownLinks="$(getMarkdownLinks)"
-holidayLinks="$(getHolidayLinks | sort)"
-pressureCookerLinks="$(getPressureCookerLinks | sort)"
-drinkLinks="$(filter "$markdownLinks" drink | sort)"
-foodLinks="$(filter "$markdownLinks" food | sort)"
+holidayLinks="$(getHolidayLinks)"
+pressureCookerLinks="$(getPressureCookerLinks | sortLinksWithoutLeadingThe)"
+drinkLinks="$(filter "$markdownLinks" drink | sortLinksWithoutLeadingThe)"
+foodLinks="$(filter "$markdownLinks" food | sortLinksWithoutLeadingThe)"
 
 echo "$start
 
