@@ -15,7 +15,7 @@
 ### Béchamel
 
 - 1/2 cup unsalted butter (1 stick)
-- 1/2 cup all-purpose flour
+- ½ cup all-purpose flour
 - 4 cups whole milk
 - Fine sea salt
 - Freshly ground black pepper
@@ -53,4 +53,3 @@
 ## Reference
 
 - <https://cooking.nytimes.com/recipes/1021031-the-big-lasagna>
- 

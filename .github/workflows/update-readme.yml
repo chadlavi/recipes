@@ -1,34 +1,35 @@
 name: Update README.md when files change
 
-on: 
+on:
   push:
     branches:
       - master
-    paths-ignore: 
-      - 'README.md'
-      - 'index.md'
-      - '.github/*'
-      - '_layouts/*'
-      - 'assets/*'
-      - '_utils/*'
+    paths-ignore:
+      - "README.md"
+      - "index.md"
+      - ".github/*"
+      - "_layouts/*"
+      - "assets/*"
+      - "_utils/*"
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
-    - name: Update README.md
-      run: ./_utils/indexer.sh > README.md
-    - name: Commit files
-      run: |
-        git config --global user.email "chad@chadlavimoniere.com"
-        git config --global user.name "Chad Lavimoniere (CI)"
+      - uses: actions/checkout@v1
+      - name: Update README.md
+        run: |
+          ./_utils/replace-fractions.sh
+          ./_utils/indexer.sh > README.md
+      - name: Commit files
+        run: |
+          git config --global user.email "chad@chadlavimoniere.com"
+          git config --global user.name "Chad Lavimoniere (CI)"
 
-        if [ "$(git status --porcelain)" ]; then
-          git commit -m "Update README" -a
-        fi
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+          if [ "$(git status --porcelain)" ]; then
+            git commit -m "Update README" -a
+          fi
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
