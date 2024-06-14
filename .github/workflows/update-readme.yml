@@ -27,7 +27,7 @@ jobs:
           git config --global user.name "Chad Lavimoniere (CI)"
 
           if [ "$(git status --porcelain)" ]; then
-            git commit -m "Update README" -a
+            git commit -am "$(echo "Update $(git status --porcelain | sed 's/^.*\///g' | tr '\n' ' ')")"
           fi
       - name: Push changes
         uses: ad-m/github-push-action@master
