@@ -17,10 +17,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v1
+      - name: Auto-fix fractions
+        run: ./_utils/replace-fractions-ci.sh
       - name: Update README.md
-        run: |
-          ./_utils/replace-fractions.sh
-          ./_utils/indexer.sh > README.md
+        run: ./_utils/indexer.sh > README.md
       - name: Commit files
         run: |
           git config --global user.email "chad@chadlavimoniere.com"
