@@ -15,7 +15,7 @@
 ### Béchamel
 
 - 1/2 cup unsalted butter (1 stick)
-- ½ cup all-purpose flour
+- 1/2 cup all-purpose flour
 - 4 cups whole milk
 - Fine sea salt
 - Freshly ground black pepper
