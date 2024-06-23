@@ -101,6 +101,7 @@ It's recipes. You know, to cook with.
 * [Slab pie](./food/desserts/pies/slab-pie.md)
 * [Sohla El-Wally's black & white swirl pound cake](./food/desserts/cakes/black-white-swirl-pound-cake.md)
 * [Sohla El-Wally's go-to vanilla pound cake](./food/desserts/cakes/vanilla-pound-cake.md)
+* [Strawberry rhubarb pie](./food/desserts/pies/strawberry-rhubarb-pie.md)
 * [Strawberry summer sheet cake](./food/desserts/cakes/deb-perelman-strawberry-cake.md)
 * [Tahini chocolate chip cookies](./food/desserts/cookies/tahini-chocolate-chip-cookies.md)
 * [Tarte Tatin](./food/desserts/pies/tarte-tatin.md)
