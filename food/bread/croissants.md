@@ -4,7 +4,7 @@
 
 ## Ingredients
 
-### Détrampe ingredients
+### Détrempe ingredients
 
 - 4 2/3 cups (605g) all-purpose or bread flour (11-13% preferred), plus more for dusting
 - 1/3 cup (66g) granulated sugar
