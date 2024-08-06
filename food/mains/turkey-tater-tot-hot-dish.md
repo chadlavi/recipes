@@ -1,4 +1,4 @@
-# Tim Walsh's Turkey Tater Tot Hot Dish
+# Tim Walz's Turkey Tater Tot Hot Dish
  
 Serves 4 to 6.
 
