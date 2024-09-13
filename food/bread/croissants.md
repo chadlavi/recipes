@@ -1,6 +1,6 @@
 # Croissants
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vpwY3nmLLaA?si=4fy3yHESFsYCbURH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/vpwY3nmLLaA?si=4fy3yHESFsYCbURH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Ingredients
 
