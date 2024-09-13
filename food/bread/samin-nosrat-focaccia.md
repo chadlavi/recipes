@@ -1,6 +1,6 @@
 # Focaccia (Samin Nosrat's Ligurian recipe)
 
-<iframe style="max-width:100%;" width="560" height="315" src="https://www.youtube.com/embed/6pHsAgDgRHE?si=ZEmdwb6uY-CfTX-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe style="max-width:100%;height:auto;" width="560" height="315" src="https://www.youtube.com/embed/6pHsAgDgRHE?si=ZEmdwb6uY-CfTX-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Ingredients
 
