@@ -17,12 +17,14 @@ footer {
 }
 
 @media (prefers-color-scheme: dark) {
-  body, :root {
-    color: #BBBBBB;
+  body,
+  :root {
+    color: #bbbbbb;
     background-color: #141617;
   }
   .markdown-body {
-    h1, h2 {
+    h1,
+    h2 {
       border-bottom-color: #282828;
     }
   }
@@ -32,7 +34,14 @@ footer {
 }
 
 @media print {
-  footer, *.no-print {
+  footer,
+  *.no-print {
     display: none;
   }
+}
+
+iframe[src*="youtube"] {
+  max-width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
 }
