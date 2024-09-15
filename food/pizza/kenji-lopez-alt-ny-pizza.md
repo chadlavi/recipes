@@ -1,4 +1,4 @@
-# NY-Style pizza (Kenji Lopez-Alt's recipe)
+# New York style pizza (Kenji Lopez-Alt's recipe)
 
 ## Ingredients
 
