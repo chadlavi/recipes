@@ -213,6 +213,7 @@ It's recipes. You know, to cook with.
 * [Detroit Style Pizza](./food/pizza/kenji-lopez-alt-detroit-style-pizza.md)
 * [Foolproof Pan Pizza](./food/pizza/foolproof-pan-pizza.md)
 * [Frozen Wegman's pizza dough grandma pie](./food/pizza/frozen-wegmans-pizza-dough.md)
+* [NY-Style pizza (Kenji Lopez-Alt's recipe)](./food/pizza/kenji-lopez-alt-ny-pizza.md)
 * [Neapolitan pizza](./food/pizza/neapolitan-pizza.md)
 * [New York style pizza](./food/pizza/ny-style.md)
 * [Pizza, Updated](./food/pizza/deb-perelman-pizza.md)
