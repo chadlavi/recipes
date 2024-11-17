@@ -209,6 +209,7 @@ It's recipes. You know, to cook with.
 * [One-Pan Linguine](./food/pasta/one-pan-linguine.md)
 * [Rao's Meatballs](./food/pasta/raos-meatballs.md)
 * [Semolina pasta dough](./food/pasta/semolina-pasta-dough.md)
+* [Tomato sauce (Marcella Hazan)](./food/pasta/marcella-hazan-tomato-sauce.md)
 
 ### Pizza
 
