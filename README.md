@@ -207,6 +207,7 @@ It's recipes. You know, to cook with.
 * [Maureen Sullivan's Pasta Dough](./food/pasta/maureen-sullivan-pasta-dough.md)
 * [Miso cacio e pepe](./food/pasta/miso-cacio-e-pepe.md)
 * [One-Pan Linguine](./food/pasta/one-pan-linguine.md)
+* [Pasta dough (Marcella Hazan)](./food/pasta/marcella-hazan-pasta.md)
 * [Rao's Meatballs](./food/pasta/raos-meatballs.md)
 * [Semolina pasta dough](./food/pasta/semolina-pasta-dough.md)
 * [Tomato sauce (Marcella Hazan)](./food/pasta/marcella-hazan-tomato-sauce.md)
