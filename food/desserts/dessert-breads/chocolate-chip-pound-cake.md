@@ -1,6 +1,7 @@
 # Ricotta Chocolate Chip Pound Cake
 
-Note: this took more like 80+ minutes to reach 205°F internally.
+> [!NOTE]
+> this took more like 80+ minutes to reach 205°F internally.
 
 ## Ingredients
 
