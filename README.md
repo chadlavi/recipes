@@ -80,6 +80,7 @@ It's recipes. You know, to cook with.
 * [Eggnog Cake](./food/desserts/cakes/eggnog-cake.md)
 * [Fig Newtons](./food/desserts/cookies/fig-newtons.md)
 * [Four and Twenty Blackbirds' Egg n' Grogg pie](./food/desserts/pies/egg-n-grog-pie.md)
+* [Gooey butter cake](./food/desserts/cakes/gooey-butter-cake.md)
 * [Ice Cream base](./food/desserts/ice-cream/ice-cream-base.md)
 * [Levain's Chocolate Chip Walnut Cookies](./food/desserts/cookies/levain-chocolate-chip-walnut-cookies.md)
 * [Milk and honey pie](./food/desserts/pies/milk-and-honey-pie.md)
