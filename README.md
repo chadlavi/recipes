@@ -6,7 +6,7 @@ It's recipes. You know, to cook with.
 
 ## Categories
 
-[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing) &middot; [Holiday](#holiday) &middot; [Pressure cooker](#pressure-cooker)
+[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing) &middot; [Holiday](#holiday) &middot; [Pressure cooker](#pressure-cooker) &middot; [Japanese](#japanese)
 
 [Rice cooker reference](./food/rice/zojirushi-reference.md)
 
@@ -317,7 +317,7 @@ It's recipes. You know, to cook with.
 * [Garlic serrano coconut crisp](./food/condiments-sauces-toppings/garlic-serrano-coconut-crisp.md)
 * [In-N-Out Animal Style Onions](./food/condiments-sauces-toppings/in-n-out-onions.md)
 * [Kewpie mayo](./food/condiments-sauces-toppings/kewpie-mayo.md)
-* [Manitoba honey dill sauce](./food/condiments-sauces-toppings/monitoba-honey-dill-sauce.md)
+* [Manitoba honey dill sauce](./food/condiments-sauces-toppings/manitoba-honey-dill-sauce.md)
 * [Sandi Gant's adjusted BBQ sauce](./food/condiments-sauces-toppings/adjusted-bbq-sauce.md)
 * [Simple tomato sauce](./food/condiments-sauces-toppings/simple-tomato-sauce.md)
 * [Turmeric-tahini dressing](./food/condiments-sauces-toppings/turmeric-tahini-dressing.md)
@@ -445,6 +445,21 @@ It's recipes. You know, to cook with.
 * [Pressure cooker Korean braised oxtail (kkorijjim)](./food/mains/korean-pressure-cooker-beef-short-ribs.md)
 * [Pressure cooker cabbage with pork](./food/mains/cabbage-pork.md)
 * [Urvashi Pitre’s Instant Pot Butter Chicken](./food/mains/instant-pot-butter-chicken.md)
+
+### Japanese
+
+* [Castella Cake](./food/desserts/cakes/castella-cake.md)
+* [Kabocha no Nimono (Simmered Pumpkin)](./food/mains/nimono.md)
+* [Kewpie mayo](./food/condiments-sauces-toppings/kewpie-mayo.md)
+* [Mille Feuille Nabe (ミルフィーユ鍋)](./food/mains/mille-feuille-nabe.md)
+* [Pickled Daikon](./food/cured-pickled/pickled-daikon.md)
+* [Sohla El-Wally's cheesy corn mochi cake](./food/bread/cheesy-corn-mochi-cake.md)
+* [Soy glazed salmon hand rolls](./food/mains/soy-glazed-salmon.md)
+* [Spicy silken tofu](./food/mains/spicy-silken-tofu.md)
+* [Toki Highball](./drink/cocktails/toki-highball.md)
+* [牛丼 (gyūdon)](./food/mains/gyudon.md)
+* [茶碗蒸し / Chawanmushi (Microwave)](./food/breakfast/chawanmushi-microwave.md)
+* [親子丼 (Oyakodon)](./food/mains/oyakodon.md)
 
 🍇🍈🍉🍊🍋🍌🍍🍎🍏🍐🍑🍒🍓🥝🍅🥑🍆🥔🥕🌽🌶🥒🍄🥜🌰🍞🥐🥖🥞🧀🍖🍗🥓🍔🍟🍕🌭🌮🌯🍳🍲🥗🍿🍱🍘🍙🍚🍛🍜🍝🍠🍢🍣🍤🍥🍡🍦🍧🍨🍩🍪🎂🍰🍫🍬🍭🍮🍯🍼🥛☕🍵🍶🍾🍷🍸🍹🍺🍻🥂🥃🍽🍴🥄
 
