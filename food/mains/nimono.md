@@ -1,13 +1,15 @@
 # Kabocha no Nimono (Simmered Pumpkin)
 
+Japanese comfort food
+
 ## Ingredients
 
-* 3 cups (720ml) Dashi
-* 2 1/2lb Kabocha (pumpkin)
-* 2 Tbsp sugar
-* 1 1/2 Tbsp soy sauce
-* 1/4-1/2 tsp salt
-* 1 Tbsp Sake
+- 3 cups (720ml) Dashi
+- 2 1/2lb Kabocha (pumpkin)
+- 2 Tbsp sugar
+- 1 1/2 Tbsp soy sauce
+- 1/4-1/2 tsp salt
+- 1 Tbsp Sake
 
 ## Directions
 
@@ -18,4 +20,4 @@
 
 ## Reference
 
-* <https://www.japanesecooking101.com/kabocha-no-nimono-simmered-pumpkin-recipe/>
+- <https://www.japanesecooking101.com/kabocha-no-nimono-simmered-pumpkin-recipe/>

@@ -1,5 +1,7 @@
 # Soy glazed salmon hand rolls
 
+Semi-Japanese simple weeknight meal.
+
 ## Ingredients
 
 - 3 tablespoons neutral oil, such as safflower or canola

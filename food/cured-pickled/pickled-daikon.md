@@ -1,13 +1,15 @@
 # Pickled Daikon
 
+Simple Japanese pickles
+
 ## Ingredients
 
-* 1 lb daikon
-* 1 dried red chili pepper
-* 2 Tbsp rice vinegar
-* 1 tsp sake (optional)
-* 1 Tbsp kosher/sea salt (Use half for table salt)
-* 1/3 cup sugar (About 5 Tbsp)
+- 1 lb daikon
+- 1 dried red chili pepper
+- 2 Tbsp rice vinegar
+- 1 tsp sake (optional)
+- 1 Tbsp kosher/sea salt (Use half for table salt)
+- 1/3 cup sugar (About 5 Tbsp)
 
 ## Directions
 
@@ -20,4 +22,4 @@
 
 ## Reference
 
-* <https://www.justonecookbook.com/pickled-daikon/>
+- <https://www.justonecookbook.com/pickled-daikon/>

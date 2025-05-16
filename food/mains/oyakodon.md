@@ -1,6 +1,6 @@
 # 親子丼 (Oyakodon)
 
-Makes 4 servings
+Japanese comfort food. Makes 4 servings.
 
 ## Ingredients
 

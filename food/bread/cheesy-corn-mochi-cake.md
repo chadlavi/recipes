@@ -1,5 +1,7 @@
 # Sohla El-Wally's cheesy corn mochi cake
 
+Fun and funky semi-Japanese dessert (but savory?)
+
 ## Ingredients
 
 - 1/4 cups (57 grams) unsalted butter, melted and cooled, plus more for the pan

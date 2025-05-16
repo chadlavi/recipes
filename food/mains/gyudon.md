@@ -1,16 +1,18 @@
 # 牛丼 (gyūdon)
 
+Japanese comfort food
+
 ## Ingredients
 
-* 1 onion
-* 2 green onions/scallions
-* 3/4 lb thinly sliced beef (chuck or rib eye) (12 oz or 340 g)
-* 1 Tbsp neutral-flavored oil (vegetable, canola, etc)
-* 3 large eggs (beaten, optional)
-* 2 tsp sugar
-* 2 Tbsp sake
-* 2 Tbsp mirin
-* 1 Tbsp soy sauce
+- 1 onion
+- 2 green onions/scallions
+- 3/4 lb thinly sliced beef (chuck or rib eye) (12 oz or 340 g)
+- 1 Tbsp neutral-flavored oil (vegetable, canola, etc)
+- 3 large eggs (beaten, optional)
+- 2 tsp sugar
+- 2 Tbsp sake
+- 2 Tbsp mirin
+- 1 Tbsp soy sauce
 
 ## Directions
 
@@ -30,4 +32,4 @@
 
 ## Reference
 
-* <https://www.justonecookbook.com/gyudon/>
+- <https://www.justonecookbook.com/gyudon/>

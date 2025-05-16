@@ -1,5 +1,7 @@
 # Spicy silken tofu
 
+Simple and satisfying Japanese comfort food
+
 ## Ingredients
 
 - 1/4 cup soy sauce

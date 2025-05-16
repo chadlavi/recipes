@@ -1,5 +1,7 @@
 # Kewpie mayo
 
+Simple recipe for Japanese mayo
+
 ## Ingredients
 
 - 2 tablespoons (30ml) rice vinegar
@@ -23,4 +25,3 @@
 
 - <https://www.seriouseats.com/sauced-japanese-style-kewpie-mayonnaise-recipe>
 - <http://archive.today/wcDUN>
- 

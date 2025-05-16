@@ -8,7 +8,7 @@ It's recipes. You know, to cook with.
 
 ## Categories
 
-[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing) &middot; [Holiday](#holiday) &middot; [Pressure cooker](#pressure-cooker)
+[Breads](#breads) &middot; [Breakfasts](#breakfasts) &middot; [Desserts](#desserts) &middot; [Main courses](#main-courses) &middot; [Pasta](#pasta) &middot; [Pizza](#pizza) &middot; [Salads](#salads) &middot; [Sandwiches](#sandwiches) &middot; [Sides and dips](#sides-and-dips) &middot; [Snacks](#snacks) &middot; [Soup](#soup) &middot; [Cured and pickled](#cured-and-pickled) &middot; [Condiments, sauces and toppings](#condiments-sauces-and-toppings) &middot; [Cocktails](#cocktails) &middot; [Coffee and tea](#coffee-and-tea) &middot; [Brewing](#brewing) &middot; [Holiday](#holiday) &middot; [Pressure cooker](#pressure-cooker) &middot; [Japanese](#japanese)
 
 [Rice cooker reference](./food/rice/zojirushi-reference.md)
 
@@ -41,6 +41,12 @@ getPressureCookerLinks() {
   done
 }
 
+getJapaneseLinks() {
+  for file in $(find . -name '*.md' -not -name "README.md" -type f -exec grep -li 'japanese' {} +); do
+    echo "* [$(cat "$file" | head -n 1 | sed 's/^# //')]("$file")"
+  done
+}
+
 filter() {
   echo "$1" | grep -E "$2"
 }
@@ -48,6 +54,7 @@ filter() {
 markdownLinks="$(getMarkdownLinks)"
 holidayLinks="$(getHolidayLinks)"
 pressureCookerLinks="$(getPressureCookerLinks | sortLinksWithoutLeadingThe)"
+japaneseLinks="$(getJapaneseLinks | sortLinksWithoutLeadingThe)"
 drinkLinks="$(filter "$markdownLinks" drink | sortLinksWithoutLeadingThe)"
 foodLinks="$(filter "$markdownLinks" food | sortLinksWithoutLeadingThe)"
 
@@ -124,5 +131,9 @@ $holidayLinks
 ### Pressure cooker
 
 $pressureCookerLinks
+
+### Japanese
+
+$japaneseLinks
 
 $end"

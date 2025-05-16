@@ -1,14 +1,16 @@
 # Castella Cake
 
+Popular Japanese dessert
+
 ## Ingredients
 
-* 6 large eggs, at room temperature (very important!)
-* 1 cup (218 g) sugar
-* 1 cup + 2 1/2 Tbsp (200 g) bread flour
-* 5 Tbsp. honey
-* 2 1/2 Tbsp. warm water
-* 1 Tbsp. honey
-* 1/2 Tbsp. warm water
+- 6 large eggs, at room temperature (very important!)
+- 1 cup (218 g) sugar
+- 1 cup + 2 1/2 Tbsp (200 g) bread flour
+- 5 Tbsp. honey
+- 2 1/2 Tbsp. warm water
+- 1 Tbsp. honey
+- 1/2 Tbsp. warm water
 
 ## Directions
 

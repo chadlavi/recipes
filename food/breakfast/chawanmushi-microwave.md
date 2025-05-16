@@ -1,6 +1,6 @@
 # 茶碗蒸し / Chawanmushi (Microwave)
 
-Dave Chang's recipe
+Dave Chang's recipe for a Japanese comfort food
 
 ## Ingredients
 
