@@ -21,7 +21,7 @@
 2. On top of the rice, layer the diced chicken thighs, soy sauce, white vinegar, minced garlic, sliced onion, brown sugar, black pepper, and bay leaves.
 3. Gently stir the top layer to distribute the seasonings and ensure the chicken is coated without disturbing the rice layer too much.
 4. Turn on the rice cooker and cook as you normally would for rice. The rice will absorb all the flavors as it cooks alongside the chicken.
-5. Once the rice cooker switches to the “keep warm” setting (if your rice cooker does not have that, just let it rest for an additional 10 minutes with the lid on), let it rest for 10 minutes.
+5. Once the rice cooker switches to the "keep warm" setting (if your rice cooker does not have that, just let it rest for an additional 10 minutes with the lid on), let it rest for 10 minutes.
 6. Remove the bay leaves, fluff the rice, and serve warm. Garnish with chopped green onions before serving
 
 ## References

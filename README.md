@@ -172,6 +172,7 @@ It's recipes. You know, to cook with.
 * [Pressure cooker cabbage with pork](./food/mains/cabbage-pork.md)
 * [Red Wine Braised Beef Short Ribs](./food/mains/red-wine-braised-short-ribs.md)
 * [Rice Cooker Miso Clay Pot Chicken](./food/mains/rice-cooker-miso-clay-pot-chicken.md)
+* [Rice cooker adobo](./food/mains/rice-cooker-adobo.md)
 * [Rice cooker lentils](./food/mains/rice-cooker-lentils.md)
 * [Roast Duck](./food/mains/roast-duck.md)
 * [Roast chicken with schmaltzy cabbage](./food/mains/roast-chicken-schmaltzy-cabbage.md)
