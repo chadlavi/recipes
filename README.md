@@ -59,6 +59,7 @@ It's recipes. You know, to cook with.
 * [Apple bread](./food/desserts/cakes/apple-bread.md)
 * [Banana bread (Mark Bittman's recipe)](./food/desserts/dessert-breads/mark-bittman-banana-bread.md)
 * [Banana bread](./food/desserts/dessert-breads/banana-bread.md)
+* [Basque cheesecake bars](./food/desserts/basque-cheesecake-bars.md)
 * [Basque cheesecake](./food/desserts/basque-cheesecake.md)
 * [Big Berry Pie](./food/desserts/pies/big-berry-pie.md)
 * [Blueberry & Banana Bread](./food/desserts/dessert-breads/blueberry-banana-bread.md)
