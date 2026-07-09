@@ -189,6 +189,7 @@ It's recipes. You know, to cook with.
 * [Spatchcock Chicken over New Potatoes](./food/mains/spatchcock-chicken-new-potatoes.md)
 * [Spicy Whole Roasted Cauliflower](./food/mains/spicy-whole-roasted-cauliflower.md)
 * [Spicy silken tofu](./food/mains/spicy-silken-tofu.md)
+* [Sticky miso salmon bowl](./food/mains/miso-salmon.md)
 * [Stir-Fried Farro With Garlicky Kale](./food/mains/stir-fried-farro-with-garlicky-kale.md)
 * [Tacos de barbacoa de borrego](./food/mains/barbacoa-tacos.md)
 * [Taiwanese braised pork rice (滷肉飯)](./food/mains/taiwanese-braised-pork.md)
