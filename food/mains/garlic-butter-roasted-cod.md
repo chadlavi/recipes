@@ -5,12 +5,12 @@
 - 5 tablespoons unsalted butter
 - 7 garlic cloves, minced or finely grated
 - 1 cup cherry tomatoes, halved
-- ⅓ cup white wine
+- 1/3 cup white wine
 - Finely grated zest of 1 lime
-- ½ teaspoon No-Salt Cajun Seasoning (page 37) or store-bought
-- ½ teaspoon freshly ground black pepper, plus more as needed
-- ½ teaspoon garlic powder
-- ½ teaspoon crushed red pepper flakes
+- 1/2 teaspoon No-Salt Cajun Seasoning (page 37) or store-bought
+- 1/2 teaspoon freshly ground black pepper, plus more as needed
+- 1/2 teaspoon garlic powder
+- 1/2 teaspoon crushed red pepper flakes
 - 2 tablespoons chopped fresh cilantro, plus more for serving
 - 2 tablespoons chopped fresh basil, plus more for serving
 - Kosher salt
