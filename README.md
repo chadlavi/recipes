@@ -280,6 +280,7 @@ It's recipes. You know, to cook with.
 * [Potato celery soup](./food/soup/potato-celery-soup.md)
 * [Potato leek soup](./food/soup/potato-leek-soup.md)
 * [Roasted chicken soup](./food/soup/roasted-chicken-soup.md)
+* [Spring Chicken Miso Soup](./food/soup/spring-chicken-miso-soup.md)
 * [Tuscan Farro Soup](./food/soup/tuscan-farro-soup.md)
 
 ### Cured and pickled
