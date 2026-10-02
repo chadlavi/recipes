@@ -166,6 +166,7 @@ It's recipes. You know, to cook with.
 * [Mille Feuille Nabe (ミルフィーユ鍋)](./food/mains/mille-feuille-nabe.md)
 * [Pad See Ew](./food/mains/pad-see-ew.md)
 * [Pan-Roasted Chicken Thighs](./food/mains/pan-roasted-chicken-thighs.md)
+* [Pesto White Fish With Greens and Beans](./food/mains/pesto-white-fish-with-greens-and-beans.md)
 * [Pollo e fagioli all’aglio con cavolo nero (Garlicky chicken and beans with kale)](./food/mains/garlicky-chicken-beans-kale.md)
 * [Portuguese Baked Eggs](./food/mains/portuguese-baked-eggs.md)
 * [Pressure Cooker Koh (Vietnamese Beef Stew)](./food/mains/pressure-cooker-koh-vietnamese-beef-stew.md)
