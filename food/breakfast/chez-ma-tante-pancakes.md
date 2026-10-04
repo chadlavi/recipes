@@ -4,10 +4,10 @@
 
 - 1 large egg
 - 1 egg yolk
-- 2 ½ tablespoons baking powder
+- 2 1/2 tablespoons baking powder
 - 2 tablespoons granulated sugar
 - 1 teaspoon kosher salt
-- 1 ¼ cups whole milk
+- 1 1/4 cups whole milk
 - 1 cup all-purpose flour
 - 1 cup plus 2 tablespoons clarified butter (or store-bought), melted
 - Salted butter, for serving (optional)
@@ -25,11 +25,11 @@ combine. Add the remaining milk and flour plus 2 tablespoons
 clarified butter and stir briefly just until batter comes together
 but is still somewhat lumpy. 
 2. Heat a large 12-inch cast-iron skillet or griddle over medium-
-high for at least 5 minutes. Pour about ¼ cup clarified butter
+high for at least 5 minutes. Pour about 1/4 cup clarified butter
 into the pan. When the surface of the clarified butter starts to
-shimmer, ladle about ⅓ cup of the batter into the skillet for
+shimmer, ladle about 1/3 cup of the batter into the skillet for
 each pancake, leaving a couple of inches between each pancake.
-Add more clarified butter as pancakes cook to keep about ⅛
+Add more clarified butter as pancakes cook to keep about 1/8
 inch of fat in the bottom of the pan at all times.
 3. Cook until the top of the pancake starts to bubble and edges
 turn browned and crisp, 2 to 3 minutes. Use a spatula to flip

@@ -45,6 +45,7 @@ It's recipes. You know, to cook with.
 * [Dutch Baby Pancake](./food/breakfast/dutch-baby-pancake.md)
 * [French toast casserole](./food/breakfast/french-toast-casserole.md)
 * [Hashbrowns](./food/breakfast/hashbrowns.md)
+* [Pancakes (Chez Ma Tante)](./food/breakfast/chez-ma-tante-pancakes.md)
 * [Sourdough Pancakes](./food/breakfast/sourdough-starter-pancakes.md)
 * [Sourdough ricotta pancakes](./food/breakfast/sourdough-ricotta-pancakes.md)
 * [Teresa Finney's Grandma's Chilaquiles](./food/breakfast/teresa-finney-chilaquiles.md)
